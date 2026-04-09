@@ -6,17 +6,11 @@
 # ============================================================
 
 import streamlit as st
-import faiss
-import pickle
 import numpy as np
 import os
 import json
-from sentence_transformers import SentenceTransformer
+import pickle
 from openai import OpenAI
-from dotenv import load_dotenv
-
-# --- Load Environment ---
-load_dotenv()
 
 # --- Page Configuration ---
 st.set_page_config(
@@ -56,49 +50,60 @@ st.markdown("""
         font-size: 12px;
         margin-top: 10px;
     }
-    .metric-card {
-        background-color: #f8f9fa;
-        padding: 15px;
-        border-radius: 8px;
-        text-align: center;
-    }
 </style>
 """, unsafe_allow_html=True)
 
 
-# --- Load Models and Data (cached for performance) ---
+# --- Load Models and Data ---
 @st.cache_resource
 def load_embedding_model():
+    from sentence_transformers import SentenceTransformer
     return SentenceTransformer('all-MiniLM-L6-v2')
 
 @st.cache_resource
-def load_faiss_index():
-    index = faiss.read_index('data/vectorstore/ghana_faiss.index')
+def load_knowledge_base():
+    """Load chunk metadata and build numpy search index."""
     with open('data/vectorstore/chunk_metadata.pkl', 'rb') as f:
         metadata = pickle.load(f)
-    return index, metadata
+    
+    # Re-embed all chunks on startup (avoids FAISS compatibility issues)
+    model = load_embedding_model()
+    texts = [m['text'] for m in metadata]
+    embeddings = model.encode(texts, show_progress_bar=False, batch_size=32)
+    # Normalise for cosine similarity
+    norms = np.linalg.norm(embeddings, axis=1, keepdims=True)
+    embeddings = embeddings / norms
+    
+    return metadata, embeddings
 
 @st.cache_resource
 def load_openai_client():
-    api_key = os.getenv("OPENAI_API_KEY")
+    # Try Streamlit secrets first, then environment variable
+    api_key = None
+    try:
+        api_key = st.secrets["OPENAI_API_KEY"]
+    except:
+        api_key = os.getenv("OPENAI_API_KEY")
+    
     if not api_key:
         return None
     return OpenAI(api_key=api_key)
 
 
-# --- RAG Functions ---
-def search_knowledge_base(query, embedding_model, index, metadata,
+# --- Search Function (numpy-based, no FAISS needed) ---
+def search_knowledge_base(query, embedding_model, metadata, embeddings,
                           top_k=5, domain_filter=None, body_filter=None):
     query_vector = embedding_model.encode([query])
-    faiss.normalize_L2(query_vector)
+    query_vector = query_vector / np.linalg.norm(query_vector)
     
-    search_k = top_k * 5 if (domain_filter or body_filter) else top_k
-    scores, indices = index.search(query_vector, min(search_k, index.ntotal))
+    # Compute cosine similarity
+    similarities = np.dot(embeddings, query_vector.T).flatten()
+    
+    # Get top results
+    top_indices = np.argsort(similarities)[::-1]
     
     results = []
-    for score, idx in zip(scores[0], indices[0]):
-        if idx == -1:
-            continue
+    for idx in top_indices:
         meta = metadata[idx]
         if domain_filter and meta['domain'] != domain_filter:
             continue
@@ -112,7 +117,7 @@ def search_knowledge_base(query, embedding_model, index, metadata,
             "doc_type": meta['doc_type'],
             "regulatory_body": meta['regulatory_body'],
             "text": meta['text'],
-            "similarity": float(score),
+            "similarity": float(similarities[idx]),
         })
         if len(results) >= top_k:
             break
@@ -138,235 +143,4 @@ RULES YOU MUST FOLLOW:
 """
 
 
-def ask_advisor(query, client, embedding_model, index, metadata,
-                top_k=5, domain_filter=None, body_filter=None):
-    
-    results = search_knowledge_base(
-        query, embedding_model, index, metadata,
-        top_k=top_k, domain_filter=domain_filter,
-        body_filter=body_filter
-    )
-    
-    if not results:
-        return {
-            "response": "I could not find relevant information in the "
-                       "Ghana financial regulatory documents to answer "
-                       "your question.",
-            "sources": [],
-        }
-    
-    context_parts = []
-    sources = []
-    for i, r in enumerate(results):
-        context_parts.append(
-            f"[Source {i+1}: {r['title']} — {r['regulatory_body']}]\n"
-            f"{r['text']}"
-        )
-        sources.append(r)
-    
-    context = "\n\n---\n\n".join(context_parts)
-    
-    user_prompt = f"""Based on the following context from Ghana's financial 
-regulatory documents, answer the user's question accurately and cite your sources.
-
-CONTEXT:
-{context}
-
-USER QUESTION: {query}
-
-Provide a clear, comprehensive answer based ONLY on the context above."""
-    
-    response = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": user_prompt}
-        ],
-        max_tokens=1000,
-        temperature=0.3,
-    )
-    
-    return {
-        "response": response.choices[0].message.content,
-        "sources": sources,
-        "tokens": response.usage.total_tokens,
-    }
-
-
-# --- Initialize ---
-embedding_model = load_embedding_model()
-index, chunk_metadata = load_faiss_index()
-client = load_openai_client()
-
-# --- Sidebar ---
-with st.sidebar:
-    st.markdown("### 🇬🇭 Ghana Financial Advisor")
-    st.markdown("---")
-    
-    st.markdown("#### Filter by Domain")
-    domain_options = ["All Domains"] + sorted(set(
-        m['domain'] for m in chunk_metadata))
-    selected_domain = st.selectbox(
-        "Knowledge Domain", domain_options, label_visibility="collapsed")
-    
-    st.markdown("#### Filter by Regulatory Body")
-    body_options = ["All Bodies"] + sorted(set(
-        m['regulatory_body'] for m in chunk_metadata))
-    selected_body = st.selectbox(
-        "Regulatory Body", body_options, label_visibility="collapsed")
-    
-    st.markdown("---")
-    
-    st.markdown("#### Example Questions")
-    example_questions = [
-        "How do I invest in Treasury bills?",
-        "What is the minimum capital for banks?",
-        "How does the pension system work?",
-        "What are the rules for mobile money?",
-        "What is the eCedi?",
-        "How do I file a financial complaint?",
-    ]
-    
-    for eq in example_questions:
-        if st.button(eq, key=eq, use_container_width=True):
-            st.session_state.pending_question = eq
-    
-    st.markdown("---")
-    st.markdown("#### About")
-    st.markdown(
-        "**RAG Financial Advisor Bot**\n\n"
-        "Built by Evans Ataaya\n"
-        "MTech Data Science\n\n"
-        "Knowledge base: 25 documents from "
-        "Bank of Ghana, SEC, NIC, NPRA, "
-        "Ministry of Finance\n\n"
-        "Model: GPT-4o-mini + FAISS\n"
-        "Embeddings: all-MiniLM-L6-v2"
-    )
-
-# --- Main Interface ---
-st.markdown('<p class="main-header">Ghana Financial Advisor Bot</p>',
-            unsafe_allow_html=True)
-st.markdown(
-    '<p class="sub-header">'
-    'AI-powered financial guidance grounded in Ghana\'s regulatory framework'
-    '</p>',
-    unsafe_allow_html=True
-)
-
-# Disclaimer banner
-st.markdown(
-    '<div class="disclaimer">'
-    '⚠️ <strong>Important:</strong> This tool provides information from '
-    'official Ghanaian regulatory documents for educational purposes only. '
-    'It does not constitute professional financial advice. Always consult '
-    'a licensed financial advisor for specific guidance.'
-    '</div>',
-    unsafe_allow_html=True
-)
-
-st.markdown("")
-
-# Check API key
-if not client:
-    st.error("OpenAI API key not found. Please add OPENAI_API_KEY to your .env file.")
-    st.stop()
-
-# Initialize chat history
-if "messages" not in st.session_state:
-    st.session_state.messages = []
-
-# Display chat history
-for message in st.session_state.messages:
-    with st.chat_message(message["role"]):
-        st.markdown(message["content"])
-        if "sources" in message and message["sources"]:
-            with st.expander("📄 View Sources"):
-                for src in message["sources"]:
-                    st.markdown(
-                        f'<div class="source-box">'
-                        f'<strong>{src["title"]}</strong><br>'
-                        f'{src["regulatory_body"]} | {src["domain"]}<br>'
-                        f'Similarity: {src["similarity"]:.4f}'
-                        f'</div>',
-                        unsafe_allow_html=True
-                    )
-
-# Handle pending question from sidebar
-if "pending_question" in st.session_state:
-    prompt = st.session_state.pending_question
-    del st.session_state.pending_question
-    
-    st.session_state.messages.append({"role": "user", "content": prompt})
-    with st.chat_message("user"):
-        st.markdown(prompt)
-    
-    with st.chat_message("assistant"):
-        with st.spinner("Searching Ghana financial documents..."):
-            domain_f = None if selected_domain == "All Domains" else selected_domain
-            body_f = None if selected_body == "All Bodies" else selected_body
-            
-            result = ask_advisor(
-                prompt, client, embedding_model, index,
-                chunk_metadata, domain_filter=domain_f,
-                body_filter=body_f
-            )
-        
-        st.markdown(result["response"])
-        
-        if result["sources"]:
-            with st.expander("📄 View Sources"):
-                for src in result["sources"]:
-                    st.markdown(
-                        f'<div class="source-box">'
-                        f'<strong>{src["title"]}</strong><br>'
-                        f'{src["regulatory_body"]} | {src["domain"]}<br>'
-                        f'Similarity: {src["similarity"]:.4f}'
-                        f'</div>',
-                        unsafe_allow_html=True
-                    )
-    
-    st.session_state.messages.append({
-        "role": "assistant",
-        "content": result["response"],
-        "sources": result["sources"]
-    })
-    st.rerun()
-
-# Chat input
-if prompt := st.chat_input("Ask about Ghana's financial regulations..."):
-    st.session_state.messages.append({"role": "user", "content": prompt})
-    with st.chat_message("user"):
-        st.markdown(prompt)
-    
-    with st.chat_message("assistant"):
-        with st.spinner("Searching Ghana financial documents..."):
-            domain_f = None if selected_domain == "All Domains" else selected_domain
-            body_f = None if selected_body == "All Bodies" else selected_body
-            
-            result = ask_advisor(
-                prompt, client, embedding_model, index,
-                chunk_metadata, domain_filter=domain_f,
-                body_filter=body_f
-            )
-        
-        st.markdown(result["response"])
-        
-        if result["sources"]:
-            with st.expander("📄 View Sources"):
-                for src in result["sources"]:
-                    st.markdown(
-                        f'<div class="source-box">'
-                        f'<strong>{src["title"]}</strong><br>'
-                        f'{src["regulatory_body"]} | {src["domain"]}<br>'
-                        f'Similarity: {src["similarity"]:.4f}'
-                        f'</div>',
-                        unsafe_allow_html=True
-                    )
-    
-    st.session_state.messages.append({
-        "role": "assistant",
-        "content": result["response"],
-        "sources": result["sources"]
-    })
-    st.rerun()
+def ask_advisor(query, client, embedding_model, metadata, embeddin
