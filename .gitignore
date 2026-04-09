@@ -10,7 +10,8 @@ __pycache__/
 
 # Data files (too large for GitHub)
 data/raw/*.pdf
-data/vectorstore/
+data/vectorstore/*.index
+data/vectorstore/*.npy
 *.faiss
 
 # OS files
