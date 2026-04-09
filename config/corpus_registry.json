@@ -1,0 +1,397 @@
+[
+  {
+    "doc_id": "REG-001",
+    "title": "Payment Systems and Services Act, 2019 (Act 987)",
+    "domain": "Regulatory Framework",
+    "doc_type": "Legislation",
+    "regulatory_body": "Bank of Ghana",
+    "year": 2019,
+    "url": "https://www.bog.gov.gh/wp-content/uploads/2019/08/Payment-Systems-and-Services-Act-2019-Act-987-.pdf",
+    "keywords": [
+      "payment systems",
+      "electronic money",
+      "licensing",
+      "mobile money",
+      "consumer protection"
+    ]
+  },
+  {
+    "doc_id": "REG-002",
+    "title": "Banks and Specialised Deposit-Taking Institutions Act, 2016 (Act 930)",
+    "domain": "Regulatory Framework",
+    "doc_type": "Legislation",
+    "regulatory_body": "Bank of Ghana",
+    "year": 2016,
+    "url": "https://www.bog.gov.gh",
+    "keywords": [
+      "banking",
+      "deposit-taking",
+      "capital requirements",
+      "corporate governance",
+      "prudential regulation"
+    ]
+  },
+  {
+    "doc_id": "REG-003",
+    "title": "Anti-Money Laundering Act, 2020 (Act 1044)",
+    "domain": "Regulatory Framework",
+    "doc_type": "Legislation",
+    "regulatory_body": "Bank of Ghana",
+    "year": 2020,
+    "url": "https://www.bog.gov.gh",
+    "keywords": [
+      "anti-money laundering",
+      "AML",
+      "KYC",
+      "virtual assets",
+      "suspicious transactions"
+    ]
+  },
+  {
+    "doc_id": "REG-004",
+    "title": "Securities Industry Act, 2016 (Act 929)",
+    "domain": "Regulatory Framework",
+    "doc_type": "Legislation",
+    "regulatory_body": "SEC Ghana",
+    "year": 2016,
+    "url": "https://sec.gov.gh",
+    "keywords": [
+      "securities",
+      "capital market",
+      "mutual funds",
+      "broker-dealer",
+      "investment adviser"
+    ]
+  },
+  {
+    "doc_id": "REG-005",
+    "title": "Insurance Act, 2021 (Act 1061)",
+    "domain": "Regulatory Framework",
+    "doc_type": "Legislation",
+    "regulatory_body": "National Insurance Commission",
+    "year": 2021,
+    "url": "https://nicgh.org",
+    "keywords": [
+      "insurance",
+      "insurtech",
+      "microinsurance",
+      "risk-based capital",
+      "policyholder protection"
+    ]
+  },
+  {
+    "doc_id": "REG-006",
+    "title": "Cyber and Information Security Directive (CISD) 2026",
+    "domain": "Regulatory Framework",
+    "doc_type": "Directive",
+    "regulatory_body": "Bank of Ghana",
+    "year": 2026,
+    "url": "https://www.bog.gov.gh",
+    "keywords": [
+      "cybersecurity",
+      "AI governance",
+      "cloud security",
+      "FICSOC",
+      "board accountability"
+    ]
+  },
+  {
+    "doc_id": "REG-007",
+    "title": "Bank of Ghana Annual Report and Financial Stability Report",
+    "domain": "Regulatory Framework",
+    "doc_type": "Annual Report",
+    "regulatory_body": "Bank of Ghana",
+    "year": 2025,
+    "url": "https://www.bog.gov.gh",
+    "keywords": [
+      "annual report",
+      "financial stability",
+      "monetary policy",
+      "banking sector performance"
+    ]
+  },
+  {
+    "doc_id": "DFS-001",
+    "title": "Digital Financial Services (DFS) Policy",
+    "domain": "Digital Financial Services",
+    "doc_type": "Policy Document",
+    "regulatory_body": "Ministry of Finance",
+    "year": 2020,
+    "url": "https://www.mofep.gov.gh/sites/default/files/acts/Ghana_DFS_Policy.pdf",
+    "keywords": [
+      "digital financial services",
+      "financial inclusion",
+      "digital payments",
+      "interoperability",
+      "cash-lite"
+    ]
+  },
+  {
+    "doc_id": "DFS-002",
+    "title": "Digital Credit Directive",
+    "domain": "Digital Financial Services",
+    "doc_type": "Directive",
+    "regulatory_body": "Bank of Ghana",
+    "year": 2025,
+    "url": "https://www.bog.gov.gh",
+    "keywords": [
+      "digital credit",
+      "digital lending",
+      "consumer protection",
+      "credit bureau",
+      "licensing"
+    ]
+  },
+  {
+    "doc_id": "DFS-003",
+    "title": "National Payment Systems Strategy 2025-2029",
+    "domain": "Digital Financial Services",
+    "doc_type": "Policy Document",
+    "regulatory_body": "Bank of Ghana",
+    "year": 2025,
+    "url": "https://www.bog.gov.gh",
+    "keywords": [
+      "payment systems",
+      "interoperability",
+      "open banking",
+      "digital payments innovation"
+    ]
+  },
+  {
+    "doc_id": "DFS-004",
+    "title": "Mobile Money and Electronic Money Issuers Guidelines",
+    "domain": "Digital Financial Services",
+    "doc_type": "Guideline",
+    "regulatory_body": "Bank of Ghana",
+    "year": 2021,
+    "url": "https://www.bog.gov.gh",
+    "keywords": [
+      "mobile money",
+      "MTN MoMo",
+      "Vodafone Cash",
+      "AirtelTigo Money",
+      "agent network",
+      "transaction limits"
+    ]
+  },
+  {
+    "doc_id": "INV-001",
+    "title": "SEC Investment Guidelines for Fund Managers",
+    "domain": "Investment and Securities",
+    "doc_type": "Guideline",
+    "regulatory_body": "SEC Ghana",
+    "year": 2022,
+    "url": "https://sec.gov.gh/wp-content/uploads/Final-Regulatory-Laws/Guidelines/INVESTMENT_GUIDELINES_FOR_FUND_MANAGERS.pdf",
+    "keywords": [
+      "fund manager",
+      "investment guidelines",
+      "asset allocation",
+      "portfolio management"
+    ]
+  },
+  {
+    "doc_id": "INV-002",
+    "title": "Securities Industry (Financial Resources) Guidelines, 2025",
+    "domain": "Investment and Securities",
+    "doc_type": "Guideline",
+    "regulatory_body": "SEC Ghana",
+    "year": 2025,
+    "url": "https://sec.gov.gh/wp-content/uploads/Final-Regulatory-Laws/Guidelines/Guidelines_Financial-Resources-Guidelines-2025.pdf",
+    "keywords": [
+      "financial resources",
+      "capital requirements",
+      "liquidity",
+      "broker-dealer",
+      "market operator"
+    ]
+  },
+  {
+    "doc_id": "INV-003",
+    "title": "SEC FAQs on Collective Investment Schemes",
+    "domain": "Investment and Securities",
+    "doc_type": "FAQ Document",
+    "regulatory_body": "SEC Ghana",
+    "year": 2024,
+    "url": "https://sec.gov.gh/frequently-asked-questions/",
+    "keywords": [
+      "mutual fund",
+      "unit trust",
+      "money market fund",
+      "Treasury bills",
+      "investor education"
+    ]
+  },
+  {
+    "doc_id": "INV-004",
+    "title": "Ghana Stock Exchange Listing Rules",
+    "domain": "Investment and Securities",
+    "doc_type": "Guideline",
+    "regulatory_body": "Ghana Stock Exchange",
+    "year": 2023,
+    "url": "https://gse.com.gh",
+    "keywords": [
+      "listing rules",
+      "IPO",
+      "equities",
+      "corporate governance",
+      "disclosure"
+    ]
+  },
+  {
+    "doc_id": "FIN-001",
+    "title": "National Financial Inclusion and Development Strategy (NFIDS) 2018-2023",
+    "domain": "Financial Inclusion",
+    "doc_type": "Policy Document",
+    "regulatory_body": "Ministry of Finance",
+    "year": 2018,
+    "url": "https://www.mofep.gov.gh",
+    "keywords": [
+      "financial inclusion",
+      "NFIDS",
+      "unbanked",
+      "rural banking",
+      "microfinance"
+    ]
+  },
+  {
+    "doc_id": "FIN-002",
+    "title": "National Pensions Act, 2008 (Act 766) and NPRA Investment Guidelines",
+    "domain": "Financial Inclusion",
+    "doc_type": "Legislation",
+    "regulatory_body": "NPRA",
+    "year": 2008,
+    "url": "https://npra.gov.gh",
+    "keywords": [
+      "pensions",
+      "SSNIT",
+      "tier 2",
+      "tier 3",
+      "retirement",
+      "pension fund"
+    ]
+  },
+  {
+    "doc_id": "FIN-003",
+    "title": "Microfinance and Small Loans Centre (MASLOC) Guidelines",
+    "domain": "Financial Inclusion",
+    "doc_type": "Guideline",
+    "regulatory_body": "Ministry of Finance",
+    "year": 2020,
+    "url": "https://masloc.gov.gh",
+    "keywords": [
+      "microfinance",
+      "small loans",
+      "MASLOC",
+      "SME financing",
+      "group lending"
+    ]
+  },
+  {
+    "doc_id": "FIN-004",
+    "title": "Bank of Ghana Financial Literacy Programme Materials",
+    "domain": "Financial Inclusion",
+    "doc_type": "Educational Material",
+    "regulatory_body": "Bank of Ghana",
+    "year": 2024,
+    "url": "https://www.bog.gov.gh",
+    "keywords": [
+      "financial literacy",
+      "budgeting",
+      "savings",
+      "credit management",
+      "investment basics"
+    ]
+  },
+  {
+    "doc_id": "CON-001",
+    "title": "Bank of Ghana Consumer Recourse and Complaints Guidelines",
+    "domain": "Consumer Protection",
+    "doc_type": "Guideline",
+    "regulatory_body": "Bank of Ghana",
+    "year": 2023,
+    "url": "https://www.bog.gov.gh",
+    "keywords": [
+      "consumer protection",
+      "complaints",
+      "dispute resolution",
+      "financial ombudsman"
+    ]
+  },
+  {
+    "doc_id": "CON-002",
+    "title": "Data Protection Act, 2012 (Act 843)",
+    "domain": "Consumer Protection",
+    "doc_type": "Legislation",
+    "regulatory_body": "Data Protection Commission",
+    "year": 2012,
+    "url": "https://dpa.org.gh",
+    "keywords": [
+      "data protection",
+      "privacy",
+      "personal data",
+      "consent",
+      "data controller"
+    ]
+  },
+  {
+    "doc_id": "FNT-001",
+    "title": "Bank of Ghana Fintech and Innovation Office Publications",
+    "domain": "Fintech Innovation",
+    "doc_type": "Policy Document",
+    "regulatory_body": "Bank of Ghana",
+    "year": 2024,
+    "url": "https://www.bog.gov.gh",
+    "keywords": [
+      "fintech",
+      "innovation hub",
+      "regulatory sandbox",
+      "open banking"
+    ]
+  },
+  {
+    "doc_id": "FNT-002",
+    "title": "Virtual Asset Service Providers Bill, 2025",
+    "domain": "Fintech Innovation",
+    "doc_type": "Legislation",
+    "regulatory_body": "Bank of Ghana",
+    "year": 2025,
+    "url": "https://www.bog.gov.gh",
+    "keywords": [
+      "virtual assets",
+      "cryptocurrency",
+      "VASP",
+      "blockchain",
+      "digital assets"
+    ]
+  },
+  {
+    "doc_id": "FNT-003",
+    "title": "eCedi Central Bank Digital Currency (CBDC) Pilot Documentation",
+    "domain": "Fintech Innovation",
+    "doc_type": "Research Paper",
+    "regulatory_body": "Bank of Ghana",
+    "year": 2024,
+    "url": "https://www.bog.gov.gh",
+    "keywords": [
+      "eCedi",
+      "CBDC",
+      "central bank digital currency",
+      "pilot programme"
+    ]
+  },
+  {
+    "doc_id": "FNT-004",
+    "title": "Corporate Governance Guidelines for Payment Service Providers (2025)",
+    "domain": "Fintech Innovation",
+    "doc_type": "Guideline",
+    "regulatory_body": "Bank of Ghana",
+    "year": 2025,
+    "url": "https://www.bog.gov.gh",
+    "keywords": [
+      "corporate governance",
+      "board composition",
+      "payment service provider",
+      "compliance"
+    ]
+  }
+]

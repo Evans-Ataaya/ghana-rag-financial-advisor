@@ -1,0 +1,1447 @@
+GOVERNMENT OF GHANA
+MINISTRY OF FINANCE
+DIGITAL FINANCIAL SERVICES
+POLICY
+
+Front Cover Photo Credits: Fairphone, 2014 ; John O’Bryan, 2015 and Erik (HASH) Hersman, 2008
+Back Cover Photo Credit: John O’Bryan, 2015
+
+Government of Ghana
+Ministry of Finance
+Digital Financial Services Policy
+Photo Credit: John O’Bryan, 2015
+
+Foreword
+Globalization and digitization are two major trends that will shape the future of nations. Despite the
+many challenges associated with adapting to increasingly globalized markets and rapidly changing
+technologies, Ghana is well-positioned to take advantage of these two trends as it strives to create a
+vibrant economy that benefits all Ghanaians.
+The Government of Ghana has identified financial inclusion as a key pillar of efforts to developing
+its digital economy. Recognizing the importance of access to relevant and affordable financial
+services for all citizens, the Ministry of Finance led the development of the National Financial Inclusion
+and Development Strategy (NFIDS), which outlines Ghana’s approach to, and specifies targets for
+improving financial inclusion. Given the importance of digital financial services to both furthering
+financial inclusion and laying the groundwork for Ghana’s digital economy of the future, the Ministry
+of Finance has complemented the NFIDS with a Digital Financial Services (DFS) Policy, designed to
+serve as a blueprint for how Ghana can leverage digital finance to achieve its financial inclusion goals.
+Covering a four-year time period and six thematic areas, the DFS Policy clearly outlines the steps
+Government and industry can take to bolster the country’s DFS ecosystem.
+The 43 short- and medium-term action points in the Policy provide clear and consistent guidance for
+all stakeholders in both the public and private sectors to work together to realize a shared goal of
+robust digital inclusion. When implemented, it is expected that these policy actions would enhance the
+governance of the DFS ecosystem; create a regulatory framework that supports innovation, competition
+and financial inclusion; strengthen the monitoring capacity of regulators; enhance the utility of digital
+infrastructure; prioritize the digitization of digital use cases and consequently support the emergence
+and growth of FinTechs.
+The DFS Policy is the result of a collaborative effort of stakeholders from Government, industry and
+international partners, all under the leadership of the Ministry of Finance. This type of collaboration
+will also be critical over the long-term, as the Ministry of Finance continues to work with a range of
+stakeholders to implement the DFS Policy and achieve the goals outlined in the NFIDS.
+I would like to use this opportunity to congratulate the officials of the Financial Sector Division of
+the Ministry of Finance (MoF), Ministry of Communications (MoC), Bank of Ghana (BOG), National
+Insurance Commission (NIC), National Pensions Regulatory Authority (NPRA), Securities and
+Exchange Commission (SEC), the Swiss Secretariat for Economic Affairs (SECO), the Consultative
+Group to Assist the Poor (CGAP), the FinTech Chamber, Mobile Network Operators (MNOs) and all
+other stakeholders whose contributions resulted in the development of the DFS policy.
+Ken Ofori-Atta
+Minister
+Ministry of Finance
+Table of Contents
+Glossary 7
+Executive Summary 9
+Preamble: A snapshot of Ghana in 2023 10
+Introduction 15
+Vision for DFS (2020-2023) 17
+Monitoring and Evaluation 23
+DFS Policy Pillars 25
+ACTION AREA 1: Governance 27
+ACTION AREA 2: Enabling regulation 29
+ACTION AREA 3: Capacity Building 34
+ACTION AREA 4: Market infrastructure 38
+ACTION AREA 5: Digital payment use cases 42
+ACTION AREA 6: Support FinTech 48
+ANNEX 1: Timeline of Action Points 51
+ANNEX 2: NFIDS targets applicable to DFS Policy 55
+Photo Credit: John O’Bryan, 2015
+
+Glossary
+AML – Anti-Money Laundering
+API – Application Programming Interface
+B2G – Business to Government
+BoG – Bank of Ghana
+BTCA – Better than Cash Alliance
+CFT – Counter Financing of Terrorism
+COCOBOD – Ghana Cocoa Board
+DFS – Digital Financial Services
+DPC – Data Protection Commission
+EFT – Electronic Funds Transfer
+EMI – Electronic Money Issuer
+FATF – Financial Action Task Force
+FinTech – Financial Technology
+FMCG – Fast Moving Consumer Goods
+FSP – Financial Services Providers
+G2B – Government to Business
+G2P – Government to Person
+GEPP – Ghana e-Payment Portal
+GhIPSS – Ghana Interbank Payment and Settlement Systems
+GIFEC – Ghana Investment Fund for Electronic Communications
+GRA – Ghana Revenue Authority
+GSM – Global System for Mobile Communications
+InsurTech – Insurance Technology
+LBC – Licensed Buying Companies
+KYC – Know-Your-Customer
+MDAs – Ministries, Departments, Agencies
+MoF – Ministry of Finance
+MOU – Memorandum of Understanding
+MNO – Mobile Network Operator
+NEIP – National Entrepreneurship and Innovation Plan
+NFC – Near-field Communication
+NFIDS – National Financial Inclusion and Development Strategy
+NHIS – National Health Insurance Scheme
+NIC – National Insurance Commission
+NITA – National Information Technology Agency
+NPRA – National Pensions Regulatory Authority
+NPS – National Payments Strategy
+P2G– Person to Government
+PAYG – Pay as you go
+POS – Point of Sale
+PSSA – Payment Systems and Services Act
+QR – Quick Response
+RegTech – Regulatory Technology
+SIM – Subscriber Identification Module
+USSD – Unstructured Supplementary Service Data
+VAT – Value Added Tax
+Executive Summary
+Improved internet connectivity, ubiquitous mobile technology, advanced computing techniques, data
+portability, the advent of artificial intelligence - technological advances such as these are ushering in
+a new era of digital financial services (DFS) in Ghana.
+These technologies are enabling banks and microfinance institutions to reinvent their business models
+while making it possible for new types of providers to enter the market. Telecommunications operators
+have already taken the country’s payments infrastructure into the twenty-first century, and riding on
+top of these digital rails, e-commerce is expected to grow rapidly. Financial technology (FinTech) is
+poised to revolutionize product design, delivery and user experience of financial services. Over the
+next decade, Ghana’s retail and wholesale DFS providers are likely to mature into highly automated,
+interactive market players in an increasingly modularized ecosystem.
+Through this policy, the Government of Ghana seeks to build on these advances to create a resilient,
+inclusive and innovative DFS ecosystem that contributes to social development and a robust economy
+with a thriving private sector. The Government envisions that by 2023:
+• All Ghanaians will have access to a broad range of suitable and affordable digital
+financial services – including payment, credit, savings, insurance, and investment.
+• Businesses and Government will have achieved greater transparency and efficiency
+to contribute to the economic growth of the nation.
+• Payment flows would be digitized and formalised, thereby shrinking the informal
+economy, increasing Government revenues, and making monetary policies more
+effective.
+To achieve these goals, the Government is committed to fostering an open and level ecosystem
+that welcomes these new entrants, embraces technology, and protects users. Financial stability,
+integrity and inclusion will increase thereby mitigating emerging risks. A growing digital financial
+sector requires regulators and supervisors to develop regulation that is technology-neutral, device-
+agnostic, principles-based, and proportional to risk, creating a level playing field for all players. It also
+requires sufficient technical and supervisory capacity and a clear governance structure to ensure
+appropriate implementation of regulation. In this context, there is an opportunity to embrace regulatory
+technology (RegTech)1 and harness the power of data and technology to strengthen market oversight
+and customer recourse.
+We, the Government of Ghana, are collectively responsible for creating a policy environment that
+allows businesses to innovate and thrive.Moreover, we can drive the digitization of the economy by
+adopting electronic payments and supporting specific digital payment use cases. We recognize that
+payment connectivity is more than a tool to digitize the Government’s existing payment flows and
+that digital payments can evolve into a far-reaching platform for strengthening energy policy, food
+security, government transparency, and other core policies. Further, we can put in place policies
+that incentivize specific DFS, such as responsible digital credit, savings and insurance services, to
+improve the financial lives of citizens.
+This policy, which establishes a Four-year money issuers (EMIs), social media plat
+roadmap (2020-2023), thereby identifies six forms) and other appropriately regulated
+areas for action: DFS stakeholders
+2.7 Introduce a national competition law and
+1. Governance authority
+Enhance governance of the DFS ecosystem. 3. Capacity building
+Action items are:
+Strengthen the capacity of the Ghanaian
+a. Strive for improved forms of dialogue authorities to monitor the financial sector on
+between industry and the relevant matters concerning market conduct, competition
+regulators and supervisors, and within and data protection, leveraging new technologies
+the Government of Ghana itself and architectures for data sharing (RegTech).
+1.2. Establish a digital task force in the The action items are:
+Ministry of Finance focused on DFS
+3.1 Ensure that BoG and other financial
+2. Enabling regulation regulators have sufficient capacity and
+resources to effectively supervise the
+Create a regulatory framework that supports DFS space, particularly with competition
+innovation, competition, and financial inclusion. matters
+The action items are: 3.2 Require all DFS providers to submit
+compliance reports digitally
+2.1 Implement the Payment Systems and 3.3 Increase the technical capacity of the
+Services Act and issue clarifying Data Protection Commission in regard to
+regulations DFS data, facilitate its cooperation with
+2.2 Expand the risk-based approach to KYC financial supervisors and evaluate the
+to all basic transaction accounts in an need for additional measures with
+equivalent manner regard to alternative DFS data
+2.3 Strengthen and fully implement the 3.4 Design a RegTech strategy across
+Consumer Recourse Guidelines and the regulators
+Disclosure Rules for Credit Products
+and create a strategy for a consumer 4. Market infrastructure
+protection framework for financial
+services Develop a purpose-built infrastructure for DFS
+2.4 Ensure deposit protection over individual and strengthen existing payment platforms
+e-money accounts where feasible. The action items are:
+2.5 Introduce interventions to stimulate the
+uptake digital insurance services 4.1 Establish the biometric centralized
+2.6 Introduce a data-sharing regulation National ID system and enable
+between data controllers (banks, mobile payments and other use cases
+network operators (MNOs), electronic though e-KYC
+4.2 Upgrade the Ghana E-Payment Portal 5.3 Support the digitization of public utility
+(GEPP) platform’s payment and service payments
+capability, through the digital 5.4 Digitize pension contributions and
+automation of forms and processes, the distributions for the informal sector
+development of USSD and app-based 5.5 Digitize NHIS premiums and their
+access for certain services, the creation payment on a monthly basis
+of open APIs and the re-engineering of 5.6 Authorize receipt and payment of
+current internal processes international remittances directly
+4.3 Ensure effective interoperability between by e-money issuers
+bank and mobile payments, including 5.7 Support the digitization of agriculture
+the development of a clear and neutral value chain payments
+governance structure for the integration 5.8 Subsidize the purchase and installation
+of mobile payments into the national of homogeneous smart meters for
+switch electricity and water
+4.4 Complete a diagnostic of Ghana’s 5.9 Roll-out end-to-end digital delivery of
+payments infrastructure to assess Government services
+missing elements of a digital
+infrastructure stack and develop an 6. Support FinTech
+implementation strategy. This has
+already begun and should run its natural Support the growth of FinTech firms by creating
+course, culminating in the Government of incentives that encourage investments and the
+Ghana committing to implementing one launch of new business models and products.
+of the presented scenarios for DFS The action items are:
+infrastructure optimization
+4.5 Monitor the coverage levels of cash-in/ 6.1 Undertake an assessment of the policy
+cash-out networks and explore potential environment in place for FinTech firms
+models for encouraging their expansion and investors
+to underserved areas 6.2 Assess the need and feasibility of a
+4.6 Implement a digital financial regulatory sandbox for FinTech products
+infrastructure stack through the creation 6.3 Provide direct Government support for
+of a virtual payment addressing system, FinTech entrepreneurship
+a payment bridge and a governance 6.4 Privilege FinTech-based payment
+structure solutions for Government-to-Person and
+Government to Business payments
+5. Digital payment use cases
+Within these six action areas, the policy maps
+Prioritize the digitization of payment use out forty-three actions that are aligned with the
+cases such as small-value informal pensions, priorities that the Government laid out in the
+government payments, remittances, merchant National Payments Strategy (NPS) 2014-2019
+payments, and utility payments, leveraging and in the draft National Financial Inclusion and
+technologies to improve design, delivery and Development Strategy (NFIDS) 2017-2023. The
+monitoring. The action items are: actions are further informed by an assessment of
+the Ghanaian financial sector, the needs of local
+5.1 Support the digitization of small-value financial service providers and customers, and
+Person-to-Government (P2G) payments international best practices. Target indicators
+5.2 Incentivize and support digital payments have been identified to ensure that key action
+in the retail space points equally translate into tangible progress
+towards a resilient, inclusive and innovative DFS as Electronic Money Issuers (EMIs or
+ecosystem. With these six pillars and the specific Dedicated-EMIs) provide mobile money
+actions recommended within each category, the wallets, P2P transactions and bill and
+goal is for a Ghana’s financial services landscape merchant payments, and partner with
+to exhibit the following features by 2023: a variety of ecosystem players to offer
+more sophisticated products such as
+• A holistic digital payment ecosystem micro-insurance and digital credit. These
+for goods and services: offerings are complemented by new,
+Individuals can pay for most goods or white-label retail products from existing
+services simply by providing their national insurance providers or new InsurTech
+ID number with a biometric check or using entrants, serving untapped markets. The
+a contactless NFC-enabled national ID current handful of FinTech firms have
+card. The number of retail merchants expanded their offerings to international
+accepting digital payments has remittances, digital investments and
+significantly increased with the gradual digital budgeting tools, leveraging access
+roll-out of a digital payment infrastructure to users’ data they can now collect from
+“stack” combined with government tax MNOs, EMIs, banks, and social media
+incentives. Pre-paid public utilities are platforms. Thanks to expanded access to
+paid via mobile money through pay-as- users’ data (based on customer consent),
+you-go (PAYG) systems connected to they are joined by dozens of new start-
+smart meters. Individuals can recharge ups, offering either specific innovative
+their electricity meters from the comfort products such as robo-investing
+of their own homes, while others can pay services and financial health building
+their post-paid water bill without traveling services or a whole range of competing
+to and queuing at a public utility cash digital products for credit, savings,
+point. Even informal vendors such as insurance, and PAYG payment products
+street hawkers are able to accept mobile that are more affordable, tailored and
+money through QR codes or NFC-enabled relevant to the needs of the mass market,
+USSD phones. including underserved populations. In
+this increasingly competitive landscape,
+• Digitized pension payments for all: the prices of financial services have
+Government pension payments to decreased, rendering them affordable
+both formal and informal workers, civil and desirable for all Ghanaians.
+servant salaries and social transfers
+continue to be paid digitally, but rather • Digitized records for citizens (creation,
+than being immediately cashed out, this retrieval and archiving): The Ghana
+digital value remains in the ecosystem ePayment Portal (GEPP) platform
+as the opportunities to pay digitally are or similar consolidated government
+convenient and attractive. payment portals can offer end-to-end
+digital ordering and delivery of the most
+• Digital payment channels maximized common government services, such as
+by financial services providers: renewal of drivers’ licences or copies of
+Banks have reimagined the customer birth certificates. Citizens can just log onto
+journey with services offered evolving the GEPP portal via their mobile phone or
+from multi-channel to omni-channel, at an internet cafe, and with their unique
+focusing on highly personalized ID number and a digital photo, order and
+customer experiences. Non-banks such pay for a passport renewal, which can
+be collected in-person with biometric adults hold a biometric, contactless,
+verification. Services that do not require NFC-enabled national ID card and
+any digital upload, such as ordering a an ID number. A virtual simplified
+copy of a marriage certificate, may even payment addressing system, which
+be available on a USSD phone, and the links a citizen’s bank account to a virtual
+certificate can be delivered directly by payment address such as the national
+the postal service or uploaded to the ID number or phone number, has been
+individual’s digital locker. rolled out, a digital locker for storage of
+individual data is in a pilot stage, and
+• Seamless connectivity between government institutions can already
+government and private institutions: safely exchange necessary data. This
+Behind the scenes, all major financial would mean that almost all the elements
+service providers and FinTech firms have of a digital payment infrastructure stack
+connected to the national switch and namely biometric ID, digital addressing
+have agreed to a governance scheme and an interoperable switch have been
+and operational and commercial rules put into place.
+that allow seamless interoperate. All
+Photo Credit: Chris Burns, 2015
+
+Photo Credit: Development UEA, 2012
+
+Introduction
+This policy sets out a vision for a resilient, inclusive and innovative DFS ecosystem in Ghana. Specifically
+the policy envisions that by 2023:
+I. All Ghanaians have access to a large and broad range of quality and affordable
+digital financial services – including payment, credit, savings, insurance, and
+investment – that meet their needs;
+II. Businesses and Government have achieved greater transparency and efficiency to
+contribute to the economic growth of the nation;
+III. Payment flows have been digitized and formalised, thereby shrinking the informal
+economy, increasing Government revenues, and making monetary policies more
+effective.
+In this policy, the Government of Ghana plays the following three roles: (1) a policy enabler for DFS, (2)
+a driver and user of DFS products, and (3) a beneficiary of DFS through cost savings, revenue increase
+and monetary policy transmission. The Government thus has multiple touch points and levers in the
+DFS ecosystem, and this Policy recognizes the importance of all these roles towards the achievement
+of this vision. This Policy is aligned with the priorities that the Government laid out in the National
+Payments Strategy (NPS) 2014-2019 and in the National Financial Inclusion and Development Strategy
+(NFIDS) 2017-2023:
+• The NPS provides a strategic roadmap for payments aimed at reducing cash
+dependency and increasing financial inclusion.
+• The NFIDS’ overall objective is to increase financial inclusion from 58% to 75% by
+2023. The NFIDS articulates five priority areas for financial sector development:
+(i) Financial stability; (ii) Access, quality, and usage of financial services; (iii) Financial
+infrastructure; (iv) Financial consumer protection; and (v) Financial literacy and
+capability. This policy complements the NFIDS by outlining a vision for how DFS can
+meaningfully contribute to Ghana’s financial inclusion goals.
+The DFS Policy establishes a 4-year (2020-2023) roadmap, agreed and defined at the national level,
+that is informed by an assessment of the Ghanaian financial sector, the needs of local financial service
+providers and customers, and international best practices. Many of the baseline indicators for this
+Policy’s targets stem from data gathered and analysed in a 2017 country digital payment diagnostic2
+undertaken by the Better Than Cash Alliance (BTCA) in partnership with the Ministry of Finance. The
+goals of this policy are laid out in detail throughout this document.
+Applying a gender lens to the implementation of 3. Engage local communities to grasp
+this policy will be critical to advancing women’s women’s wants and needs for DFS across
+financial inclusion, whose access to and use of profiles and livelihoods (e.g. rural, urban,
+financial services continues to lag behind that agriculture, commence, informal sector,
+of men. In general, this means that the following etc);
+gender lens considerations should be front
+and centre as the public and private sector 4. Monitor all actions taken in line with
+aims towards the implementation of this policy. this policy to understand their impact
+Specifically, all stakeholders should: on gender, and keenly seek to document
+and address any unintended
+1. Understand the market dynamics from a consequences;
+gender perspective, utilising existing data
+and collecting new data where possible 5. Explain and advocate the business case
+on those dynamics so that this data can for serving women well and promote
+be used proactively to reduce the gap those messages so that they translate into
+between financial inclusion levels for men financial services that are more appropriate
+and women; for women; and
+2. Consider the normative barriers that 6. Leverage online and in-person resources
+affect women’s opportunities to access such as FinEquity - the CGAP facilitated
+and use DFS and how this and other community of practice focused exclusively
+relevant policies might exacerbate or on women’s financial inclusion - to ensure
+reduce these barriers; best global practices are followed.
+Photo Credit: Buddy Buruku, 2020
+
+Vision For DFS (2020-2023)
+Build a DFS ecosystem for the 21st century that drives economic growth,
+social development, opportunity, and resilience for Ghana and its citizens.
+The vision that inspires this policy is anchored in the benefits that the digitization of financial services
+brings to Ghana’s citizens, businesses, and the economy.
+The shift from a cash to a digital economy will increase convenience, security and ease of use for
+citizens and cater to Ghanaians in both the urban and the rural areas. DFS will increasingly provide
+citizens with greater choice and lower prices for financial services, such as digital remittances and
+credit that are available at the fingertips; waiting long hours to perform these financial transactions and
+travelling long distances with cash in hand will become obsolete. In addition, DFS offers citizens the
+opportunity to access new, innovative products that are more suitable to their needs. Access to DFS
+also has significant potential to improve the livelihoods of women and citizens in rural areas since both
+are very active in the informal economy and financially excluded.
+Moreover, the adoption of DFS strengthens businesses by opening transformative new pathways for
+access to capital for micro, small, and medium enterprises. Similarly, access to innovative digital
+insurance products can enable businesses to secure themselves from unforeseen events. Further, the
+formalization of many businesses will benefit both employees (greater access to social protection) and
+customers (increased protection).
+Our economy will benefit from a shift to DFS as payments will become cheaper, quicker and more
+secure, thereby increasing the volume and value of transactions conducted in the formal economy.
+As more people get access to a broader range of higher quality financial services, they can start new
+companies, invest in themselves or their businesses, seize opportunities and protect themselves from
+risks or shocks. This will boost entrepreneurship, increase growth and provide a more stable economic
+environment.
+The shift towards a DFS ecosystem will help equally strengthen Government finances through improved
+revenue collection and decreased leakages, thus augmenting our budgetary capacity. For example
+in Uganda, the Kampala Capital City Authority, which has been automating its local tax collection
+since 2014 through online and mobile money payment systems, has seen a 167% increase in revenue
+collection over 4 years.3 In India, linking cash transfers for food and fuel subsidies to the Aadhaar
+digital payment infrastructure stack has saved the Indian government US$4.7 billion in 4 years4 from
+diminished leakages and elimination of ghost beneficiaries while the stack overall has resulted in total
+savings of US$ 9 -10 billion.5
+Further, the adoption of DFS will help reduce already transformed the payments space, and
+both administrative and transaction costs to e-commerce is expected to grow rapidly. FinTech9
+the Government as well as monetary policy has the potential to revolutionize product design
+transmission lags to the real economy, thereby and delivery, and the user experience. In some
+enhancing Bank of Ghana’s ability to achieve countries, super-platforms such as Facebook,
+growth and stability for all Ghanaians. For Google and Alibaba are making significant
+example, in Mexico the government’s shift to investments to enter the financial marketplace,
+digital payments (which began in 1997) reduced in addition to providing free internet access.
+its spending on wages, pensions, and social Over the next ten years, our retail and wholesale
+welfare by 3.3 percent annually, or nearly US$ DFS providers will mature into highly automated
+1.3 billion,6 while the Brazilian Government’s and interactive market players in an increasingly
+Bolsa Família program reduced its transaction modularized ecosystem.
+costs from 14.7 percent of total payments to 2.6
+percent when it consolidated several benefits The Government of Ghana is committed to
+onto a single e-payment card.7 fostering an open and level ecosystem that
+welcomes new entrants, embraces technology,
+With these benefits in mind, our goal for this Policy and protects users, while concurrently increasing
+is to drive financial inclusion by increasing both financial stability, integrity and inclusion in order
+the depth (i.e., the number of formal financial to mitigate emerging risks. A growing, digital-
+services used by each individual and frequency led, financial sector requires our regulators
+of the transactions), and breadth (i.e., the range and supervisors equally to develop regulation
+of services available to customers, the quality of that is technology-neutral and device-agnostic,
+their experience and how it caters to their health, principles-based and proportional to risk,
+housing, education, and sanitation needs) of creating a level playing field for all players. In
+their everyday financial lives. this context, there is an opportunity to embrace
+regulatory technology (RegTech) and harness
+To achieve these goals, the DFS market must be the power of data and technology to strengthen
+competitive, and thus embrace the potential of market oversight and customer recourse.
+new products and business models developed
+by incumbents and new entrants, such as FinTech We, the Government of Ghana, are as a whole
+firms and MNOs. Between 2010 and 2015 responsible for creating a policy environment
+mobile money was the main driver in increasing that allows businesses to thrive and innovation to
+the formal financial inclusion (i.e., the number spur. Moreover, we can drive the digitization of
+of adults using at least one formal financial the economy by adopting electronic payments
+service) from 41% to 58%,8 and innovation will and supporting specific digital payment use
+continue to be the key driver for change in the cases. In fact, payment connectivity is more
+decade ahead of us. The future promises to than a narrow tool to digitize a government’s
+deliver an even more rapidly changing financial existing payment flows, since it can evolve into
+sector. Improved connectivity, ubiquitous a far-reaching platform for strengthening energy
+mobile technology, advanced computing policy, food security, government transparency,
+techniques, data portability and the advent of and other core policies.
+artificial intelligence are thoroughly changing its
+shape. Technological advancements provide However, we cannot undertake this journey
+new opportunities for banks and microfinance alone. Industry-wide collaboration between the
+institutions to reinvent their business models, and public and private sector will be critically needed
+for emerging alternative providers to enter these to develop and implement a transformational
+markets. Telecommunications operators have road map that creates a sound, inclusive and
+innovative DFS ecosystem, making sure that no noted that the NFIDS also contains relevant
+Ghanaian is left behind. indicators, details of which are available in Annex
+2. Also apart from digital payments and digital
+Targets credit, no baseline data exists for the other types
+of DFS, and thus there are no specific indicators
+The following targets are derived from the 2017 for these products. We therefore have instead
+BTCA country diagnostic, Bank of Ghana and focused on access to the general financial
+GhIPSS data and other industry sources. They services product, with the target being overall
+have been identified to ensure that key action increase in access.
+points detailed in this Policy translate into
+tangible progress towards a resilient, inclusive
+and innovative DFS ecosystem. It should be
+INDICATORS FOR OVERALL ECOSYSTEM DEVELOPMENT
+CATEGORY INDICATORS 2016 2020
+DIGITIZATION OF Currency outside banks to M1 ratio 39.96%10 30%
+PAYMENTS
+Total volume of mobile money transactions (millions) 100.4
+Total number of POS terminals in circulation 6,500
+Total volume of POS transactions (millions) 6.7
+Total volume of issued credit and debit cards (millions) 5.455
+Total volume of credit and debit card transactions (millions) 46.6
+Number of registered mobile banking users (millions) 2.176
+DIGITIZATION OF Total volume of mobile banking transactions (millions) 6.8
+PAYMENTS
+Number of registered internet banking users (millions) .96
+Total volume of internet banking transactions (millions) 2.7
+INFRASTRUCTURE National biometric IDs issued to adult population (%) <1% 90%
+Number of digital transactions on GEPP (absolute volume)
+Number of transactions through national switch (million) 2.067
+Value of transactions through national switch (GHS million) 447,041,343
+Number of FSPs connecting to national switch 36
+Source: Bank of Ghana and GhIPSS data
+INDICATORS FOR SPECIFIC FINANCIAL SERVICE PRODUCTS
+CATEGORY INDICATORS 2017 2020
+OTHER Micro-insurance (number of lives and assets covered, 7.511 10
+FINANCIAL
+in millions)
+SERVICE
+PRODUCTS
+Savings12 (% of households) 67%13 85%
+Investment14 (% of households) 40% 15 52%
+Digital credit (number of unique users, millions) .25 16 10
+Source: The Landscape of Micro-insurance in Ghana 2015, Financial Inclusion Insights National Survey 2014, and industry
+data for digital credit
+INDICATORS FROM COUNTRY DIAGNOSTIC
+CATEGORY INDICATORS 2016 2020
+DIGITIZATION Digital payments as a % of overall payments (volume) 1% 15%
+OF PAYMENTS
+Digital payments as a % of overall payments (value) 37% 42%
+Digital Government payments made as a % of all 23% 42%
+Government payments made (volume)
+Digital Government payments made as a % of all 86% 89.5%
+Government payments made (value)
+Digital business payments as a % of all business payments 28% 33.5%
+(volume)
+Digital business payments as a % of all business payments 35% 39%
+(value)
+DIGITIZATION Digital individual payments as a % of all individual payments 0.4% 5.3%
+OF PAYMENTS
+(volume)
+Digital individual payments as a % of all individual payments 29% 34%
+(value)
+Source: 2017 BTCA country diagnostic. These indicators can only be verified in 2020, as they will require a second
+diagnostic
+OTHER RECOMMENDED INDICATORS
+Several indicators have been identified which would help monitor progress towards a
+resilient, inclusive and innovative DFS ecosystem, but for which there is no baseline
+data. A study should be undertaken to determine these baseline indicators.
+• Digital insurance: Volume and value of insurance purchased via a digital
+channel.
+• Digital savings: Volume and value of savings stored via a digital channel.
+• Digital credit: Value of loans obtained via a digital channel.
+• Digital investments: Volume and value of investments purchased via a digital
+channel.
+• Digital pensions: Volume and value of pensions contributions and pension
+payments received via a digital channel.
+• Gender: Gender split for digital payments, broken down by digital payment
+instrument.
+• Cost: Average cost to user for a digital transaction, broken down by digital
+payment instrument.
+• Proximity: % of adults within 5km of a DFS cash-in/cash-out point.
+Photo Credit: Jonathan Ernst, 2006
+
+Monitoring and Evaluation
+Based on the targets outlined in the country diagnostic, the NFIDS, and drawing on reliable data to be
+mined from current and future sources (both primary and secondary in nature), monitoring and evaluation
+of Ghana’s progress should be undertaken on a consistent basis. The interval of the evaluation, the
+tools for measurement, and recommended interventions to be taken if any targets are not met, should
+be determined by a multi-stakeholder team anchored within the proposed governance structure for
+implementing this DFS Policy. The monitoring and evaluation should rely heavily on information from
+the various regulatory authorities, as well as private sector who may be able to provide insight into DFS
+product and service development, reach and uptake.
+There is also need for a formal coordination mechanism to engage all the various public, private and
+development partner DFS initiatives all being implemented in Ghana. All these initiatives fall under what
+is the Financial Sector/Revenue Generation thematic area of the Ghana Digital Roadmap (Theme 7)
+recently launched by the Office of the Vice President and the Ministry of Communications. Specifically,
+this theme has the following areas of focus:
+A. How technology can drive better policy outcomes – one that benefits citizens /
+organizations and can be tied directly to all government revenue streams (levies,
+taxes, duties, fees, penalties, etc.);
+B. How technology can drive a better cash flow management – one that provides
+visibility into inflows and outflows and also makes it easy to allocate funding to
+priority areas;
+C. How FinTechs can help facilitate financial transactions and relationships; and
+D. Electronic Transactions
+In pursuing the goals of the Ghana Digital Roadmap and the NFIDS, several DFS initiatives have begun
+in partnership with various government institutions. However, the sprawl of such initiatives without a
+coordination plan may have created some level of duplication, hampered progress and may result in
+a sub-optimal outcome.
+It is for this reason that there is a need for a central coordinating mechanism at the highest level of
+government, to ensure alignment of the different stakeholders, commitment to the process, visibility
+and efficient use of government/donor resources. This mechanism should constitute a working group
+from government, technology/banking/FinTech chambers and independent subject matter experts.
+Development partners implementing and/or funding work in DFS should also have a role in this group
+in an advisory capacity.
+Photo Credit: John O’Bryan/ USAID
+Photo Credit: C.C. Chapman, 2012
+
+DFS Policy Pillars
+In order to achieve these targets, the DFS policy identifies six pillars for action:
+1. Governance
+Enhance governance of the DFS ecosystem.
+2. Enabling regulation
+Create a regulatory framework that supports innovation, competition, and financial inclusion.
+3. Capacity building
+Strengthen the capacity of the Ghanaian authorities to monitor the financial sector on matters
+concerning market conduct, competition and data protection, leveraging new technologies and
+architectures for data sharing (RegTech).
+4. Market infrastructure
+Develop a purpose-built infrastructure for DFS and strengthen existing payment platforms
+where feasible.
+5. Digital payment use cases
+Prioritize the digitization of payment use cases such as small-value informal pensions,
+government payments, remittances, merchant payments, and utility payments, leveraging
+technologies to improve design, delivery and monitoring.
+6. Support FinTech
+Support the growth of FinTech firms by creating incentives that encourage investments and the
+launch of new business models and products.
+For each of the six action areas, the following action points will be implemented in the short, medium and
+long-term in order to achieve the targets:
+Photo Credit: Buddy Buruku, 2020
+
+ACTION AREA 1: Governance Further, Memorandums of Understanding
+(MOUs) should be entered into by the
+To ensure that this Policy can be properly various DFS regulators for each of the
+implemented by the financial sector regulators, products to encourage formal exchange and
+the following actions are prerequisites: assistance between regulators and to clearly
+delimitate jurisdiction. The appointment of a
+1.1. Strive for improved forms of dialogue lead regulator per product to act as the main
+between industry and the relevant regulators interface and contact point for the regulated
+and supervisors, and within the Government stakeholders should be a crucial element of
+of Ghana itself these MOUs.
+Given the pace of change in the digital As all DFS require telecommunications
+financial services space, it is important that connectivity, the expansion of such
+regulators and supervisors can find the best connectivity to areas currently not covered as
+ways to engage with industry on an ongoing well as the increase in quality of the current
+basis to identify emerging challenges network coverage is key to the proliferation of
+early and find the best solutions quickly in DFS. Formal collaboration between the DFS
+conjunction with the market actors. It is of great regulators, the National Communications
+importance that this dialogue be perceived Authority and the Ghana Investment Fund
+as inclusive and free of bias in incorporating for Electronic Communications is therefore
+the growing range of actors involved in the equally encouraged.
+space. Similarly, it is important to establish
+effective and regular collaboration between 1.2. Establish a digital task force in the
+financial and non-financial regulators and Ministry of Finance focused on DFS
+supervisors on relevant topics, as well as
+within the Government of Ghana itself. In order to ensure implementation and buy-
+in of the Action Points in this strategy, and
+In addition, there should be formal to promote a broad range of digital financial
+collaboration between all DFS regulators products and services (e.g., insurance,
+through existing collaboration structures credit, and savings), a digital task force
+such as the Payments Council, as set up by focused on DFS will be created within the
+the Payment Systems and Services Act 2019 Ministry of Finance. The mandate of the
+(PSSA), and the Technical Committee for the task force would be to work closely with a
+NFIDS. The Payment Council is currently similar taskforce in DFS-facing regulators
+focused only on the stakeholders in payment (i.e. Bank of Ghana, NITA, NPRA, NIC) to
+ecosystem, while the Technical Committee evaluate issues in the DFS landscape and
+for NFIDS already includes the regulators make recommendations on actions to their
+for investment, pensions and insurance, respective entities. This task force shall also
+but its primary focus is financial inclusion. be tasked with increasing awareness of and
+In order not to duplicate efforts, either the capacity in DFS in the Ministry itself, and
+mandate of the Payments Council could be lead the charge, particularly in the complete
+expanded to other digital products such as digitization of government payments (see
+insurance, investments, savings and loans, Action Area 6) and will also look at market-
+or the Technical Committee could broaden wide topics like level playing field issues.
+its scope to all of DFS.
+Photo Credit: Jonathan Ernst , 2006
+
+ACTION AREA 2: Enabling regulation of the EMI Guidelines, as well as ensure the
+regulation of certain FinTech firms. Following
+Ghana is on the right trajectory to render its the passage of PSSA Act 987, the Bank of
+regulatory framework for digital payments Ghana will issue clarifying regulations on
+enabling, even though further actions are issues such as applicable services and
+required to unlock the full potential of a broader institutions, licensing requirements and
+range of DFS: procedure, technology standards etc.
+2.1. Implement the Payment Systems and 2.2. Expand the risk-based approach to
+Services Act and issue clarifying regulations. KYC to all basic transaction accounts in an
+equivalent manner
+The Guidelines for E-Money Issuers in
+Ghana17 (EMI Guidelines) and the Agent The EMI Guidelines adopt a risk-based
+Guidelines18 both came into effect in July approach to Know-Your-Customer (KYC)
+2015 in order to address some pitfalls of for e-money accounts. There is, however,
+the 2008 Branchless Banking Guidelines. no tiered KYC currently for bank accounts.
+The EMI Guidelines allow duly licensed non- As set out in the NFIDS, to advance
+bank entities (such as subsidiaries of MNOs) financial inclusion it is necessary to enable
+to issue electronic money (e-money), and deposit-taking institutions to offer basic
+mandates e-money issuers (EMIs) to pass- transactional accounts – with lower balance
+through not less than 80% of the interest and transaction limits. This is sustainable
+accrued on the pooled e-money float net of and effective only if a tiered, simplified
+any fees or administrative costs to e-money KYC regime can apply to these products,
+holders. Receiving interest on the value stored similarly to e-money. This would require
+is an incentive for mobile money customers to the Bank of Ghana to update the relevant
+keep funds in the system instead of cashing circular20 concerning KYC for individuals
+out, with significant, positive implications19 to implement the Financial Action Task
+for financial inclusion and the evolution of Force (FATF) 2012 International Standards
+the mobile money business model. The on Combating Money Laundering and the
+Agent Guidelines require both EMIs and Financing of Terrorism & Proliferation.21 This
+regulated financial institutions to obtain an action would fix the gaps in the three-tiered
+authorisation for agency business, and sets KYC approach until the biometric national ID
+out agent eligibility, agent due diligence and is rolled out in full.
+permissible activities for agents.
+2.3. Create a strategy for consumer protection
+The PSSA Act 987 merges the current for financial services.
+Payment System Act 2003 and extends
+the regulatory framework to cover a variety Financial consumer protection regulation
+of payment services that have not yet should at a minimum ensure that customers:
+been regulated, including provision of (i) receive information to allow them to make
+technological services to facilitate switching, informed decisions, (ii) are not subject to
+routing, clearing, and data management, unfair or deceptive practices, and (iii) have
+and the facilitation of interoperability of access to recourse mechanisms to resolve
+payment systems and services among disputes. This protection should extend to
+payment systems providers. The PSSA is all retail financial services and products,
+particularly important as it will hasten the full irrespective of the type of provider of those
+implementation of the licensing provisions services and products.
+Although Ghana does not have national As the number of DFS providers expands,
+consumer protection legislation, Bank of there is a risk of increased complaints and
+Ghana has already gone some way to achieve fraud, and customer trust in DFS will decline
+consumer protection for financial services. if these are not properly dealt with. Although
+In February 2017, the Bank of Ghana issued the Bank of Ghana is taking a product-
+both the Consumer Recourse Guidelines specific approach to consumer protection to
+for Financial Service Providers22 (FSPs) and ensure it covers the specificities of each type
+the Disclosure Rules for Credit Products.23 of product, all types of financial services,
+Both rules are aimed at bolstering consumer including DFS, must be ultimately covered.
+protection in the financial services sphere, As the Bank of Ghana has limited resources,
+the Consumer Recourse Guidelines for FSPs the areas posing the most risks to individuals
+providing a redress mechanism for customer should be prioritized in this process.
+complaints regarding all types of financial
+services, and the Disclosure Rules providing Rather than adopting a piece-meal
+for specific disclosure obligations of credit approach to regulation, (e.g. passing DFS-
+providers. Although technically in force, specific consumer protection), the Bank of
+neither rule has been fully implemented and Ghana should first undertake a gap analysis
+there are still gaps in these regulations, such of the existing regulatory framework for
+as the lack of specific enforcement measures consumer protection to identify specific
+and a lack of clarity of the application of the actions required to create a more consistent
+Consumer Recourse Guidelines for FSPs to and harmonized framework. Based on this
+all payment service providers. Therefore, analysis, it should develop a strategy for the
+enforcement remains a challenge for both creation of an overall consumer protection
+sets of rules. framework for all financial services, possibly
+by issuing specific regulations covering
+It is an urgent priority that these recourse and each type of product - e.g. credit, savings
+disclosure rules be implemented as soon as and payments - separately, and including
+possible once the gaps, including the lack specific guidelines for DFS channels in each
+of enforcement measures, are remedied, regulation. In the spirit of consolidation,
+to ensure a strong legal, regulatory and articles in the PSSA that speak to consumer
+supervisory framework for consumer protection should also be addressed in more
+protection. detail and included in the relevant regulation
+by product.
+In addition to the Consumer Recourse
+Guidelines for FSPs and the Disclosure Rules Other sector regulators such as the National
+for Credit Products, the Bank of Ghana is Insurance Commission and the Securities
+currently also working on an array of further and Exchange Commission should
+consumer protection regulations, including a undertake a similar exercise for DFS falling
+DFS-specific consumer protection regulation under their jurisdiction.
+as well as similar regulations for savings and
+current accounts and investment products. 2.4. Ensure deposit protection for individual
+There is also a need to strengthen the e-money accounts
+enforcement of lender obligations to credit
+bureaus to prevent negative reporting The Deposit Protection Act was passed by
+and bolster quality of information. This is Parliament in 2016, establishing a Deposit
+necessary to ensure consumer protection Corporation and introducing deposit
+and eliminate barriers to accessing service. insurance. The Deposit Corporation is still in
+institution-building mode, and enforcement demand for financial services such as credit,
+of the Act is still a challenge. In addition, even savings, and insurance.
+if the bank accounts in which an e-money
+issuer’s e-float is held is covered by the Current market dynamics concerning data
+Deposit Protection Act, it is not clear if this disadvantage new entrants, given that data
+protection passes on to individual e-money is key to the business models of FinTech DFS
+account holders through the concept of providers. Several super-platforms currently
+beneficial trusts, given the coverage limits. control some types of this data, such as social
+media, while banks and telecommunication
+The Deposit Corporation should, as a priority, companies each proprietarily possess and
+put in place the basics for deposit protection. control their customer data. New entrants
+Secondly, the Deposit Corporation should who do not have internal access to this data
+issue secondary legislation to clarify how are clearly at a disadvantage.
+e-money accounts of individual e-money
+account holders are protected by deposit Mandating some sort of data-sharing or
+insurance. data portability would equilibrate the market,
+based on the concept that the individual is
+2.5. Introduce interventions to ensure the considered the owner of their data, as is
+uptake of digital insurance service the basis of the Data Protection Act 2012.
+In particular, the Government of Ghana
+Given the important role that insurance would support the introduction of a limited
+plays in minimizing financial shocks, and the data-sharing regulation between data
+fact that digital insurance is well-placed to controllers (banks, MNOs, EMIs, social
+increase uptake of insurance products by the media platforms) and other appropriately
+mass market, the regulators should create a regulated DFS stakeholders, such as
+micro-insurance underwriting license that FinTechs, based on the provision of explicit
+allows qualified insurance intermediaries. user consent and the acceptance of strong
+This will create an appropriate category customer security requirements. The data
+and requirements for underwriting micro accessed under this regulation would
+insurance policies, without holding providers be strictly limited to what is required for
+to the same requirements as traditional the service the user has requested. The
+insurance underwriters. In addition, regulation will set out technical standards
+Government should transfer the authority and security requirements for APIs as well
+over private health insurance from the as requirements for customer consent and
+National Health Insurance Authority to the strong customer security.
+National Insurance Commission to allow for
+combined life/health policies. This action point will require strong support
+from the Ministry of Communications and the
+2.6. Introduce regulations governing the use Bank of Ghana in order to ensure acceptance
+and sharing of DFS user data by other stakeholders, such as banks, EMIs
+and MNOs.
+DFS providers are employing data analytics
+to develop alternative credit profiles using 2.7. Introduce a national competition law and
+(i) records of clients’ electronic transactions authority
+and telecommunications or social media
+behaviour as well as (ii) digitizing paper- The primary regulator of DFS in Ghana is
+based transaction data to identify potential the Bank of Ghana. However, given that
+these services are usually transmitted anticompetitive practices such exclusionary
+over telecommunications networks, there behaviour. An independent competition
+are certain areas where the National authority is best placed to arbitrate such ex
+Communications Authority has concurrent post issues, as it has market-wide jurisdiction
+or exclusive jurisdiction in regards to certain and so may be able to enforce certain
+DFS issues, such as access to and pricing of competition-relevant policies in DFS more
+the USSD and other communication (bearer) broadly and across more different types of
+channels, SIM registration and the primary providers than the individual sector-specific
+regulation of MNOs that are currently regulators. Further, a competition authority is
+undertaking DFS activities. The Bank of perhaps best placed to review and assess
+Ghana and the National Communications certain structural market changes, such as
+Authority are each responsible for their mergers and acquisitions, given its cross-
+sector-specific regulations, and thus for the industry and economic expertise.
+imposition of ex ante remedies for breach of
+these regulations. Currently this includes, to Although increasing the sector-specific
+a certain extent, market conduct rules but institutional and jurisdictional capacity of
+only in regard to their regulated entities. the DFS regulators in regard to competition
+matters is a short-term action point (see
+From a competition policy perspective, DFS Action Area 3 below), in the long term a
+markets implicate at least two industries – national competition law should be passed,
+financial services and telecommunications and a national authority be created, to best
+- whose characteristics (significant fixed monitor competition issues in DFS markets
+costs and sunk investments, economies and enforce any required sanctions and
+of scale and scope, essential facilities and remedies.
+network effects) make the sector more
+prone to market concentration and potential
+Photo Credit: EIFL - Knowledge without boundaries, 2015
+
+ACTION AREA 3: Capacity Building 3.2. All DFS providers to submit compliance
+reports digitally
+An enlarged, digital-first DFS ecosystem will
+bring challenges to the financial sector regulators In order for the Bank of Ghana, the National
+due to enhanced transaction volumes as well as Insurance Commission and the Securities
+an augmented number of ecosystem players, and Exchange Commission to ensure
+which will require a series of actions to increase effective implementation of the existing
+capacity: regulatory regimes, each DFS provider
+should submit regular electronic reports on
+3.1. Ensure that BoG and other financial a variety of DFS-related indicators, such as
+regulators have sufficient capacity and quality of service, agent activity, transaction
+resources to effectively supervise the DFS volumes, complaints, and fraud. This will
+space, particularly with competition matters allow each regulator to have a more global
+view of the DFS-specific products under
+There exists no national competition law, and their jurisdiction and enable each to take
+The Protection Against Unfair Competition more risk-based regulatory and supervisory
+Action Act 2000 contains solely provisions approaches to these products. Equally,
+on acts of unfair competition closely related this information should be part of an overall
+to intellectual property, such as confusion effective, regular consultative process
+to a trademark or dilution of goodwill of between regulators and their regulated
+a competitor. Anti-competitive market entities.
+behaviour is thus approached by the Bank
+of Ghana strictly as a market conduct issue, 3.3. Increase the technical capacity of the
+which is an insufficient framework for complex Data Protection Commission in regard to DFS
+and concentrated DFS markets. This lack of data, facilitate its cooperation with financial
+a framework in particular may affect new supervisors and evaluate the need for
+entrants’ ability to enter these markets and additional measures with regard to alternative
+compete effectively with established players. DFS data
+As the introduction of a national competition Although the Data Protection Act was passed
+law and authority is a long and uncertain in 2012, the Data Protection Commission
+process, the strengthening of the institutional (DPC) has only been recently established
+and jurisdictional capacity of the Bank of and thus is still focused on institution building,
+Ghana, the National Insurance Commission, having just started the registration process
+and the Securities and Exchange for data controllers. There has concurrently
+Commission in regard to competition been limited cooperation with the financial
+matters for institutions offering DFS under supervisors and the telco regulator. As a
+their jurisdiction should be the first priority. result, very few financial services providers
+This can be done through capacity building have been registered as data controllers, let
+as well as the signature of Memoranda alone DFS providers. Until the registration
+of Understanding between regulators on process has been completed, the DPC is
+jurisdictional competence. not in a position to take any action to enforce
+the law.
+In regard to financial services, data privacy Supervision department to effectively
+and data security are particularly important oversee the marketplace is challenged
+in order to ensure the security of customers’ as a result of (i) the rapid growth in the
+personal and financial information, and to number and diversity of DFS providers and
+prevent identity fraud. Further, both traditional channels; (ii) the increased volume of data
+transaction data and alternative data, such and transactions; and (iii) the inadequacy of
+as telecom and social media data, are at the the tools available to the supervisors.
+core of the business models of most new
+entrants in the DFS space, while established Likewise, the Financial Stability department,
+players are learning the importance of the which is responsible for the supervision
+data they already collect for cross-selling of banks and non-bank deposit-taking
+and customer targeting purposes. There are institutions as well as for consumer protection
+clearly DFS-specific risks that will need to be over all banking and payment products, may
+addressed by data protection framework. soon face the challenge of monitoring new
+digital-first or digital-only credit products, and
+The DPC requires additional resources to of implementing market conduct supervision
+successfully drive the registration process with millions of users that transact through
+to its conclusion. The technical capacity of digital channels.
+the DPC should be increased with training
+in regard to the specificities of the data Similarly, other DFS regulators such as
+created and used in the DFS ecosystem. the National Insurance Commission and
+Further, cooperation between the DPC, the Securities and Exchange Commission
+the financial supervisors (Bank of Ghana, see the markets under their jurisdiction
+National Insurance Commission, and expanding rapidly. Furthermore, as the
+National Health Insurance Authority) and the DFS markets open up to new players and
+National Communications Authority should offer an ever-increasing variety of services,
+be facilitated to coordinate the registration it becomes even more important to ensure
+of DFS providers, and if required, the that all relevant DFS data is being collected
+enforcement of their data protection (see Action Point 2 above) and to monitor
+obligations. The signing of an MOU is competition dynamics to ensure a level
+recommended to formalize this cooperation, playing field for all players.
+and to clarify enforcement and supervisory
+mandates. Lastly, as the Data Protection There is potential for RegTech solutions
+Act 2012 does not specifically address to help financial authorities improve the
+the use of alternative data in the financial efficiency and effectiveness of oversight
+sector, it should be evaluated to determine and compliance vis-a-vis an increasingly
+if additional regulations and measures with complex and data intensive marketplace.
+regards to alternative data are required. This is important because these solutions can
+streamline processes both for the supervisory
+3.4. Design a RegTech strategy across authorities as well as the supervised entities
+regulators and generate use-case specific intelligence
+that strengthen supervision and policy
+The PSSA includes explicit provisions giving development. RegTech solutions can be
+the Bank of Ghana the mandate to carry out used for multiple supervisory purposes,
+the oversight function over payment service including a better understanding of the
+providers and payment system operators. resilience of the DFS ecosystem, anti-money
+However, the capacity of the Payments laundering (AML)/counter financing of
+terrorism (CFT) supervision, fraud detection, value as well as what pursuing such a
+competition monitoring and customer strategy would require in terms of capacity,
+protection. cost, and risk. Some of these solutions
+are particularly relevant to improving the
+The Bank of Ghana should develop a efficiency of the Government to properly
+RegTech strategy identifying whether and design and implement programs that digitize
+how various RegTech solutions could add payments and transfers (see Action Area 5).
+Photo Credit: Adam Jones, Ph.D., 2010
+
+Photo Credit: Fiona Graham, 2016
+
+ACTION AREA 4: Market infrastructure employment records, financial histories, and
+other personal confidential information.
+Although Ghana has legacy financial
+infrastructure that is crucial to the adoption of 4.2. Upgrade the Ghana E-Payment Portal
+DFS and to ensuring that digital value remains (GEPP) platform’s payment and service
+in the payment ecosystem, there are a series capability, through the digital automation
+of actions that will be required to optimize this of forms and processes, the development
+infrastructure and to lay the foundation for a new of USSD and app-based access for certain
+and innovative digital financial infrastructure services, the creation of open APIs and the
+stack: re-engineering of current internal processes
+4.1. Establish the biometric centralized Launched in 2014, the GEPP provides critical
+National ID system and enable payments and back-end infrastructure to enable online
+other use cases through e-KYC payments for government services. The
+National Information Technology Agency
+(NITA) has the primary responsibility for
+The National Identification Authority (NIA) is upgrading the GEPP platform.
+currently rolling out a national biometric ID.
+This should be coupled with the availability Although the GEPP platform has further
+of online verification of the national biometric room for development and improvement as
+ID for service providers in order to prevent highlighted in the recent BTCA diagnostic,
+the use of fraudulent IDs. it is a key piece of Ghana’s payment
+infrastructure that can be strengthened
+As set out in Action Area 2, this ID can be through further investment in terms of
+used for e-KYC and thus to facilitate remote resources, policy direction, and capacity.
+or non face-to-face account activation. It
+should be noted, however, that a digitally In particular, the citizen’s application forms
+enabled ID system can also unlock further for services as well as the entire request
+payments and financial service use cases. process should be digitally automated, and
+For instance, if coupled with real-time push once built, access should be given to all
+payments which are available through participating Ministries, Departments and
+GhIPSS Instant Payment and a virtual Agencies (MDAs) to a citizen’s “digital locker”
+payment addressing system (see Action to facilitate the exchange of information
+Point 4.6 below), the payments addressing required for the delivery of certain services.
+layer can enable real-time funds transfer Further, certain services that do not require
+using ID numbers, phone numbers, email any digital upload or complicated data
+addresses, or other identifiers instead entry, such as a driver’s license renewal,
+of account details, which has numerous should be accessible via USSD as well,
+advantages including greater security, to take into account the citizens without
+flexibility, and competition. Integration of the access to internet. Concurrently, the GEPP
+biometric ID with credit reference bureaus can should create open APIs to incentivize
+resolve issues that often arise with uniquely the connection of the GEPP to third party
+identifying borrowers and which undermine payment platforms and integrators. To
+the quality of the data considerably, holding optimize all these actions, a re-engineering
+back lending. Biometric IDs can also enable of the current internal processes is required.
+data and document portability for customers Further, certain products such as digital
+if coupled with appropriate regulation and insurance require access to data on public
+“digital lockers” for birth, marriage and hospital admissions as well as registered
+deaths.
+4.3. Ensure effective interoperability between payment addressing system that links a
+bank and mobile payments, including citizen’s bank account to a virtual payment
+the development of a clear and neutral address such as the national ID number and
+governance structure for the integration of phone number, thus enabling the routing of
+mobile payments into the national switch payments to individuals; and (iii) a digital
+locker for storage of individual data that can
+Ghana’s national switch is managed by be shared with financial service providers
+GhIPSS and handles the electronic clearing upon consent as well as providing a secure
+of cheques and the processing and and virtual space into which government
+settlement of bulk debit and credit transfers agencies can issue official documents.
+between banks. The switch will soon be This infrastructure stack has enabled both
+technically interoperable with other types financial inclusion and digital payments
+of payments such as bank-to-mobile wallet, to increase rapidly in India. In particular, it
+mobile wallet-to-bank, and mobile wallet-to- has enabled e-KYC, allowing anyone with a
+mobile wallet transactions. biometric ID to open an account instantly at
+any customer service point in a paperless
+In order to ensure effective interoperability manner. Further, it has simplified payments
+between bank and mobile payment, there throughout the ecosystem, as money can
+should be a clear and neutral governance be sent to anyone simply by using a virtual
+structure for the integration of mobile payment address or their bank account
+payments into the national switch. This details. Equally, it has enabled access to
+structure should include rules concerning more sophisticated DFS such as loans, both
+liability, fraud, dispute settlement, and due to the transactional data generated
+consumer protection, and thus create a from the payments as well as the seamless
+level playing field so that all ecosystem ability to store and share other data. Lastly,
+stakeholders participate and connect to this the digital locker in particular allows for the
+switch. This can be achieved by allowing the decentralization of data in individual cloud-
+market to negotiate key commercial terms based accounts, which decreases the
+within a general enabling framework, rather risk of cyber hacks and could result in the
+than forcing compliance through a regulatory optimization of credit bureaus and collateral
+mandate. Thus, although GhIPSS can registries if these are plugged into the
+provide guidance on interchange pricing for market infrastructure to enhance their utility
+the national switch, with a focus on minimal and efficiency.
+pricing for low-value transactions, it should
+ultimately allow market forces to determine Ghana is facing similar issues to India in
+pricing. relation to financial inclusion and digital
+payments. As the Bank of Ghana and
+4.4. Complete a diagnostic of Ghana’s the National Identification Authority have
+payments infrastructure to assess missing already started work on critical elements
+elements of a digital infrastructure stack and of such a stack, such as payment services
+develop an implementation strategy. interoperability and a national biometric ID,
+Ghana is in a position to extract several
+India has developed a digital financial lessons from the implementation of the
+infrastructure stack which has three layers digital financial infrastructure stack in India,
+of infrastructure: (i) a biometric ID database, including the possible creation of a similar
+from which each citizen is issued a unique digital financial infrastructure stack.
+ID number (termed Aadhaar); (ii) a virtual
+The development of a purpose-built The Government will then jointly with the
+infrastructure stack could result in (i) the providers consider options for expanding
+simplification of payments and KYC for the reach of those networks so as to increase
+citizens, and (ii) the unlocking of further DFS access and ease the path towards national
+use cases. In order to assess where the financial inclusion objectives. Such options
+current gaps are in Ghana’s infrastructure might include time-bound subsidies for
+and capacity, a diagnostic should be establishing access points in challenging
+undertaken. Concurrently, there should be areas, perhaps through a universal service
+extensive engagement with the stakeholders access fund similar to the role GIFEC plays for
+so as to guide the development and the GSM communications network. It could
+implementation process and their intended also include provider incentives such as
+outcomes. This diagnostic and the results coverage bonuses, minimum requirements,
+from the shareholder engagement should be or some combination of both.
+the basis for an implementation strategy.
+4.6. Implement a digital financial infrastructure
+4.5. Monitor the coverage levels of cash-in/ stack through the creation of a virtual payment
+cash-out networks and explore potential addressing system, a payment bridge and a
+models for encouraging their expansion to governance structure
+underserved areas
+The implementation of the digital financial
+Given the importance of cash-in/cash-out infrastructure stack - the virtual payment
+networks-notably mobile money agents- addressing system, the payments bridge,
+in enabling customers to access and use and the governance structure – will require
+digital financial services, ensuring the long-term planning and resource allocation,
+broadest possible coverage nationwide is an as such a project requires significant capital
+important policy objective for the Government resources as well as the prior implementation
+in support of the NFIDS. The coverage and of a biometric ID and a fully interoperable
+quality of these networks will therefore be payment system. Equally the project will
+monitored by the Bank of Ghana and the require buy-in from several regulators,
+Government will explore potential avenues including the Bank of Ghana, the National
+to encourage their expansion into excluded Identification Authority, and the National
+and underserved areas as needed. Information Technology Agency and other
+state entities such as GhIPSS, as well as
+Monitoring will take place through the agent support from the private sector.
+database being established by the Bank
+of Ghana, into which e-money issuers are
+required to report location data for their cash-
+in/cash-out points. This will offer a continually
+updated view on the level of physical access
+to cash-in/cash-out networks in different
+parts of the country. On that basis, the
+Ministry in consultation with the stakeholders
+will establish an appropriate and realistic
+target commensurate with the goals in the
+overarching financial inclusion strategy.
+Photo Credit: John O’Bryan, 2015
+
+ACTION AREA 5: Digital payment use cases However, there is still a lot of work to be
+done in order for digital small-value P2G to
+As highlighted in the country digital payment become ubiquitous.
+diagnostic, cash payments dominate the
+majority of transactions for most stakeholders. The Government intends to move to digital
+The digitization of payments can drive DFS payments exclusively for government fees
+by building a comprehensive ecosystem and and fines, and to leverage GEPP as the central
+increasing the value proposition of DFS overall. payment infrastructure for MDAs, while
+Moreover, once a significant number of citizens promoting greater choice and competition.
+are on-boarded, a tipping point towards a cash- In order to achieve this, in addition to the
+lite economy can be achieved. Indeed, the Ghana various measures set out to upgrade the
+Digital Payments Roadmap to be launched by GEPP set out in Action Area 3 above, the
+MoF along with this policy, identifies key actions Ministry will undertake an audit of available
+and initiatives that will leverage existing strengths Government services whose payments
+and opportunities in the Ghanaian payments have not been digitized, to determine their
+ecosystem to implement projects with potential priority in MDA integration, given its limited
+for high impact effective digital transformation. resources. Once the prioritized MDAs are
+Whereas the roadmap serves as a more detailed identified, the Government can provide
+implementation plan with actions for both public support to improve the technical capacity
+and private sector, this policy looks at the steps of these prioritized MDAs as well as current
+that government can take to drive this initiative. In GEPP participating MDAs to migrate to
+light of this, with the limited nature of the Ministry’s digital payments.
+resources and capacity, the Ministry should
+drive citizen adoption of DFS payment use cases Second, as the current transaction fee levied
+that (i) have the most beneficial impact on the on the GEPP may be a barrier to adoption, the
+population; (ii) are characterized by habitual and Ministry of Finance, with inputs as relevant
+frequent expenditures for essential services; and from the Ministry of Communications, will
+(iii) are likely to increase living standards across negotiate with FSPs to lower costs or even
+all strata of the population. These include: offer discounts for digital payments through
+the GEPP to incentivize citizens to pay
+5.1. Support the digitization of small-value electronically. Third, the Government will
+Person-to-Government (P2G) payments undertake a public awareness campaign of
+the GEPP and digital P2G payments.
+The digitization of small-value P2G payments
+such as fees and fines offers convenience to Government’s short-term objective is to
+citizens. This will improve revenue collection expand the number of available, frequently
+and reduce rent-seeking behaviour as no used and essential P2G services on the GEPP
+face-to-face interaction will be required. platform, to lower the cost of usage of digital
+Even more importantly, the Government can payments and to raise public awareness, in
+strongly lead by example in digitizing these order to incentivize public use.
+payments.
+5.2. Incentivize and support digital payments
+The difficult work of building a central in the retail space
+e-services and e-payments portal and on-
+boarding most of the payment providers has According to the recent country payment
+been already undertaken by GEPP and the diagnostic, 99.9% of payments for
+National Information Technology Agency. consumption goods by volume are in cash,
+and these make up 94% of all payments These incentives may take various forms,
+by volume. Digitizing these payments is from lowering VAT on purchases up to a
+therefore the most effective way to reduce given threshold made with digital payments,
+the overall use of cash in the economy and to lower deemed profit tax rates of merchants
+thereby bring down the substantial costs and other businesses for amounts received
+incurred by the Government as well as by through banks and digital channels and
+businesses from cash production, handling, customer income tax rebates for an annual
+transport, safekeeping and destruction. expenditure report on payments made by
+digital means. It could also include directly
+Furthermore, digitizing even a small number paying the merchant fee for small-value
+of these transactions will not only substantially purchases, like India has recently started
+increase citizens’ participation in the digital doing.24
+payment ecosystem, it will also open up new
+paths for access to capital and insurance for These measures will be supported by
+small businesses that are typically excluded other efforts to support digital payments in
+from formal financial services. Lastly, as retail. One is to encourage interoperability
+women make up a large proportion of those and standardization across providers in
+selling retail goods, digitization in this area terms of technical standards, pricing, user
+will also directly improve their businesses experience, liability and recourse rules, etc.
+and personal security as well as offer further in order to facilitate adoption. Another is an
+economic opportunities. awareness campaign targeting customers
+as well as merchants on the usage and
+Although digitization of retail payments benefits of digital payments, in order to
+requires a concerted, collective industry counter any lack of trust in digital payments
+effort and engagement from all players of and the fact that such services are not yet
+the value chain, Government support is also broadly perceived to be convenient.
+important. Recognizing that tax concerns
+related to formalization is a significant 5.3. Support the digitization of public utility
+obstacle to adoption of digital payments by payments
+many small businesses, the Ministry commits
+to placing a moratorium on the use of digital The digitization of the payment of public
+payments data for tax assessments for the utilities such as water and electricity is
+duration of this strategy and to consider the particularly important. This is particularly
+question once more at the end of it. so due to the large amount of cash
+(99.84%)2 that is currently being used for
+Furthermore, the Ministry will encourage these payments, the sizeable impact that
+merchants and other payment acceptors digitization of such payments would have on
+(e.g., billers, farmers) and this will encourage the population (80% of the population uses
+the use of digital payments. In particular, at least one, if not both, of these services)
+it will offer tax incentives (i) to Fast Moving and the Government’s role as ultimate
+Consumer Goods (FMCG) companies shareholder in these utility companies. In
+that successfully shift merchant payments the case of off-grid electricity, access to
+to electronic through trade discounts; (ii) such energy via digital payment provides
+to financial service providers (FSPs) that a tangible incentive for users to register for
+support the roll-out of electronic merchant and actively use many other digital payment
+payments; and (iii) to retailers and individuals services, such as a mobile money account.
+that actively adopt electronic payments. The digitization of on-grid utility payments,
+especially if they enable end-to-end digital 5.5. Digitize NHIS premiums and their payment
+distribution through smart meters, would also on a monthly basis
+provide an entry point to a large segment of
+the financially excluded and enable them to Premiums to the National Health Insurance
+access a variety of formal financial services. Scheme (NHIS) are currently paid in a
+yearly lump sum in cash. Digitizing these
+To support this digitization, the Government payments, and enabling monthly payments,
+will provide financial and technical support will make it easier for the non-exempt
+to public utility companies to update their individuals to afford the scheme as well as
+internal accounting processes, including render payments more convenient. As the
+their accounting/reconciliation software/ entire population is eligible for registration to
+platforms, in order to solve issues arising with the NHIS and registration brings important
+reconciliation and fragmented databases. health benefits, these payments are a
+Secondly, it will deliver technical support good entry point into the digital payments
+to assist public utilities which have not yet ecosystem for a significant proportion of
+rolled out digital payments (e.g. electricity, currently financially excluded individuals.
+sanitation) in crafting effective partnerships
+with FSPs to implement the acceptance of 5.6. Authorize reception and payment of
+digital payments both for prepaid and post- international remittances directly by e-money
+paid utilities, and particularly for existing issuers
+smart meters.
+World Bank study in 2018, showed Ghana
+5.4. Digitize pension contributions and received US$ 3.8 billion in remittances.25
+distributions for the informal sector Currently the fees for international
+remittances can be significant, especially
+Approximately 60% of the population works in regard to low-value transfers, and most
+in the informal sector, many of whom are of these funds are immediately cashed out,
+financially excluded. The Government and thus taken out of the digital payments
+revealed in its 2018 Budget the development ecosystem. Beneficiaries of international
+of an Informal Sector Pension Scheme under remittances should have a variety of low-cost
+the third tier of the National Pension Scheme options to receive funds directly into their
+which will be first piloted in the Cocoa sector. mobile wallets instead of over the counter.
+The scheme can complement the efforts of Terminating remittances digitally ensures
+private sector corporate trustees. that funds remain in the DFS ecosystem and
+provides an entryway to other digital-based
+Given the high number of individuals who financial services.
+are financially excluded in the informal
+sector, the scheme should focus on using Currently only money transfer operators and
+digital payment both to accept contribution banks are authorised to undertake such
+payments and disburse pension payments. an activity, so any digital payment solution
+A national state pension scheme for informal requires a partnership and includes the high
+workers that leverages digital payment would transfer fees charged by these organisations.
+provide social protection to these citizens in EMIs and other digital payment providers
+their elderly years, bring informal workers could directly offer this service at very low
+into the digital payments ecosystem, and rates if authorized. Such lower transaction
+incentivize the adoption of other DFS, such fees may incentivize individuals to switch
+as savings and credit. from informal money transfer methods,
+funnelling funds into the formal payments intersection of digitalization and lending. As
+ecosystem. government continues to explore innovative
+ways to drive lending to the agricultural sector
+5.7. Support the digitization of agriculture especially smallholder farmers, digital credit
+value chain payments presents a viable opportunity to achieve that
+objective. The constraints associated with
+The agricultural sector in Ghana has using traditional lending models to assess
+challenges with fragmentation, lack of smallholder farmers, often do not apply to
+transparency, inefficiency and lack of digital credit. This policy therefore presents
+coordination. Digitization of the sector’s an opportunity to appropriately assess
+activities can address some of these smallholder farmers and extend credit to
+challenges by introducing transparency, them as well as other actors in the value
+improving efficiency and reducing risk. chain.
+With several examples of successful
+agricultural payment digitization initiatives 5.8. Subsidize the purchase and installation
+in Ghana, government has an opportunity of homogeneous smart meters for electricity
+to replicate that success across the entire and water
+sector through policy. Such efforts must go
+beyond the priority value chains such as Although the digitization of payment for post-
+cocoa, which have been structured under paid public utilities will save customers the
+the administrative board. time required to pay a bill as well as result in
+savings and revenue for the utility, it will only
+Government’s effort can include a directive provide an incremental benefit to the parties,
+to buyers in selected value chains to pay as there is no end-to-end digital distribution
+all farmers digitally. This directive can of the service. Achieving public utility end-to-
+subsequently be scaled to other value chains. end digital payment and delivery of services
+There is significant momentum towards will reduce significantly a customer’s overall
+digitization of farmer payments within the transaction costs in obtaining the services,
+cocoa sector, both driven by industry and the as well as eliminate payment delinquencies
+COCOBOD which is the government body for the public utility.
+overseeing the value chain. Several licensed
+buying companies (LBCs) are piloting digital The solution for end-to-end digital payment
+farmer payments (both using e-zwich cards and distribution is the smart prepaid meter,
+and mobile money) while COCOBOD is also which allows for remote meter reading and
+committed to shifting to digital disbursement crediting via digital payment means such
+for all their subsidies. A government directive as mobile money. Currently there are no
+on shifting payment away from cash would smart water meters, and only 20% of post-
+have a significant impact on accelerating this paid electricity meters are smart (of which
+trend, have significant benefits for the farmer there seem to be many different meters that
+and drive financial inclusion in rural areas. require different communication protocols).
+Though there is most progress currently in As the roll-out of smart meters is a significant
+cocoa, the government directive should capital investment for public utilities, the
+cover all value chains in order to expand the Government plans, in the long term, to
+ecosystem for DFS. subsidize the purchase and installation of
+homogeneous smart meters for electricity
+In addition to stimulating payments, and water.
+government should look closely at the
+5.9. Roll-out of end-to-end delivery of It should be noted that this roll-out can
+Government services be done either by centralizing all service
+provision through the GEPP or by using the
+In order to achieve full digitization of small- GEPP as the user interface and payment
+value P2G payments, the main pain point tool and redirecting to the MDA websites for
+of the citizens must be addressed – that service fulfilment. The digital automation of
+obtaining a government service may require forms and process, the development of a
+several trips to the relevant MDAs, and long digital locker for exchange of information,
+waiting times when there. The roll-out of end- and the development of USSD access for
+to-end delivery and payment of government certain services, as set out in Action Area 4,
+services significantly reduces a citizen’s will create the building blocks required.
+transaction costs and will be an important
+accelerator for adoption. Therefore, the
+Government’s long-term objective is to
+ensure this end-to-end digital service
+provision for its services.
+Photo Credit: John O’Bryan, 2015
+
+Photo Credit: Dominic Chavez, 2015
+
+ACTION AREA 6: Support FinTech have been possible on the Ghana Revenue
+Authority website, with digital payment via
+FinTech firms are crucial actors in rendering the the GEPP platform.
+DFS ecosystem competitive. With increasing
+smartphone penetration and a regulatory There is, however, still much work to be
+regime that is already embracing innovation in done to ensure a conducive environment
+payments, the Ghanaian FinTech firms that are for FinTech start-ups in Ghana. As set
+active in the payments space are already well out in Action Area 2, further reform and
+placed to mobilize and grow. There are, however, legislation is required to ensure all FinTech
+certain actions that can be taken to ensure a start-ups in DFS are competing in an open
+more conducive environment for all FinTech and level ecosystem. Moreover, the current
+firms in Ghana, which will create increasing tax measures seem ineffective in attracting
+opportunities for DFS: investors, and the implementation of
+NEIP, including its tax provisions, has only
+6.1. Undertake an assessment of the policy commenced. There are also other legal and
+environment in place for FinTech firms and regulatory measures which may be slowing
+investors start-up growth, such as company, labour
+and/or intellectual property regulation. It is
+The Government is committed to supporting therefore an opportune moment to undertake
+start-ups with its National Entrepreneurship an audit of all relevant measures to identify
+and Innovation Plan (NEIP), which was concrete actions in the legal, regulatory and
+presented in the 2017 budget and officially tax domains that may support start-ups and
+launched in July 2017. It aims to provide investors.
+integrated support to early stage (start-ups
+and small) businesses, focusing on the 6.2. Assess the need of a regulatory sandbox
+provision of business development services, for FinTech products
+business incubators, and special funding for
+youth-owned businesses. One of the biggest challenges many
+FinTechs face is the pace at which their
+In addition, the tax regime is generally sector regulators can assess and approve
+enabling for investors and start-ups. Five- innovation. This has increased the need for
+year tax exemptions in respect to corporate government to assess the need for regulatory
+income tax, dividend tax and capital gains sandboxes. However, in order to avoid a
+tax are available to investors, as well as the sprawl of sectoral sandboxes, government
+carrying forward of losses from any such must pursue a harmonised approach for
+investment post the exempt period up to 5 sandboxes.
+years. The Government has also revealed in
+its 2018 budget the granting of tax holidays, 6.3. Provide direct Government support for
+under the NEIP, to young Ghanaian FinTech entrepreneurship
+entrepreneurs of age 35 years and below
+who start their own businesses, followed by In addition to implementing any
+a preferential tax rate between 3 to 5 years recommendations that result from the audit,
+after the tax holiday and the ability to carry there are specific direct measures the
+forward losses for five years. Government can take to support FinTech
+entrepreneurship.
+Further, since 2016, online business
+registration and other company services
+First, within the framework of NEIP, specific 6.4. Privilege FinTech-based payment
+innovation hubs that support young solutions for Government-to-Person and
+entrepreneurs in Ghana’s FinTech industry Government-to-Business payments
+should be developed. These hubs should
+offer venture incubation, business and Many Government payments are already
+skills development, and the fostering of digitized, as most Government-to-Person
+multinational and global partnerships. This (G2P) payments are made by bank transfer
+approach can also be replicated in other (e.g. salaries of civil servants and pensions)
+national initiatives on entrepreneurship, and e-zwich (e.g., social transfers), while
+employment and innovation. Second, Government-to-Business (G2B) and
+Government should sponsor profile-raising Business-to-Government (B2G) payments
+local and regional conferences and events are by cheque or EFT, and Person-to-
+to support the local FinTech industry as Government (P2G) payments are mainly cash.
+well as existing accelerators, incubators, The use of local FinTech solutions to facilitate
+and common workspaces. Lastly these payments, however, is mostly absent.
+Government should champion technology- The Ministry of Finance and other Ministries
+and entrepreneurship-friendly curricula will proactively adopt FinTech solutions for
+in universities and vocational schools to their own digital payments (both G2B and
+help grow the next generation of FinTech G2P), both to harness the cost savings and
+entrepreneurs. efficiency of digital payments and to serve as
+a role model to citizens and businesses. This
+These types of support measures will most roll-out could be coupled with a RegTech
+likely be piloted by the NEIP, so the MoF solution to allow for the planning and
+must ensure communication with the NEIP monitoring of G2P and G2B payments (see
+to avoid duplication of efforts and to identify Action Area 3). These actions signal strong
+specific areas for its action. support of innovation and FinTech.
+Photo Credit: Startup inside, 2017
+
+Annex 1: Timeline of Action Points
+The timeframe for reaching the various milestones is outlined below:
+Short-term action points (12-18 months):
+AREA ACTION POINT
+1 Strive for improved forms of dialogue between industry and the relevant regulators
+and supervisors, and within the Government of Ghana itself
+Establish a digital task force in the Ministry of Finance focused on DFS
+2 Strengthen and fully implement the Consumer Recourse Guidelines and the
+Disclosure Rules for Credit Products
+Create a strategy for a consumer protection framework for financial services
+Ensure deposit protection over individual e-money accounts
+3 Ensure that BoG and other financial regulators have sufficient capacity and
+resources to effectively supervise the DFS space
+Require that all DFS providers to submit compliance reports digitally
+Increase the technical capacity of the Data Protection Commission in DFS data
+4 Facilitate DPC’s cooperation with financial supervisors and evaluate the need for
+additional measures with regard to alternative DFS data
+5 Establish the biometric centralized National ID system and enable payments and
+other use cases though e-KYC
+AREA ACTION POINT
+Upgrade the Ghana E-Payment Portal (GEPP) platform’s payment and service delivery
+capacity through the digital automation of forms and processes, the development of USSD
+access for certain services, the creation of open APIs and the re-engineering of current
+internal processes
+Ensure effective interoperability between bank and mobile payments, including the
+development of a clear and neutral governance structure for the integration of mobile
+payments into the national switch
+Undertake a diagnostic of Ghana’s current infrastructure to assess missing elements
+of a digital payment infrastructure stack and develop a strategy for implementation,
+accompanied by stakeholder engagement
+Monitor the coverage levels of cash in/cash out-networks and explore potential models for
+encouraging their expansion to underserved areas
+6 Support the digitization of small-value P2G payments
+Incentivize and support digital payments in the retail space
+Support the digitization of public utility payments
+7 Strengthen the enforcement of lender obligations to credit bureaus to prevent negative
+reporting and bolster quality of information
+8 Undertake an assessment of the policy environment in place for FinTech firms and
+investors
+Assess the need for a regulatory sandbox for FinTech products
+Provide direct Government support for FinTech entrepreneurship
+Privilege local FinTech-based payment solutions for Government to Person and
+Government to Business payments
+Medium-term action points (18-36 months):
+AREA ACTION POINT
+1 Strengthen the institutional and jurisdictional capacity of DFS regulators in regard to
+competition matters
+2 Introduce the digitization of pension contributions and distributions for the informal sector
+Introduce the digitization of NHIS premiums and their payment on a monthly basis
+Authorise the receipt and payment of international remittances by e-money issuers
+Support the digitization of agriculture value chain payments
+3 Support digital credit for the agricultural sector
+Long term action points (>36 months):
+AREA ACTION POINT
+1 Introduce regulation governing data sharing among data collectors (banks, MNOs, EMIs,
+social media platforms) and other appropriately regulated DFS stakeholders
+Introduce a national competition law
+2 Design a RegTech strategy across regulators
+3 Implement a digital financial infrastructure stack through the creation of a virtual payment
+addressing system, a payment bridge, and a governance structure
+Further expand telecommunications connectivity
+4 Subsidize the purchase and installation of homogeneous smart meters for water and
+electricity
+5 Create a micro-insurance underwriting license that allows qualified insurance
+intermediaries
+Transfer the authority over private health insurance from the National Health Insurance
+Authority to the National Insurance Commission to allow for combined life/health policies
+Photo Credit: Jonathan Ernst, 2006
+
+Annex 2: NFIDS targets applicable
+to DFS Policy
+CATEGORY INDICATORS 2015 / 2016 2020 2023
+FORMAL Ghana (adults) 58% 70% 85%
+FINANCIAL
+INCLUSION Women (adults) 57% 70% 85%
+Rural (adults) 51% 65% 80%
+Poorest quintile (adults) 41% 55% 70%
+DIGITIZATION Registered Mobile Money Accounts (Million)26 19.7 34.0 36.0
+OF PAYMENTS
+Active Mobile Money Accounts (Million)27 8.3 14.0 17.0
+PENSIONS Number of individuals with a Tier III Pension Plan28 148,882 289,744 349,465
+Source: NFIDS
+Photo Credit: Gunnar Salvarsson, 2014
+
+Endnotes
+1“Accelerating Regtech for Regulators”, accessed 9th June 2019,
+2 “Country Diagnostic: Ghana”, Better Than Cash Org. 2017.
+3 BTCA, 2016
+4 Raman, A. 2017. India Government estimates, in a presentation titled “India Stack”, October 10, 2017.
+5 “Direct Benefit Transfer”, Government of India. 2019. Accessed 25 June 2019,
+6 Babatz, G. 2013. “Sustained Effort, Saving Billions: Lessons from the Mexican Government’s Shift to Electronic
+Payments”. In Better Than Cash Alliance Evidence Paper: Mexico Study, 1st November 2013,
+7 Lindert, K, Linder, A, Hobbs, J, & De la Briére, B. 2007. “The Nuts and Bolts of Brazil’s Bolsa Família Program:
+Implementing Conditional Cash Transfers in a Decentralized Context.” World Bank Social Protection Working
+Paper No.0709,
+8 FII Ghana Survey 2014.
+9 Financial technology is the new applications, processes, products, or business models in the financial
+services industry, composed of one or more complementary financial services which are provided as an end-
+to-end process via the Internet.
+10 Figure is from 2014.
+11 This figure is from 2014, but based on anecdotal industry data, it is still representative of the current position.
+12 FII Ghana Survey 2014. “Savings” is defined as any safekeeping instrument, including formal instruments
+(bank accounts, mobile money, MFI accounts) and informal instruments (in safe place, with other individuals).
+13 FII Ghana Survey 2014.
+14 FII Ghana Survey 2014. “Investment” is defined as any instrument which may bring a return, including
+government bonds, company shareholdings, physical assets, and owning of own business.
+15 FII Ghana Survey 2014.
+16 This figure dates from 2017 and is an industry estimate.
+17 Bank of Ghana, 2015. “Guidelines for E-money issuers in Ghana”.
+18 Bank of Ghana, 2015. “Agent Guidelines”.
+19 GSMA, 2014. “Should the interest accrued on the trust or escrow account be paid out to mobile money
+customers?”.
+20 Bank of Ghana, 2011. “Know Your Customer Policy”, 14th January 2011.
+21 FATF, 2012-2018. “International Standards on Combatting Money Laundering and the Financing of Terrorism
+& Proliferation, FATF, Paris, France.
+22 Bank of Ghana, 2017. “Customer Recourse Mechanism Guidelines for Financial Service Providers”, 20th
+February 2019.
+23 Bank of Ghana, 2017. “Disclosure and Product Transparency Rules for Credit Products & Services”.
+24 Times of India, 2017. “Government will bear merchant charge on debit card purchases up to Rs 2000”. TOI,
+16th December 2017.
+25 World Bank Group.
+26 Data is from 2016.
+27 Data is from 2016.
+28 Data is from 2016.
+Photo Credits: Buddy Buruku, 2020

@@ -1,0 +1,11 @@
+Ghana Stock Exchange Listing Rules
+
+These rules govern the listing and trading of securities on the Ghana Stock Exchange (GSE).
+
+Main Market Requirements: Companies seeking listing on the main market must have a minimum stated capital, a track record of profitability, and a minimum number of shareholders. Annual financial statements must be audited by an approved auditor.
+
+Ghana Alternative Market (GAX): The alternative market provides a platform for small and medium enterprises to raise capital with less stringent listing requirements than the main market. GAX-listed companies benefit from reduced regulatory costs and simplified reporting requirements.
+
+Disclosure Requirements: Listed companies must publish annual reports within four months of their financial year-end. Material information that could affect share prices must be disclosed immediately to the exchange. Insider trading is prohibited.
+
+Corporate Governance: Listed companies must comply with corporate governance guidelines including board composition requirements, establishment of audit committees, and separation of the roles of chairman and managing director.

@@ -1,0 +1,15 @@
+Securities Industry Act, 2016 (Act 929)
+
+This Act establishes the legal framework for the securities industry in Ghana, providing for the regulation and promotion of the securities market by the Securities and Exchange Commission (SEC).
+
+Market Operators: The Act establishes categories of market operators including broker-dealers, investment advisers, fund managers, custodians, trustees, and credit rating agencies. All market operators must be licensed by the SEC.
+
+Collective Investment Schemes: Mutual funds in Ghana are companies formed under the Companies Act, 2019 (Act 992). Unit trusts are established under trust deeds. Both must be registered with the SEC. Fund managers must be licensed and act as fiduciaries.
+
+Types of Funds: Money market funds invest in short-term securities including Treasury bills, commercial papers, and fixed deposits. Equity funds invest in shares listed on the Ghana Stock Exchange. Bond funds invest in government and corporate debt securities. Balanced funds combine equity and fixed income investments.
+
+Investor Protection: The SEC must approve all prospectuses before public offering. Fund managers must provide investors with regular reports on fund performance. Custodians must hold fund assets separately from their own assets. The SEC can suspend or revoke licences for non-compliance.
+
+Ghana Stock Exchange: The Act provides for the establishment and regulation of securities exchanges. The Ghana Stock Exchange (GSE) operates two markets: the main market (GSE Composite Index) and the alternative market for smaller companies (Ghana Alternative Market, GAX).
+
+Treasury Bills and Government Securities: Treasury bills are short-term government debt instruments issued by the Bank of Ghana on behalf of the Government of Ghana. They are available in 91-day, 182-day, and 364-day tenors. Individual investors can purchase Treasury bills through licensed primary dealers.

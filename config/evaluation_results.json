@@ -1,0 +1,15 @@
+{
+  "retrieval": {
+    "source_hit_rate": 0.9333333333333333,
+    "avg_similarity": 0.7050152152776719
+  },
+  "quality": {
+    "faithfulness": 4.8,
+    "relevancy": 4.7,
+    "correctness": 4.566666666666666
+  },
+  "performance": {
+    "avg_response_time": 4.55452659924825,
+    "total_tokens": 43802
+  }
+}

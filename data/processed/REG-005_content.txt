@@ -1,0 +1,11 @@
+Insurance Act, 2021 (Act 1061)
+
+This Act provides the regulatory framework for the insurance industry in Ghana under the supervision of the National Insurance Commission (NIC).
+
+Licensing: All insurance companies, brokers, and agents must be licensed by the NIC. Minimum capital requirements apply: 50 million cedis for life insurance companies, 50 million cedis for non-life insurance companies.
+
+Microinsurance: The Act introduces a regulatory framework for microinsurance, enabling low-cost insurance products designed for low-income populations. Microinsurance products must be simple, affordable, and accessible.
+
+Insurtech and Sandbox: The NIC has granted sandbox licences to innovative insurance technology companies including Figtech, Moovon Insure, and ETAP. The sandbox allows controlled testing of new insurance delivery models.
+
+Consumer Protection: Insurance companies must handle claims within 90 days of receiving all required documentation. Policyholders have the right to cancel policies within 15 days of purchase (cooling-off period). The NIC maintains a complaints resolution mechanism.

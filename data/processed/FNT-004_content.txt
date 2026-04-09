@@ -1,0 +1,13 @@
+Corporate Governance Guidelines for Payment Service Providers (2025)
+
+The Bank of Ghana issued these guidelines to strengthen corporate governance among payment service providers, banks, and specialised deposit-taking institutions.
+
+Board Composition: The board of directors must include a mix of executive and non-executive directors. At least one-third of board members must be independent directors. Board members must possess relevant qualifications and experience in financial services, technology, or risk management.
+
+Board Committees: Payment service providers must establish audit committees, risk management committees, and governance committees. Each committee must be chaired by an independent non-executive director.
+
+Key Management Personnel: Appointment of key management personnel including the CEO, CFO, CTO, and compliance officer requires prior approval from the Bank of Ghana. All key personnel must meet fit and proper criteria.
+
+Compliance and Reporting: Payment service providers must submit quarterly compliance reports to the Bank of Ghana. Annual governance reports must be published. Internal audit functions must be independent of management.
+
+Effective Date: These guidelines took effect on 31 December 2025 and apply to all payment service providers, banks, and specialised deposit-taking institutions regulated by the Bank of Ghana.

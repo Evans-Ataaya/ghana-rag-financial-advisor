@@ -1,0 +1,1497 @@
+SECURITIES AND EXCHANGE COMMISSION, GHANA
+Ensuring Investor Protection
+SECURITIES INDUSTRY (FINANCIAL RESOURCES)
+GUIDELINES 2025
+SEC/GUI/002/08/2025
+
+ARRANGEMENT OF GUIDELINES
+1. Powers of the Commission ....................................................................................................4
+2. Application of Guidelines ......................................................................................................4
+3. Accounting Treatment ...........................................................................................................4
+4. Financial Resources Requirements ........................................................................................4
+5. Minimum capital requirement for market operators ..............................................................4
+6. Liquid capital requirement for market operators ...................................................................4
+7. Calculation of liquid capital and required liquid capital ........................................................4
+8. Accounting for transactions on trade date basis ....................................................................5
+9. Valuation of proprietary positions .........................................................................................5
+10. Pairs of transactions ...............................................................................................................6
+11. No set-off ...............................................................................................................................6
+12. Transactions in margin accounts ...........................................................................................7
+13. Assignments ..........................................................................................................................8
+14. Treatment of securities borrowing and lending agreements ..................................................8
+15. Treatment of repurchase transactions ....................................................................................9
+Liquid assets ............................................................................................................................................9
+16. A market operator shall, for the purpose of calculating its liquid assets apply the
+computation basis prescribed in these Guidelines including applicable haircut percentages. ..........9
+17. Exclusions from liquid assets ................................................................................................9
+18. Assets provided to others as security .....................................................................................9
+19. Cash in hand and at bank .....................................................................................................10
+20. Amounts receivable from clients in respect of purchase of and subscription for securities 10
+21. Amounts receivable in respect of providing securities margin financing ...........................11
+22. Amounts receivable from counterparties in respect of dealings in securities ......................12
+23. Cash provided as security for short selling ..........................................................................13
+24. Proprietary positions of licensed entities .............................................................................13
+25. Amounts receivable from clearing houses ...........................................................................13
+26. Amounts receivable under securities borrowing and lending agreements ...........................14
+27. Amounts receivable under repurchase transactions .............................................................14
+28. Miscellaneous assets ............................................................................................................14
+Ranking liabilities .................................................................................................................................15
+29. Amounts payable to clients ..................................................................................................15
+30. Amounts payable in respect of dealing in securities............................................................15
+31. Provision of securities margin financing .............................................................................15
+32. Short positions in securities and specified investments .......................................................16
+33. Concentrated proprietary positions ......................................................................................16
+34. Securities borrowing and lending agreements .....................................................................16
+35. Repurchase transactions ......................................................................................................16
+36. Net underwriting commitments ...........................................................................................17
+37. Off-exchange traded derivative contracts ............................................................................17
+38. Interest rate swap agreements ..............................................................................................18
+39. Foreign exchange agreements .............................................................................................18
+40. Miscellaneous ......................................................................................................................18
+41. Other liabilities ....................................................................................................................18
+42. Market operators to notify Commission of failure to comply with these Guidelines ..........19
+43. Market operators to notify Commission of circumstances relating to financial resources
+and trading activities and to submit returns in certain cases ..........................................................19
+44. Market operators to submit returns to Commission.............................................................21
+45. Market operators to provide information .............................................................................21
+46. Approvals ............................................................................................................................21
+47. Withdrawal of elections made under these Guidelines ........................................................22
+48. Transitional provisions ........................................................................................................22
+49. Interpretations ......................................................................................................................22
+SCHEDULES AND TABLES ..............................................................................................................29
+Schedule 1 .............................................................................................................................................29
+TABLE 1 ...............................................................................................................................................29
+REQUIRED LIQUID CAPITAL ..........................................................................................................29
+Schedule: 2 ...................................................................................................................................29
+HAIRCUT PERCENTAGES ................................................................................................................29
+TABLE 1 ...............................................................................................................................................29
+HAIRCUT PERCENTAGES FOR SHARES LISTED IN GHANA FOR THE PURPOSES OF
+THESE GUIDELINES .........................................................................................................................29
+TABLE 2 ...............................................................................................................................................30
+HAIRCUT PERCENTAGES FOR SHARES LISTED ON EXCHANGES IN FOREIGN MARKETS30
+TABLE 3 ...............................................................................................................................................30
+HAIRCUT PERCENTAGES FOR QUALIFYING DEBT SECURITIES, BY ISSUER OR
+GUARANTOR, ETC. ...........................................................................................................................30
+TABLE 4 ...............................................................................................................................................31
+HAIRCUT PERCENTAGES FOR QUALIFYING DEBT SECURITIES, BY REMAINING TERM
+TO MATURITY ...................................................................................................................................31
+TABLE 5 ...............................................................................................................................................31
+HAIRCUT PERCENTAGES FOR SPECIFIED SECURITIES ...........................................................31
+TABLE 6 ...............................................................................................................................................31
+HAIRCUT PERCENTAGES FOR SPECIAL DEBT SECURITIES ...................................................32
+TABLE 7 ...............................................................................................................................................32
+HAIRCUT PERCENTAGES FOR OTHER ASSETS .........................................................................32
+SECURITIES INDUSTRY (FINANCIAL RESOURCES) GUIDELINES, 2025
+1. Powers of the Commission
+In the exercise of the powers conferred on the Securities and Exchange Commission (hereinafter
+referred to as “the SEC”) pursuant to paragraphs 3 and 209 of the Securities Industry Act 2016
+(Act 929) as amended by the Securities Industry (Amendment) Act 2021, Act (1062), these
+Guidelines are issued this 12th day of August, 2025.
+2. Application of Guidelines
+1) These Guidelines shall apply to a person licensed by the Commission as a market
+operator.
+2) The Commission may grant an exemption or partial exemption or waiver from
+compliance with these Guidelines, subject to Paragraph 210 of the Act.
+3) Where the Commission agrees to waive the full application or any part of these
+Guidelines, it shall issue a directive to the market operator that states what alternative
+measures shall be put in place by the market operator in place of full application of these
+Guidelines.
+4) Where any doubt arises about the meaning of any provision contained in these Guidelines
+and any other Guideline issued by the Commission, the same shall be referred to the
+Commission and the interpretation provided by the Commission shall be final.
+3. Accounting Treatment
+1. For the purposes of these Guidelines, a market operator shall account for all assets and
+liabilities-
+(a) in accordance with International Financial Reporting Standards (IFRSs), unless
+otherwise specified in these Guidelines; and
+(b) in a way that recognizes the substance of a transaction, arrangement or position
+including accounting for a structured bond as a derivative product and not as a debt
+security.
+2. Subject to paragraph 3(3), a market operator shall not without notifying the Commission
+under paragraph 46 (1) (c), change any of its accounting policies, other than those
+referred to in subparagraph 46 (1)(c), in a way that may materially affect the liquid
+capital or paid-up share capital that it maintains or is required to maintain under these
+Guidelines.
+3. A market operator may, with the Commission's prior written approval, adopt accounting
+policies other than one of those referred to in paragraph 3 (1).
+4. Financial Resources Requirements
+A market operator shall at all times maintain financial resources in the amount specified
+under these Guidelines.
+5. Minimum capital requirement for market operators
+1. For the purposes of Paragraph 4, a market operator shall at all times maintain
+minimum paid-up share capital as prescribed under the Securities Industry
+(Licensing) Guidelines 2020.
+2. A market operator shall ensure that its paid-up capital is not impaired by losses.
+Where the surplus of the market operator is negative, the shareholders’ funds of the
+market operator shall be at least equal to the required paid-up capital.
+6. Liquid capital requirement for market operators
+For the purposes of Paragraph 4, a market operator shall at all times maintain liquid
+capital which is not less than its required liquid capital as specified in Table 1 of
+Schedule 1.
+7. Calculation of liquid capital and required liquid capital
+(1) A market operator, for the purposes of calculating its liquid capital and required liquid
+capital, shall account for all its assets, liabilities and transactions in accordance with
+these Guidelines.
+(2) The liquid capital calculation shall be done in accordance with the format in Schedule
+2, Table 8. A market operator shall have and maintain at any given time the minimum
+liquid funds amounting to the highest of:
+(a) 50% of its minimum capital requirement; or
+(b) 25% of expense base. The expense base shall be the average of the last
+three (3) years expenses as per its annual audited financial statements; or
+(c) 10% of adjusted liabilities as defined in these Guidelines.
+(3) For the purposes of these guidelines:
+(a) “Liquid assets” shall mean all assets shown on the balance sheet of a
+market operator less any applicable haircut percentages specified in these
+guidelines for those assets. This shall also take into account the aggregate
+of the amounts required to be included in its liquid assets under Paragraphs
+16 to 28 of these guidelines.
+(b) "adjusted liabilities” means the sum of its on-balance sheet liabilities
+including liabilities excluded from the market operator’s balance sheet and
+all liabilities required under Paragraphs 29 to 41 of these guidelines. A
+market operator shall also include in its adjusted liabilities 5% of the
+average revenue from the last three years to cover Operational Risk.
+Obligation to monitor liquidity
+(4) A market operator shall:
+(a) constantly monitor the position of its actual liquid funds and introduce additional
+funds whenever its liquid funds fall below the required liquid capital specified within
+five (5) business days of the shortfall arising; and
+(b) immediately notify the Commission when its liquid funds fall below the minimum
+specified.
+(5) Without prejudice to the generality of these Guidelines, the Commission may require
+a market operator to introduce funds to enhance its liquidity within a specified period
+and the market operator shall do so within the specified period
+(6) A market operator who fails to introduce additional funds within the time specified
+under Sub-paragraph 7 (4) is liable to pay 200 penalty unit for each day the default
+subsists and shall have its licence suspended if the period of default exceeds 30 days.
+8. Accounting for transactions on trade date basis
+A market operator, for the purposes of calculating its liquid capital and required liquid
+capital, shall account on a trade date basis for all transactions effected by it, whether as
+principal or agent, in relation to:
+(a) any dealing in
+i. any securities; or
+ii. a derivative contract; or
+(b) entering into any foreign exchange agreement; or
+(c) interest rate swap agreement
+9. Valuation of proprietary positions
+(1) A market operator, for the purposes of calculating its liquid capital and required liquid
+capital, shall, subject to subparagraph (2), value any open position in:
+(a) any securities;
+(b) a derivative contract;
+(c) a foreign exchange agreement; or
+(d) an interest rate swap agreement;
+entered into for its own account at market value.
+(2) Notwithstanding subparagraph (1), for the purposes of calculating the liquid capital
+and required liquid capital of a market operator, any reference in these Guidelines to the
+market value of the securities referred to in this subparagraph shall be construed as
+referring to the value (including any nil value) at which they are required to be valued
+under this subparagraph, namely-
+(a) debt securities other than a certificate of deposit, in respect of which there is no
+published market price, shall be valued-
+(i) at the average value of quotations obtained in respect of those debt
+securities from-
+(A) at least 2 market makers; or
+(B) where in relation to any debt securities there are less than 2
+market makers, at least 2 banks, securities dealers outside Ghana
+or market operators, who customarily deal in such debt securities,
+or at least 2 of the persons referred to in this sub-subparagraph; or
+(ii) if the quotations referred to in subparagraph (i) are not available-
+(A) in the case of long positions, at nil; or
+(B) in the case of short positions, at the face value of the debt
+securities;
+(b) listed securities which have been suspended from trading for at least three (3)
+business days or ceased trading on any exchange on which the securities were
+listed, shall, unless the securities can continue to be traded on any other exchange
+on which the securities are listed, be valued-
+(i) in the case of long positions, at nil; or
+(ii) in the case of short positions, at the last closing price before the
+suspension or cessation of trading;
+(c) certificates of deposit issued by an authorized financial institution in respect of
+which there is no published market price, shall be valued at 90% of the value
+quoted by the issuer.
+(d) certificates of deposit issued by an approved bank incorporated outside Ghana, in
+respect of which there is no published market price, shall be valued at
+1. 90% of the value quoted by the issuer, where the issue is rated investment
+grade by a recognised rating agency
+2. 75% where the issue is not rated or is rated below investment grade
+(e) certificates of deposit issued by specialised deposit taking institutions shall be
+valued at 75% of the value quoted by the issuer.
+10. Pairs of transactions
+A market operator who enters into a pair of transactions in which its respective roles are
+opposite, but which otherwise have identical or similar terms, shall account for the
+transactions as separate transactions.
+11. No set-off
+1. Subject to subparagraphs (2), (3), and (4) and paragraph 20(2), the assets and
+liabilities of a market operator shall be treated separately on a gross basis and shall
+not be set-off against each other.
+2. Subparagraph (1) does not apply in respect of any amounts receivable by a market
+operator from, and any amounts payable by it to, a recognized clearing house, where
+the Guidelines of the clearing house permit the setting-off of such amounts against
+each other for settlement purposes.
+3. Subparagraph (1) does not apply in respect of any amounts receivable by a market
+operator from, and any amounts payable by it to, a person, where-
+(a) such amounts do not arise from the carrying on of any regulated activity for
+which it is licensed; and
+(b) it has a legally enforceable right to set-off such amounts against each other.
+4. Subparagraph (1) does not apply in respect of any amounts receivable by a market
+operator from, and any amounts payable by it to, a client of the market operator,
+where such amounts arise from-
+(a) the purchase and sale by the client of securities of the same description due to
+be settled on a cash- against-delivery basis where the client has authorized the
+market operator to set-off such amounts; or
+(b) the purchase and sale by the client of securities in relation to which the
+market operator has elected to set-off such amounts against each other under
+paragraph 20 (2).
+12. Transactions in margin accounts
+(1) A market operator shall not set-off amounts receivable by it from, and amounts
+payable by it to, a client of the market operator arising from transactions in different
+margin accounts maintained with it by the client.
+(2) Where a market operator has a client who-
+(a) maintains with it more than one margin account;
+(b) has deposited with it security against his liabilities in the form of-
+(i) cash;
+(ii) collateral; or
+(iii) a bank guarantee issued by an authorized financial institution or an
+approved bank incorporated outside the Republic of Ghana; and
+(c) has authorized it to apply such security specified under paragraph 12(2)(b) to
+satisfy any liabilities arising from the execution of any transaction in relation
+to any of his margin accounts;
+the market operator may, subject to subparagraphs (3) and (4) for the purpose of
+calculating-
+(i) a specified shortfall amount in relation to a margin account of the
+client; or
+(ii) a margin shortfall amount under Paragraph 21(1)(b) in relation to the
+client,
+deem all or part of such security to be deposited by the client as
+security to the margin account in relation to which such shortfall
+amount is calculated; or
+for the purpose of calculating any amount to be included in its ranking liabilities
+under paragraph 12 in relation to a margin account of the client, reduce any such
+amount by where the client has deposited
+(i) cash referred to in paragraph (b)(i), the amount of such cash;
+(ii) collateral referred to in paragraph (b)(ii), the amount of the market
+value of such collateral, less the haircut amount in relation to the
+collateral; or
+(iii) a bank guarantee referred to in paragraph (b)(iii), the amount that it
+can draw down under such bank guarantee.
+(3) A market operator shall not-
+(a) under subparagraph (2)(c), deem-
+(i) any amount of cash;
+(ii) any collateral; or
+(iii) any amount that it can draw down under a bank guarantee;
+to be security to the margin account concerned; or
+(b) effect any reduction under subparagraph (2)(c) in respect of such security,
+if-
+(i) such security has been deemed under subparagraph (2)(c) to be
+deposited as security to another margin account of the client; or
+(ii) in respect of such security, a reduction under subparagraph (2)(c) has
+been effected in relation to another margin account of the client.
+(4) For the purposes of these Guidelines, a market operator shall cease to treat-
+(a) any cash referred to in subparagraph (2)(b)(i);
+(b) any collateral referred to in subparagraph (2)(b)(ii); or
+(c) any bank guarantee referred to in subparagraph (2)(b)(iii),
+as security in relation to the margined account of the client into which it was
+deposited, to the extent that such security-
+(i) has been deemed under subparagraph (2)(b) to be deposited as security to
+another margin account of the client; or
+(ii) has been utilized to effect a reduction under subparagraph (2)(c).
+(5) For the purposes of subparagraph (2), "specified shortfall amount” means an amount
+to be included in the market operator’s ranking liabilities under-
+(a) paragraph 32(4);
+(b) paragraph 34; or
+(c) paragraph 35(2).
+(6) In this paragraph, "margin account" in relation to a client of a market operator,
+means-
+(a) an account maintained with a market operator that undertakes margin
+trading, by the client for the provision of securities margin financing to the
+client by the market operator; or
+(b) an account maintained with the market operator by the client for-
+(i) short selling;
+(ii) securities borrowing and lending; or
+(iii) entering into repurchase transactions.
+13. Assignments
+(1) A market operator shall not include in its liquid assets any amount receivable by it
+from any of its clients if such amount has been assigned by it to another person.
+(2) A market operator shall not treat any collateral or any other type of security
+deposited with it by any of its clients as so deposited where such collateral or other
+type of security has been assigned to another person.
+14. Treatment of securities borrowing and lending agreements
+(1) A market operator which, under a securities borrowing and lending agreement, is the
+borrower of any securities, is deemed for the purposes of these Guidelines;
+(a) to remain the owner of any collateral beneficially owned by it and provided by
+it as security to the lender of the securities under the agreement;
+(b) to have an amount receivable from that lender equal to the amount of cash
+provided by it as security to that lender; and
+(c) not to own the securities borrowed under the agreement.
+(2) A market operator which, under a securities borrowing and lending agreement, is the
+lender of any securities, is deemed for the purposes of these Guidelines-
+(a) where the securities lent under the agreement are beneficially owned by it, to
+remain the beneficial owner of the securities for the purposes of paragraph 24;
+(b) not to own any collateral deposited with it as security by the borrower of the
+securities under the agreement; and
+(c) to have an amount payable to that borrower equal to the amount of cash
+deposited with it as security by that borrower, unless the cash-
+i. is not included in its liquid assets under paragraph 19; and
+ii. is held in a segregated account.
+15. Treatment of repurchase transactions
+(1) Where a market operator is the purchaser in the first instance of any securities under
+a repurchase transaction, it is deemed for the purposes of these Guidelines-
+(a) to have an amount receivable from the seller of the securities equal to the
+consideration for which it purchased the securities; and
+(b) not to own the securities purchased and shall not include them in its liquid
+assets under paragraph 17(2).
+(2) Where a market operator is the seller in the first instance of any securities
+beneficially owned by it under a repurchase transaction, it is deemed for the purposes
+of these Guidelines
+(a) to remain the owner of the securities sold by it; and
+(b) to be liable to the purchaser of the securities for an amount equal to the
+consideration for which it sold the securities.
+Liquid assets
+16. A market operator shall, for the purpose of calculating its liquid assets apply the
+computation basis prescribed in these Guidelines including applicable haircut percentages.
+17. Exclusions from liquid assets
+(1) A market operator which operates a branch outside Ghana shall not include in its
+liquid assets any asset which it is required by a relevant regulatory authority to
+maintain in order for the branch to obtain or maintain a licence, registration,
+membership or authorization to carry on an activity which, if carried on in Ghana,
+would constitute a regulated activity.
+(2) A market operator shall not include in its liquid assets, any asset-
+(a) that is an amount of a currency that is subject to exchange control; or
+(b) the proceeds of which upon realization are not freely remittable to Ghana,
+unless the market operator reasonably believes that approval for the remittance
+of such currency or proceeds to Ghana can be obtained from the relevant
+regulatory authority within one week of application by it for such approval.
+18. Assets provided to others as security
+(1) A market operator, for the purpose of calculating its liquid capital, subject to
+subparagraph (2), is deemed not to own any asset which it beneficially owns and has
+provided to another person as security for any liabilities or obligations.
+(2) A market operator is deemed to remain the owner of any asset which it beneficially
+owns and has provided as security
+(a) to-
+(i) an authorized financial institution;
+(ii) an approved bank incorporated outside Ghana; or
+(iii) another market operator, for credit facilities provided to it by the
+institution, bank or corporation (as the case may be);
+(b) under a securities borrowing and lending agreement under which it is the
+borrower of securities;
+(c) in the form of margin deposited in respect of any margin trading by it; or
+(d) to, or to obtain a bank guarantee in favour of, a recognized clearing house for
+the purpose of enabling it to fulfil its obligations under the Guidelines of the
+clearing and settlement institution.
+19. Cash in hand and at bank
+A market operator shall include in its liquid assets-
+(a) cash in hand which it beneficially owns;
+(b) money which it beneficially owns and holds in its name, or in a segregated
+account, with an authorized financial institution or an approved bank
+incorporated outside Ghana in the form of -
+(i) a demand deposit; or
+(ii) a time deposit which will mature in 6 months or less; and
+(iii) interest accrued on any deposit referred to in paragraph (b)(ii)
+20. Amounts receivable from clients in respect of purchase of and subscription for securities
+(1) Subject to subparagraphs (3) and (7), a market operator shall include in its liquid
+assets the following amount receivable from any of its clients arising from purchase
+by the client of securities on a cash-against-delivery basis-
+(a) any such amount receivable which-
+(i) is not yet due for settlement according to the settlement date; or
+(ii) has been outstanding for 15 business days or less after the
+settlement date; and
+(b) where any such amount receivable has been outstanding for more than 15
+business days but less than one month after the settlement date, the amount
+which is the lower, when calculated on a transaction- by-transaction basis, of-
+(i) such outstanding amount receivable less any specific provision for
+bad or doubtful debts made in respect of such outstanding amount; and
+(ii) the market value of the securities to which such outstanding
+amount relates.
+(2) A market operator may elect in respect of all its clients to set-off, on a client-by-
+client basis, any amount receivable from, and amount payable to, a client where such
+amounts arise from the purchase and sale of securities by the client on a cash-
+against-delivery basis, and the market operator has obtained from the client a written
+authorization to-
+(a) set-off such amounts against each other; and
+(b) dispose of securities held for the client for the purpose of settling any of the
+amounts payable by the client to the market operator.
+(3) Subject to subparagraph (7), where a market operator makes an election under
+subparagraph (2), it shall include in its liquid assets in respect of the amount
+receivable by it from and the amount payable by it to a client which arise from the
+purchase and sale of securities by the client on a cash-against-delivery basis the
+amount which is the lower, when calculated on a client-by-client basis, of-
+(a) any amount receivable that remains after the set-off referred to in subparagraph
+(2) less any specific provision for bad or doubtful debts made in respect of such
+amount receivable; and
+(b) the market value of the securities held for the client, less the haircut amounts in
+relation to the securities.
+(4) Subject to subparagraph (7), a market operator shall include in its liquid assets the
+following amount receivable from any of its clients in respect of the purchase of
+securities by the client on a free delivery basis-
+(a) in the case where the clearing system of the exchange on which the securities
+are traded effects settlement only on a free delivery basis, such amount
+receivable which, when calculated on a transaction-by-transaction basis, has
+been outstanding for 15 days or less after the settlement date; or
+(b) in any other case, such amount receivable which, when calculated on a
+transaction-by-transaction basis, is not yet due for settlement according to the
+settlement date.
+(5) Subject to subparagraph (7), a market operator shall, in respect of securities
+subscribed for on behalf of any of its clients, include, prior to the commencement of
+trading of the securities on any exchange on which they are listed, in its liquid assets
+the amount which is the lower, when calculated on a transaction-by-transaction basis,
+of-
+(a) 90% of the total costs to the client of subscribing for the securities; and
+(b) the amount receivable from the client for subscribing for the securities.
+(6) Subject to subparagraph (7), a market operator shall, in respect of securities
+subscribed for on behalf of any of its clients, include, after the commencement of
+trading of the securities on any exchange on which they are listed, in its liquid assets
+the amount receivable from the client arising from subscribing for the securities in
+accordance with subparagraph (1) or (3) as if the securities had been purchased on a
+cash-against-delivery basis.
+(7) The aggregate of amounts that a market operator includes in its liquid assets under
+subparagraphs (1), (3), (4), (5) and (6) shall not exceed the aggregate of amounts
+receivable from its clients referred to in those subparagraphs less the aggregate of
+amounts of specific and general provisions for bad or doubtful debts made in respect
+of such aggregate of amounts receivable.
+(8) In subparagraph (2), "written authorization" means an agreement in writing from the
+client allowing such set off or disposal.
+21. Amounts receivable in respect of providing securities margin financing
+(1) Subject to subparagraphs (2) and (3), a market operator shall include in its liquid
+assets any net amount receivable from any of its margin clients, calculated as the
+amount by which the amount receivable from the margin client exceeds the amount
+payable by it to the margin client arising from the provision by it of securities margin
+financing, after deducting the higher of-
+(a) any specific provision for bad or doubtful debts made in respect of such net
+amount receivable; and
+(b) the margin shortfall amount, calculated as the amount by which the net amount
+receivable exceeds the aggregate of-
+(i) the market value of collateral, other than illiquid collateral,
+provided by the client, less the haircut amount in relation to such
+collateral;
+(ii) the market value of all illiquid collateral provided by the client,
+multiplied by:
+a. in the case of listed shares, 20%; and
+b. in the case of other equity securities, 0%;
+(iii) the amount of cash deposited as security by the client; and
+(iv) the maximum amount that it can draw under a bank guarantee
+provided to it by the client and issued by an authorized financial
+institution or an approved bank incorporated outside Ghana.
+(2) In subparagraph (1)(b)(i) and (ii), "illiquid collateral", in relation to any collateral
+provided to a market operator by its margin clients, means any listed share which is
+of the same description as that identified as top 3 collateral provided by any top
+margin client of the market operator, where-
+(a) if it is a share, the aggregate market value of all shares of the same description
+as that share provided to the market operator by its margin clients as collateral
+is equal to or greater than-
+(i) the average monthly turnover of that share; or
+(ii) 5% of the market capitalization of that share as at the end of the
+month immediately preceding the month prior to the month in which the
+calculation is made;
+but does not include-
+(b) any listed share which has been listed for less than six (6) consecutive months
+(including any period during which the share is suspended from trading)
+immediately preceding the month prior to the month in which the calculation is
+made; and
+(c) any listed share which is a constituent of an applicable share index recognised
+by the Commission.
+(3) In subparagraph (2)-
+"average monthly turnover", in relation to a listed share, means one sixth of the
+aggregate value of transactions in that share or warrant on any exchange on which it
+is listed for a period of six (6) consecutive months (including any period during
+which the share or warrant is suspended from trading) immediately preceding the
+month prior to the month in which the calculation is made;
+"calculation” means a calculation made for the purposes of subparagraph (1);
+"market capitalization", in relation to a listed share, means the amount of the total
+number of shares of the same description as that share issued by the issuer of that
+share multiplied by their market price;
+"top 3 collateral”, in relation to a top margin client, means any of the 3 highest listed
+shares in terms of market value among all listed shares and listed warrants provided
+by him to the market operator as collateral;
+"top margin client", means-
+(a) where it has less than 20 margin clients, all its margin clients with
+outstanding margin loan balance; or
+(b) where it has 20 or more margin clients, the 20 margin clients with the
+largest outstanding margin loan balance.
+(4) In the definition of "top 3 collateral" in subparagraph (3), "market value", in relation
+to a listed share provided by a margin client to the market operator, means the market
+value of all such listed shares of the same description as that share provided by the
+margin client to the market operator.
+22. Amounts receivable from counterparties in respect of dealings in securities
+(1) Subject to subparagraph (2) and (3), a market operator shall include in its liquid
+assets the following amounts receivable from any client or securities dealer which
+arise from the buying and selling of securities by it to the securities dealer or client-
+(i) any such amount receivable which has been outstanding for 15
+days or less after the settlement date less a haircut of 15%
+(ii) where any such amount receivable has been outstanding for more
+than 15 days but less than one month after the settlement date less a
+haircut of 30%
+(iii) where any such amount receivable has been outstanding for more
+than a month after the date of settlement-
+a. such outstanding amount receivable less any specific provision for
+bad or doubtful debts made in respect of such outstanding amount;
+and
+b. the market value of the securities less any applicable haircut to
+which such outstanding amount relates;
+(2) Paragraph (1) (iii) also applies to any securities purchased on behalf of a client which
+has not been booked to the clients account but may be held by the market operator.
+(3) Where any amount is due to the market operator by an agent for which the market
+operator is responsible, the amount shall be subject to a 100% haircut.
+(4) The aggregate amounts that a market operator includes in its liquid assets under
+subparagraph (1) shall not exceed the aggregate amounts receivable from clients or
+securities dealers referred to in that subparagraph less the aggregate amounts of
+specific and general provisions for bad or doubtful debts made in respect of such
+aggregate amounts receivable.
+23. Cash provided as security for short selling
+A market operator shall include in its liquid assets an amount receivable in the amount of
+any cash (including interest accrued on it) provided by it as security to the counterparty in
+respect of a short selling by it of securities where it has not yet delivered the securities to
+the counterparty for settlement, where the counterparty is-
+(a) a securities dealer;
+(b) a clearing house of a specified exchange; or
+(c) a clearing participant of a clearing house referred to in paragraph (b) above.
+24. Proprietary positions of licensed entities
+(1) A market operator shall include in its liquid assets any of the following assets that it
+beneficially owns -
+(a) listed shares;
+(b) qualifying debt securities;
+(c) special debt securities;
+(d) specified securities;
+at market value, less the haircut amounts in relation to the securities or specified
+investments concerned;
+(2) A market operator shall include in its liquid assets any derivative contract that it
+beneficially owns in-
+(a) listed shares;
+(b) qualifying debt securities;
+(c) special debt securities;
+(d) specified securities;
+(e) specified investments,
+at market value, less twice the haircut amounts in relation to the securities or
+specified investments concerned.
+25. Amounts receivable from clearing houses
+(1) A market operator shall include in its liquid assets-
+(a) amounts receivable from a recognized clearing house; and
+(b) cash deposited with such clearing house,
+other than-
+i. admission fees it has paid to such clearing house;
+ii. contributions it has made to the Guarantee Fund or Reserve Fund of such
+clearing house; and
+iii. clients’ monies held in a segregated account maintained with such clearing
+house.
+(2) A market operator shall, in respect of-
+(a) any dealing by it in-
+(i) any securities; or
+(ii) a derivative contract;
+(b) its entering into any-
+(i) foreign exchange agreement; or
+(ii) interest rate swap agreement,
+include in its liquid assets-
+a. amounts receivable from foreign clearing and settlement institutions
+and
+b. cash deposited with foreign clearing and settlement institutions
+other than-
+c. admission fees it has paid to foreign clearing and settlement
+institutions
+d. cash it has deposited with foreign clearing and settlement institutions
+as security against its general obligations.
+26. Amounts receivable under securities borrowing and lending agreements
+A market operator which is the borrower of securities under a securities’ borrowing and
+lending agreement shall include in its liquid assets any amount receivable from the lender
+of the securities that it is deemed to have in respect of any cash provided by it as security
+to the lender, under paragraph 14(1)(b)
+27. Amounts receivable under repurchase transactions
+A market operator which is the purchaser in the first instance of any securities under a
+repurchase transaction shall include in its liquid assets any amount receivable from the
+seller of the securities that it is deemed to have in respect of the consideration for which it
+purchased the securities under paragraph 15(1)(a) .
+28. Miscellaneous assets
+A market operator shall include in its liquid assets any of the following assets-
+(a) the amount of any fees, commissions, commission rebates and interest charges
+to which it is beneficially entitled which arise from the carrying on by it of any
+regulated activity for which it is licensed and-
+(i) which have accrued and will first be due for billing or payment within the
+next 3 months; or
+(ii) which have been billed or fallen due for payment and remain outstanding
+for one month or less after the date on which they were billed or fell due;
+(b) deposits which it beneficially owns and maintained with, and in accordance
+with the Guidelines or requirements of, a recognized securities exchange as
+security for its obligations or liabilities owed to the recognized securities
+exchange for stamp duty chargeable under the Stamp Duty Act, 2005 (Act 689)
+as amended on contract notes specified in an agreement under that Act;
+(c) prepaid operating expenses which will be expensed within the next 3 months;
+(d) interest accrued to it under an interest rate swap agreement to which it is a
+party, other than interest which remains outstanding after it is first due for
+payment;
+(e) amounts paid by it for its own account for subscribing for-
+(i) listed shares or shares pending their being listed;
+(ii) qualifying debt securities;
+(iii) specified securities,
+less an amount equal to such amounts as multiplied by 50% of the haircut
+percentages in relation to such shares or securities;
+(f) dividends receivable on shares listed on a recognized stock market or on a
+specified exchange that are traded on an ex-dividend basis and which it
+beneficially owns;
+(g) interest accrued on qualifying debt securities or special debt securities that are
+traded on an ex-interest basis and which it beneficially owns.
+Ranking liabilities
+A market operator shall, for the purpose of calculating its ranking liabilities apply the
+computation basis prescribed in these Guidelines.
+29. Amounts payable to clients
+A market operator shall include in its ranking liabilities any amount payable to any of its
+clients or any counterparty or clearing house which arises from the carrying on of any
+regulated activity for which it is licensed, other than an amount payable to any of its
+clients which is set-off against an amount receivable from the client under paragraph 20
+(3).
+30. Amounts payable in respect of dealing in securities
+A market operator shall include in its ranking liabilities, in respect of a sale of securities-
+(a) by it for a client who is in default of his obligation to deliver the securities for-
+(i) more than 2 weeks after the settlement date; or
+(ii) more than 5 business days but not more than 2 weeks after the
+settlement date and the market value of the securities is more than
+200% of the consideration for which they were sold; and
+(b) which it has not settled with securities purchased at its own expense, the
+amount by which the market value of the securities exceeds the consideration
+for which they were sold.
+31. Provision of securities margin financing
+(1) A market operator that undertakes margin trading or financing shall include in its
+ranking liabilities the amount, when calculated on a client-by-client basis, by which-
+(a) any amount receivable from any of its margin clients exceeds 10% of the
+aggregate amount receivable from its margin clients included in its liquid
+assets in accordance with paragraph 21(1)
+or
+(b) in the case of a group of related margin clients, the aggregate amount receivable
+from the group, exceeds 10% of the aggregate amount receivable from its
+margin clients included in its liquid assets in accordance with paragraph 21(1),
+(2) Where a market operator obtains any financial accommodation wholly or partly
+secured by collateral provided by any of its margin clients, it shall include in its
+ranking liabilities the amount by which such financial accommodation exceeds 70%
+of the aggregate amount receivable from its margin clients arising from the provision
+of securities margin financing.
+(3) In subparagraph (1), "group of related margin clients" means any 2 or more margin
+clients of a market operator and:
+(a) where it is a group of 2 margin clients, one is the spouse of the other;
+(b) where one or more of the margin clients are corporate bodies, one is in control,
+either alone or with his spouse, of 30% or more of the voting rights of that other
+margin client or each of the other margin clients (as the case may be); or
+(c) where the margin clients are corporate bodies, they are members of the same
+group of companies.
+32. Short positions in securities and specified investments
+(1) Subject to subparagraphs (2) and (3), a market operator which holds for its own
+account a short position in securities, whether by short selling or otherwise, shall
+include in its ranking liabilities the market value of those securities or specified
+investments.
+(2) Subject to subparagraph (3), a market operator which holds for its own account a
+short position, whether by short selling or otherwise, in:
+(a) subject to subparagraphs (4), listed shares;
+(b) qualifying debt securities;
+(c) specified securities;
+shall increase the amount required to be included in its ranking liabilities under
+subparagraph (1) by 20% in relation thereto.
+(3) A market operator which holds for its own account a short position in securities,
+whether by short selling or otherwise, which-
+(a) are not of a type specified in Schedule 2;
+(b) constitute more than 5% by market value of all securities of the same
+description issued by a particular corporate body; or
+(c) are listed shares which have been suspended from trading for at least 3 business
+days or ceased trading on any exchange on which the securities were listed,
+unless the securities can continue to be traded on any other exchange on which
+the securities are listed,
+shall increase the amount required to be included in its ranking liabilities under
+subparagraph (1) by the market value of such securities.
+(4) A market operator shall include in its ranking liabilities, in respect of the short selling
+of securities for any of its clients, except where such securities have been delivered
+to it by the client or are not yet due for settlement according to the settlement date,
+20% of the market value of such securities.
+33. Concentrated proprietary positions
+(1) Where a market operator holds for its own account-
+(a) listed shares;
+(b) qualifying debt securities; or
+(c) specified investments,
+and the net market value of any such securities which are of the same
+description equals 25% or more of its required liquid capital, it shall include in
+its ranking liabilities 25% of such net market value.
+(2) In subparagraph (1), "net market value", in relation to any securities referred to in
+that subparagraph, means the market value that remains after netting each long and
+short position in securities of the same description.
+34. Securities borrowing and lending agreements
+A market operator which is the borrower or lender of securities under a securities
+borrowing and lending agreement shall include in its ranking liabilities 20% of the
+aggregate of-
+(a) the market value of securities borrowed by it, and
+(b) the market value of securities lent by it.
+35. Repurchase transactions
+(1) A market operator which is the purchaser in the first instance of any securities in a
+repurchase transaction shall include in its ranking liabilities 5% of the securities
+market value.
+(2) A market operator which is the seller in the first instance of any securities in a
+repurchase transaction shall include in its ranking liabilities 5% of the securities
+market value.
+(3) A market operator which is the seller in the first instance of any securities in a
+repurchase transaction shall include in its ranking liabilities the amount of the
+consideration for which it sold the securities.
+36. Net underwriting commitments
+(1) Subject to subparagraph (2), a market operator which underwrites or sub-underwrites
+an issue or a sale of securities shall include in its ranking liabilities 50% of the
+haircut percentage in relation to the securities multiplied by the net underwriting
+commitment.
+(2) This paragraph does not apply to a market operator on the day on which it acquires
+an underwriting or a sub-underwriting commitment in respect of an issue or a sale of
+securities and the business day following that day.
+(3) For the purposes of subparagraph (2), a market operator acquires an underwriting or
+a sub-underwriting commitment in respect of an issue or a sale of securities at the
+later of-
+(a) the time when it commits itself to underwrite or sub-underwrite the securities;
+and
+(b) the time when the lead underwriter or co-lead underwriter signs the
+underwriting agreement with the issuer or the seller (as the case may be) of the
+securities.
+(4) In subparagraph (1), "net underwriting commitment" means the total costs of
+subscribing for or purchasing securities underwritten or sub-underwritten by a
+market operator other than-
+(a) securities which are sub-underwritten; and
+(b) securities which are the subject of a legally binding contract for the subscription
+for or purchase of such securities, through or from that market operator by
+another person.
+37. Off-exchange traded derivative contracts
+(1) Subject to subparagraph (2), a market operator shall include in its ranking liabilities
+the amount of any floating losses incurred by it in respect of any position in any off-
+exchange traded derivative contract.
+(2) Where a market operator has entered into a bilateral netting agreement in respect of
+two (2) or more off- exchange traded derivative contracts with the counterparty with
+whom it maintains the positions, it shall include in its ranking liabilities the
+difference by which the amount of any floating losses incurred by it exceeds the
+amount of any floating profits made by it in respect of the contracts.
+(3) In subparagraph (2), "bilateral netting agreement" means an agreement between the
+market operator and the counterparty with whom it maintains positions in off-
+exchange traded derivative contracts under which each party has a single obligation
+to the other in respect of all such contracts covered by the agreement and which
+provides that, in the event that the counterparty fails to comply with its obligation
+under the agreement, the market operator will have-
+(a) a single claim to receive only the net amount of the aggregate positive mark-to-
+market value of any contract covered by the agreement, calculated by deducting
+from the aggregate positive mark-to-market value of any contract covered by
+the agreement the aggregate negative mark-to-market value of any other
+contract covered by the agreement; or
+(b) a single obligation to pay only the net amount of the aggregate negative mark-
+to-market value of any contract covered by the agreement, calculated by
+deducting from the aggregate negative mark-to-market value of any contract
+covered by the agreement the aggregate positive mark-to-market value of any
+other contract covered by the agreement.
+38. Interest rate swap agreements
+(1) A market operator which is a party to an interest rate swap agreement shall include in
+its ranking liabilities the notional principal amount multiplied by 7%.
+(2) In subparagraph (1), "notional principal amount" means the theoretical amount
+agreed upon by the parties to an interest rate swap agreement on the basis of which
+any interest payment to be made under the agreement is calculated.
+39. Foreign exchange agreements
+A market operator which is a party to a foreign exchange agreement shall include in its
+ranking liabilities the amount of currency to be delivered by it under the agreement
+multiplied by 5%.
+40. Miscellaneous
+(1) A market operator shall include in its ranking liabilities-
+(a) 20% of the amount of any guarantee, indemnity or other similar financial
+commitment provided by it, directly or indirectly (including the pledging of
+assets for the purpose of obtaining a bank guarantee), other than a guarantee, an
+indemnity and other financial commitment provided by it in respect of its own
+liabilities and obligations provided that the amount of any such guarantee,
+indemnity, or other similar financial commitment is fully covered by insurance;
+(b) the amount by which the liabilities of any subsidiary of it (excluding any
+amounts due to it from the subsidiary) exceed the assets of the subsidiary;
+(c) the consideration it is obliged to pay for the redemption of redeemable shares,
+other than approved redeemable shares, which have not yet been redeemed;
+(d) 5% of its last operational revenue to cover Operational Risk; and
+(e) subject to subparagraph (2), 5% of its net position in each foreign currency.
+(2) In calculating the net position in a foreign currency for the purposes of subparagraph
+(1)(e), a market operator may elect to exclude from the calculation the value of any
+asset which is denominated in that foreign currency and not included in its liquid
+assets under any of these Guidelines.
+(3) In this paragraph, "net position", in relation to a foreign currency, means the
+difference between-
+(a) the aggregate of the value of assets, other than fixed assets, beneficially owned
+by a market operator which are denominated in the foreign currency together
+with the amount of the foreign currency which it is obliged to purchase under
+any outstanding contract; and
+(b) the aggregate of the amount of the on-balance sheet liabilities of the market
+operator, other than excluded liabilities, which are denominated in such foreign
+currency together with the amount of such foreign currency which it is obliged
+to sell under any outstanding contract.
+41. Other liabilities
+(1) Subject to subparagraph (2), a market operator shall include in its ranking liabilities
+all its liabilities not otherwise required to be included in its ranking liabilities under
+any other provision of these Guidelines, including-
+(a) any amount payable by it in relation to any overdraft obtained by it;
+(b) any amount payable by it in relation to any loan obtained by it;
+(c) any accrued interest payable by it to any other person;
+(d) any accrued expenses incurred by it;
+(e) any tax payable by it, less any tax prepaid by it, to the extent that the tax
+payable and the tax prepaid are of the same description and levied by the same
+taxation authority ;
+(f) any provision made by it for contingent liabilities;
+(g) any provision made by it for floating losses in respect of open positions held for
+its own account; and
+(h) any other liabilities provided for in accordance with generally accepted
+accounting principles, including International Financial Reporting Standards.
+(2) A market operator shall not include in its ranking liabilities-
+(a) any approved subordinated loan provided to it that it is not required to settle
+within the next 12 months; or
+(b) any liability that it is not required to settle within the next 12 months and is
+secured by a first legal charge on immovable property beneficially owned by it
+and used in carrying on the regulated activity for which it is licensed, to the
+extent that the net realizable value of that property equals such liability.
+42. Market operators to notify Commission of failure to comply with these Guidelines
+(1) Where a market operator notifies the Commission-
+(a) that it is unable to maintain, or to ascertain whether it maintains, financial
+resources in accordance with the specified amount requirements that apply to it;
+or
+(b) that it is unable to comply with, or to ascertain whether it complies with, all or
+any of the requirements of these Guidelines, other than the specified amount
+requirements,
+it shall include in the notice-
+i) full details of the matter and the reason therefore; and
+ii) full details of any steps it is taking, has taken or proposes to take to redress
+the inability.
+(2) The Commission may, where a market operator gives notice to the Commission,
+request the market operator to provide, in such form and within such time as the
+Commission may specify, such additional information and document as the
+Commission may require in connection with the matter, whereupon the market
+operator shall comply with the request accordingly.
+(3) For the purposes of these Guidelines, "specified amount requirements", in relation to
+a market operator, means the applicable requirements to maintain minimum capital
+requirement in the amount required under paragraph 5; and the requirement to
+maintain liquid capital not less than its required liquid capital under paragraph 6.
+43. Market operators to notify Commission of circumstances relating to financial resources and
+trading activities and to submit returns in certain cases
+(1) A market operator shall notify the Commission in writing as soon as reasonably
+practicable and in any event within one business day of becoming aware of any of
+the following matters-
+(a) its liquid capital falls below 120% of its required liquid capital;
+(b) its liquid capital falls below 50% of the liquid capital stated in its last return
+submitted to the Commission under paragraph 44(1) or 44(3);
+(c) any information contained in any of its previous returns submitted to the
+Commission pursuant to these Guidelines has become false or misleading;
+(d) the aggregate of the amounts it has drawn down on any loan, advance, credit
+facility or other financial accommodation provided to it by banks exceeds the
+aggregate of the credit limits thereof;
+(e) it has been or will be unable, for 3 consecutive business days, to meet in whole
+or in part any calls or demands for payment or repayment (as the case may be),
+from any of its lenders, credit providers or financial accommodation providers;
+(f) any of its lenders or any person who has provided credit or financial
+accommodation to it has exercised, or has informed it that he will exercise, the
+right to liquidate security provided by it to him in order to reduce its liability or
+indebtedness to him under any outstanding loan, advance, credit facility balance
+or other financial accommodation provided to it by him;
+(g) the aggregate of the maximum amounts that can be drawn down against it
+under any guarantee, indemnity or any other similar financial commitment
+provided by it-
+i. exceeds 20% of the liquid capital requirement; or
+ii. would, if deducted from its liquid capital, cause its liquid capital to fall
+below 120% of its required liquid capital;
+(h) the aggregate of amounts of any outstanding claim made in writing by it or
+against it (whether disputed or not) exceeds or is likely to exceed 20% of the
+liquid capital or GHS 1,000,000;
+(i) the aggregate of amounts of any outstanding claim made in writing by it or
+against it (whether disputed or not) would, if deducted from its liquid capital,
+cause its liquid capital to fall below 120% of its required liquid capital;
+(j) any claim is made by it under any professional indemnity or other insurance
+policy that it is required to maintain under any Guidelines or conventions of
+any exchange or clearing house;
+(k) any financial commitment, including a guarantee, is provided for it in favour of
+an exchange or a clearing house, by a corporation which is a member of a group
+of companies of which it is a member.
+(2) Where a market operator notifies the Commission of any matter under subparagraph
+(1), it shall-
+(a) include in the notice full details of the matter and the reason therefor; and
+(b) in the case of a notification under subparagraph (1)(a), (b), (c), (e), (f) or (g),
+include in the notice full details of any steps it is taking, has taken or proposes
+to take to prevent its liquid capital from falling below its required liquid capital
+or to improve its liquidity.
+(3) Where a market operator has, prior to the commencement of these Guidelines,
+entered into any position in an off-exchange traded derivative contract other than-
+(a) an options contract written by it on its own account;
+(b) an interest rate swap agreement; and
+(c) a foreign exchange agreement,
+of which it has not notified the Commission prior to the commencement of
+these Guidelines, it shall within one business day of the commencement of
+these Guidelines notify the Commission in writing of the details of such
+position.
+(4) Where a market operator intends to enter into any position in an off-exchange traded
+derivative contract other than-
+(a) an options contract written by it on its own account;
+(b) an interest rate swap agreement; and
+(c) a foreign exchange agreement,
+it shall notify the Commission in writing of the details of the position it intends
+to enter into at least 10 business days before entering into the position.
+(5) Where a market operator intends to change any of its accounting policies in a way
+that may materially affect the liquid capital or paid-up share capital that it maintains
+or is required to maintain under these Guidelines, for the purposes of paragraph 3(B),
+it shall notify the Commission in writing of the details of, and the reasons for, the
+intended change not less than 21 business days prior to effecting the change.
+44. Market operators to submit returns to Commission
+(1) A market operator shall, in respect of each month at the end of which it remains
+licensed, submit to the Commission, in the manner specified in subparagraph (3) and
+no later than 15 days after the end of the month concerned, a return which is in the
+form specified by the Commission and signed in the manner specified in
+subparagraph (4), and includes;
+(a) its liquid capital computation;
+(b) its required liquid capital computation; and
+(c) an analysis of its client assets including institutional, retail, foreign and related
+parties.
+(2) A market operator to which subparagraph (1) applies shall, in respect of each quarter
+, submit to the Commission, in the manner specified in subparagraph (3) and no later
+than 21 days after the end of the period concerned, a return which is in the form
+specified by the Commission and signed in the manner specified in subparagraph (4),
+and
+(a) a statement of financial position including details of bank loans, advances,
+credit facilities and other financial accommodation available to it;
+(b) its statement of comprehensive income;
+(c) statement of changes in equity and statement of cashflows;
+(d) notes to the statement of comprehensive income and statement of financial
+position;
+(e) an analysis of its clientele;
+(d) an analysis of its proprietary derivative positions; and
+(e) where it is licensed as a Fund Manager, an analysis of the assets under its
+management indicating asset class and sector allocations.
+(3) For the purposes of this paragraph, a market operator shall submit a return to the
+Commission in paper and electronic form by means of an online communication
+system approved by the Commission
+(4) For the purposes of this paragraph a return referred to in this paragraph shall be
+signed on behalf of the market operator concerned by the Chief Executive Officer
+and Chief Finance Officer of the market operator.
+45. Market operators to provide information
+The Commission may at any time, by notice in writing, request a market operator to
+provide it within the time and in the manner specified in the notice with such
+information, including any record or document, as it may specify in the notice relating to
+the financial resources or trading activities of the market operator, whereupon the market
+operator shall comply with the request accordingly.
+46. Approvals
+(1) The Commission may, on application in writing by a market operator , approve-
+(a) as an approved subordinated loan, any subordinated loan obtained by the
+market operator;
+(b) as an approved standby subordinated loan facility, any standby subordinated
+loan facility obtained by the market operator;
+(c) for the purposes of paragraph 3(2), the adoption by the market operator of an
+accounting principle other than one of those referred to in paragraph 3(1);
+(d) for the purposes of paragraph 44(4), an officer of the market operator to sign a
+return; and
+(e) the withdrawal of an election made by the market operator under any provision
+of these Guidelines.
+(2) An approval granted under subparagraph (1) shall be subject to such reasonable
+conditions as the Commission may impose, and the Commission may at any time
+revoke the approval or amend or revoke any such condition or impose new
+conditions as may be reasonable in the circumstances.
+(3) The Commission may, for the purposes of paragraph 44(3), approve an online
+communication system for the submission of returns.
+47. Withdrawal of elections made under these Guidelines
+A market operator which makes an election under any provision of these Guidelines shall
+be bound by the election until such time as the Commission approves the withdrawal of
+the election under paragraph 46(1)(e).
+48. Transitional provisions
+5) A market operator shall comply with these Guidelines within three months from the
+commencement date of these Guidelines.
+6) New licensees shall be expected to meet the liquidity requirements upon approval of their
+license application.
+7) Existing players have to meet 50% of minimum required liquidity by December 2025,
+75% by June 2026 and 100% by December 2026.
+49. Interpretations
+In these Guidelines, unless the context otherwise requires –
+“Act” means the Securities Industry Act, 2016 (Act 929) or any amendment thereof;
+"approved subordinated loan" means a subordinated loan obtained by a market operator
+approved as such by the Commission
+"authorized financial institution" means a bank within the meaning of paragraph 156 of
+the Banks and Specialised Deposit Taking Institutions Act, 2016 (Act 930) and includes
+any of its branches
+"basic amount", in relation to a market operator, means 10% of the aggregate of its
+adjusted liabilities;
+"clearing and settlement institutions" means a Corporation licensed by the Commission to
+provide depository and clearing services
+"collateral", in relation to a market operator, means-
+(a) any listed shares;
+(b) any specified securities; or
+(c) any qualifying debt securities; which -
+(i) are deposited as security by the market operator with another person; or
+(ii) are deposited as security with the market operator by another person, and
+are unencumbered in its possession and readily realizable by it; or
+(iii) are encumbered only by virtue of being lent, deposited or pledged by it with
+a clearing house or any of its clearing participants to secure its obligation to
+meet its clearing obligations or liabilities
+“Commission” means the Securities and Exchange Commission established by the Act;
+"derivative contract" means a contract for the exchange of a financial instrument whose
+characteristics and value are dependent on or derived from one or more underlying assets
+such as a commodity, bond, equity or currency.
+"exchange member " means-
+(a) in relation to a licensed exchange company, a member of that exchange
+(b) in relation to a licensed exchange outside Ghana, and recognised by the
+Commission, a member who, in accordance with the Guidelines of the
+exchange, may trade through that exchange, and whose name is entered in a list,
+roll or register kept by the exchange as a member who may trade through that
+exchange;
+"excluded liabilities" in relation to the on-balance sheet liabilities of a market operator,
+means amounts payable to clients in respect of client money held by it in a segregated
+account with a recognized clearing and settlement institutions and authorized financial
+institutions;
+"floating losses" means unrealized losses calculated by marking to market an open
+position in-
+(a) any securities;
+(b) a derivative contract;
+(c) a foreign exchange agreement; or
+(d) an interest rate swap agreement;
+"floating profits" means unrealized profits calculated by marking to market an open
+position in-
+(a) any securities;
+(b) a derivative contract;
+(c) a foreign exchange agreement; or
+(d) an interest rate swap agreement;
+"foreign currency", in relation to a market operator, means any currency other than its
+reporting currency;
+"haircut amount" -
+(a) in relation to any shares that are listed in Ghana, and specified in column 2 of
+Table 1 in Schedule 2 means an amount derived by multiplying the market value
+of the shares by the haircut percentage (column 3) in relation to such shares;
+(b) in relation to any shares that are listed in foreign markets, and specified in
+column 2 of Table 2 in Schedule 2 means an amount derived by multiplying the
+market value of the shares by the haircut percentage (column 3) in relation to
+such shares;
+(c) in relation to qualifying debt securities, and specified in column 2 of Table 3 in
+Schedule 2 means an amount derived by multiplying the market value of the
+qualifying debt securities by the haircut percentage (column 3) in relation to
+such qualifying debt securities as well as the haircut for term to maturity
+specified in Table 4.
+(d) in relation to specified securities, and specified in column 2 of Table 5 in
+Schedule 2 means an amount derived by multiplying the market value of the
+specified securities by the haircut percentage (column 3) in relation to such
+specified securities;
+(e) in relation to special debt securities, and specified in column 2 of Table 6 in
+Schedule 2 means an amount derived by multiplying the market value of the
+special debt securities by the haircut percentage (column 3) in relation to such
+special debt securities.
+(f) in relation to other assets, and specified in column 2 of Table 7 in Schedule 2
+means an amount derived by multiplying the value of the relevant other assets
+by the haircut percentage (column 4) in relation to such special debt securities.
+"haircut percentage"
+(a) in relation to any shares that are listed in Ghana, means the percentage specified
+in column 3 of Table 1 of Schedule 2;
+(b) in relation to any shares that are listed in foreign markets, means the percentage
+specified in column 3 of Table 2 of Schedule 2;
+(c) in relation to qualifying debt securities, means the aggregate of-
+a. the percentage specified in (column 3) Table 3 in Schedule 2 opposite the
+applicable description set out in the Table; and
+b. the percentage specified in Table 4 of Schedule 2 opposite the applicable
+description set out in the Table;
+(d) in relation to other assets, means the percentage specified in column 4 of Table
+7 of Schedule 2
+"interest rate swap agreement" means an agreement whereby the parties to the agreement
+agree to exchange a series of interest payments over time;
+"liquid capital", in relation to a market operator, means the amount by which its liquid
+assets exceed its ranking liabilities;
+"listed", in relation to securities, means listed or traded on any exchange;
+“market operator” has the meaning given in the Act
+"marking to market" means the method or procedure of adjusting the valuation of an open
+position in-
+(a) any securities;
+(b) a derivative contract;
+(c) a foreign exchange agreement; or
+(d) an interest rate swap agreement, to reflect its current market value;
+“money” includes any form of money, whether represented by a cheque or other payment
+order, or otherwise;
+"mutual fund", has the meaning given in the Act
+"off-exchange traded derivative contracts" means derivative contracts which are traded
+other than on an exchange;
+"omnibus account", means an account used by an introducing market operator to execute
+and clear all of their customers’ trades through one account at the clearing broker dealer.
+"qualifying debt securities" means-
+debenture stock, loan stock, debentures, bonds, notes and any securities or other
+instruments acknowledging, evidencing or creating indebtedness-
+(a) which are issued or guaranteed by-
+a. the Government; or
+b. Bank of Ghana;
+(b) which are listed on a recognized securities exchange ;
+but does not include-
+i. any I-owe-you; and
+ii. any securities or any instrument acknowledging, evidencing or
+creating a subordinated loan or a debt due from a corporation
+within a group of companies of which the holder of the securities
+or instrument is a member; or
+iii. certificates of deposit issued by an authorized financial institution
+or an approved bank incorporated outside Ghana;
+"ranking liabilities" in relation to a market operator, means the aggregate of the amounts
+required to be included in its liabilities under paragraphs 29 to 41 of these Guidelines;
+"redeemable shares" means shares in the share capital of a corporation which are
+redeemable at the option of the holder of the shares or the corporation;
+“regulated activity” means a securities activity licensed or regulated by the Commission.
+"reporting currency" in relation to a market operator, means the currency in which its
+financial statements, required under the Act, any Guidelines made thereunder, Conduct of
+Business Guidelines or any other law Guidelines to be submitted to the Commission, are
+denominated, or intended to be denominated;
+"repurchase transaction" means a transaction under which there is a sale of securities and
+a further arrangement obliging the seller of the securities to repurchase from the
+purchaser, or obliging the purchaser to resell to the seller, securities of the same
+description as the securities first sold, at a pre-determined consideration and date;
+"required liquid capital", in relation to a market operator, means an amount equal to the
+higher of-
+where it is-
+(a) licensed for only one regulated activity specified in column 1 of Table 2
+in Schedule 1, the amount specified in column 2 of the Table opposite
+the regulated activity or, where any further description is set out for the
+regulated activity in column 1 of the Table, opposite the applicable
+description; or
+(b) licensed for 2 or more regulated activities specified in column 1 of the
+Table, the amount which is the higher or highest upon comparing each
+amount specified in column 2 of the Table opposite any of such
+regulated activities or, where any further description is set out for any of
+such activities in column 1 of the Table, opposite any of such activities
+or any of the applicable descriptions; and
+(c) its variable required liquid capital;
+"required liquid capital deficit", in relation to a market operator, means the amount by
+which its required liquid capital exceeds its liquid capital;
+"Guidelines"
+(a) in relation to an exchange, includes its Guidelines and any rules, guidelines or
+directives , by whatever name they may be called and wherever contained,
+governing-
+i. its exchange members ;
+ii. the persons who may participate in any of the services it provides or trade
+on it;
+iii. the setting and levying of fees;
+iv. the listing of securities;
+v. the trading of securities, through or on it;
+vi. the provision of other services; or
+vii. generally, its management, operations or procedures; or
+(b) in relation to a clearing house, includes its Guidelines and any rules, guidelines
+or directives , by whatever name they may be called and wherever contained,
+governing-
+i. its clearing participants;
+ii. the persons who may participate in any of the services it provides;
+iii. setting and levying of fees;
+iv. the clearing and settlement of transactions, whether or not executed on an
+exchange, of which it is the clearing house;
+v. the imposition of margin requirements and matters pertaining to the
+deposit or collection of margin;
+vi. the manner of making and receiving payment of monies in respect of the
+provision by it of any service, including the setting-off of such amounts
+receivable and amounts payable to it;
+vii. the provision of other services; or
+viii. generally, its management, operations or procedures;
+"securities dealer" means-
+(a) a person licensed, registered or authorized under the Act to deal in securities in
+Ghana. ; or
+(b) a person licensed, registered or authorized by an Authority or Commission or
+regulatory organization outside Ghana for an activity which, if carried on in
+Ghana, would constitute Dealing under the Act;
+"segregated account" means-
+(a) a segregated account within the meaning of the Conduct of Business
+Guidelines; or
+(b) an account for holding clients’ monies which is separate from a market
+operator's own account.
+"settlement date", in relation to any dealing in securities, means-
+(a) in the case of a transaction effected on an exchange, the date on which payment
+for the securities is first due in accordance with the Guidelines or conventions
+of the exchange on which the securities are traded; or
+(b) in any other case, the date on which payment for the securities is first due as
+agreed between the parties to the transaction,
+(c) but in either case, the date not exceeding 3 business days after the trade date;
+"short selling” means a sale of securities where at the time of the sale-
+a. the seller has a presently exercisable and unconditional right to vest the
+securities in the purchaser by virtue of having entered into a securities
+borrowing and lending agreement;
+b. or any other type of short selling that the Commission may prescribe
+"special debt securities" means indexed bonds, convertible debt securities, bonds with
+non-detachable warrants and non-interest bearing debt securities-
+(a) which are issued or guaranteed by-
+(i) the Government; or
+(ii) Bank of Ghana;
+(b) which are listed on a recognized securities exchange but does not include-
+i. any I-owe-you; and
+ii. any securities or any instrument acknowledging, evidencing or
+creating a subordinated loan or a debt due from a corporation within a
+group of companies of which the holder of the securities or instrument
+is a member; or
+iii. certificates of deposit issued by an authorized financial institution or
+an approved bank incorporated outside Ghana;
+"specified securities" means the securities specified in Table 6 of Schedule 2;
+"standby subordinated loan facility" means a loan facility provided to a market operator
+under which the lender's claim in respect of any drawdown by the market operator is
+subordinated to the prior payment, or provision for payment, in full of all claims of all
+other present and future creditors of the market operator;
+"subordinated loan", means a loan provided to a person under which the lender's claim in
+respect of the loan is subordinated to the prior payment, or provision for payment, in full
+of all claims of all other present and future creditors of the person;
+"trade date", in relation to a transaction in-
+(a) any securities;
+(b) a derivative contract;
+(c) a foreign exchange agreement; or
+(d) an interest rate swap agreement; means-
+i. in the case of a transaction on any exchange, the date on which the
+transaction is executed; or
+ii. in any other case, the date on which the agreement between the parties is
+made;
+"unit trust” as defined in the Act
+"variable required liquid capital”, in relation to a market operator means the sum of the
+basic amount and 2.0% of its aggregate gross foreign currency position;
+28
+
+SCHEDULES AND TABLES
+Schedule 1
+TABLE 1
+REQUIRED LIQUID CAPITAL
+Column 1 Column 2
+Regulated Activity Minimum Amount of Required
+Liquid Capital (GHC)
+Securities exchange 5,000,000
+Broker dealer 750,000
+Margin trader 1,000,000
+Market maker 1,500,000
+Trustee 12,500,000
+Custodian 15,000,000
+Securities depository 15,000,000
+Clearing house 15,000,000
+Registrar 250,000
+Underwriter 1,875,000
+Issuing house 250,000
+Investment advisor (corporate) 250,000
+Investment advisor (individual) 100,000
+Fund manager 1,000,000
+Credit rating agency 250,000
+Primary dealer 200,000,000
+Nominee 500,000
+Schedule: 2
+HAIRCUT PERCENTAGES
+TABLE 1
+HAIRCUT PERCENTAGES FOR SHARES LISTED IN GHANA FOR THE PURPOSES OF
+THESE GUIDELINES
+Column 1 Column 2 Column 3
+Item Description Haircut
+Percentage
+%
+1. Shares which are listed on a recognized stock market;
+(a) being a constituent of the GSE Composite Index and not 25
+suspended from trading
+(b) being a constituent of the GSE’s Financial Stock Index 15
+(c) being any share not referred to in paragraph (a) or (b) 50
+2. Shares which are listed on a recognized stock market 50
+but are not stratified according to stock indices
+TABLE 2
+HAIRCUT PERCENTAGES FOR SHARES LISTED ON EXCHANGES IN FOREIGN
+MARKETS
+Column 1 Column 2 Column 3
+Item Description Haircut
+Percentage
+%
+1. Shares which are listed on a specified exchange;
+(a) being a constituent of the Morgan Stanley Capital Index 15
+(MSCI) World Index; or
+(b) being a constituent of the MSCI Emerging Markets 20
+Index; or
+(c) being a constituent of the MSCI Frontier Markets Index; 30
+or
+(d). being a constituent of the MSCI Standalone Markets 50
+Index
+4. Share listed on a specified exchange but not referred to 65
+Table 1 (a) – (d) above
+TABLE 3
+HAIRCUT PERCENTAGES FOR QUALIFYING DEBT SECURITIES, BY ISSUER OR
+GUARANTOR, ETC.
+Column 1 Column 2 Column 3
+Tier Description Haircut
+Percentage
+%
+1. Where the issuer or guarantor of the qualifying debt
+securities;
+(a) is the Government
+i. Treasury bill 5
+ii. Bonds 10
+(b) is the Bank of Ghana; or 0
+(c) has an issue or issues currently rated by- 5
+(i) Moody's Investors Service at Aaa or Prime-1;
+or
+(ii) Standard & Poor's Corporation at AAA or A-1;
+or
+(iii) Fitch’s at F1+ or F1
+(iii) by a rating service the Commission deems
+equivalent to (i) or (ii)
+2. Where the qualifying debt securities are any certificate 10
+of deposit, the issuer of which is an authorized financial
+institution or an approved bank incorporated
+outside Ghana
+3. To the extent not already covered in Tier 1 or Tier 2; 15
+where the qualifying debt securities are listed on a
+recognized securities exchange
+4. To the extent not already covered in Tier 1, Tier 2 or 20
+Tier 3
+TABLE 4
+HAIRCUT PERCENTAGES FOR QUALIFYING DEBT SECURITIES, BY REMAINING TERM
+TO MATURITY
+Column 1 Column 2
+Remaining term to maturity Qualifying debt
+securities
+Haircut Percentage %
+(a) Less than 1 year 2.5
+(b) 1 year to less than 3 years 5
+(c) 3 years to less than 5 years 7
+(d) 5 years to less than 10 years 10
+(e) 10 years or more 12
+TABLE 5
+HAIRCUT PERCENTAGES FOR SPECIFIED SECURITIES
+Column 1 Column 2 Column 3
+Item Description Haircut Percentage
+1. Specified securities being warrants listed on a 100%
+recognised exchange
+2. Specified securities being equity linked instruments same as that applicable
+to the underlying
+securities
+3. Specified securities being units in any unit trust or 15%
+shares in any mutual fund or Collective Investment
+Scheme
+4. Specified securities being units in any unit trust or 25%
+shares in any mutual fund or Collective Investment
+Scheme where the Market operator is associated with
+it
+TABLE 6
+HAIRCUT PERCENTAGES FOR SPECIAL DEBT SECURITIES
+Column1 Column 2 Column 3
+Item Description Haircut
+Percentage
+1. Special debt securities being indexed bonds, convertible 10%
+debt securities, bonds with non-detachable warrants and
+non-interest-bearing debt securities which are issued or
+guaranteed by-
+(i) the Government
+; or
+(ii) Bank of Ghana;
+2. Special debt securities being indexed bonds, convertible 50%
+debt securities, bonds with non-detachable warrants and
+non-interest-bearing debt securities which are listed on a
+recognised securities exchange
+TABLE 7
+HAIRCUT PERCENTAGES FOR OTHER ASSETS
+Liquid
+Balance
+Item Assets Haircut capital
+sheet
+computation
+5 Bank balances (A) (B) C = A * B
+Cash in Hand 0 0.0% 0
+Cash at Bank in Company's account 0 0.0% 0
+Cash at Bank accounts for clients (Trust Account) 0 0.0% 0
+Cash deposits with Ghana Stock Exchange 0 100.0% 0
+Client Monies held at CSD 0 0.0% 0
+Cash deposits with SEC 0 100.0% 0
+Cash at Bank – call account and short-term deposits 0 0.0% 0
+6 Amounts receivable from exchange and clearing houses 0
+GSE 0 25.0% 0
+CSD 0 100.0% 0
+Other Clearinghouses 0 100.0% 0
+Amounts Receivable Securities Trading
+7 (Amounts receivable from clients in respect of purchase 0
+of and subscription for securities)
+Amount receivable from clients T15 days 0 0.0% 0
+Amount receivable from clients >T+15 <T+30 days 0 15.0% 0
+Amount receivable from clients >T+ 30 0 50.0% 0
+Amount receivable from agents 0 100.0% 0
+Securities purchased for clients 0 100.0% 0
+Amounts receivable from clients for subs of
+0 100.0% 0
+securities - IPOs
+Amounts receivable from securities dealers arising
+8 0 0.0% 0
+from dealing in securities
+Amount receivable from clients T15 days 0 0.0% 0
+Amount receivable from clients >T+15 <T+30 days 0 30.0% 0
+Amount receivable from clients >T+ 30 0 50.0% 0
+Amounts receivable arising from Securities borrowing
+9 0.0% 0
+and Lending Agreements 0
+10 Amounts receivable from margin clients (Note 5) 0 0
+Amounts provided or receivable to support Repos and
+11 0 0.0% 0
+Short Selling
+Proprietary positions in securities and specified
+12 0 0
+investments (Composite of Tables 1 to 6 of Schedule 2)
+13 Proprietary positions in Derivatives 0 0
+Spare Account 0 100.0% 0
+14 Current Portion Lending Products (after DD reserves)
+Hire purchase 0 100.0% 0
+Leasing 0 100.0% 0
+Property and Other finance provided 0 100.0% 0
+Spare 0 100.0% 0
+15 Other assets arising from 0
+Prepaid expenses, security deposits and Advisory
+0 5.0% 0
+fees which are repayable within three months
+Prepaid expenses, security deposits and Advisory
+0 10.0% 0
+fees which are older than three months
+Own subscriptions in IPOs 0 50.0% 0
+16 Investments in Associated undertakings
+Subsidiaries 0 100.0% 0
+Associated Companies 0 100.0% 0
+Directors & Staff 0 100.0% 0
+Other associated persons or entities 0 100.0% 0
+17 Other Spare Account 0 50.0% 0
+18 Other Spare Account 0 100.0% 0
+19 Total liquid assets 0
+20 Fixed assets (after Deprec.) 0 100.0% 0
+Long Term Portion Lending Products (after DD
+21 reserves)
+Hire purchase 0 100.0% 0
+Leasing 0 100.0% 0
+Property and Other finance provided 0 100.0% 0
+22 Intangible Assets
+GSE Rights 0 100.0% 0
+Goodwill, Patents and other Intangible Assets 0 100.0% 0
+Deferred Cost expenditure 0 100.0% 0
+Deferred Tax and current tax recoverable 0 100.0% 0
+23 Long Term Finance Provided
+24 Long Term Assets
+Long term asset- unqouted equity investment 0 100.0% 0
+Long Term Investments 0 100.0% 0
+Long Term Prepayments & Deposits 0 100.0% 0
+Other 0 100.0% 0
+25 Total assets
+Table 8 – Template for Liquid Capital Computations
+Current Previous Previous
+Period Period Year
+GHS GHS GHS
+Total liquid assets (after applying haircut %s) A xxxxxx xxxxxx xxxxxx
+Total adjusted liabilities B xxxxxx xxxxxx xxxxxx
+Actual Liquid Capital (A) - (B) C xxxxxx xxxxxx xxxxxx
+Required liquid capital = xxxxxx xxxxxx xxxxxx
+Max of the 3 items (E, F, G) below: D
+▪ 5% of total adjusted liabilities or E xxxxxx xxxxxx xxxxxx
+▪ 50% of Minimum Capital Requirement or F xxxxxx xxxxxx xxxxxx
+▪ 10% Expense Base G xxxxxx xxxxxx xxxxxx
+Excess liquid capital/(liquid capital deficit) I = C - D xxxxxx xxxxxx xxxxxx
+Guidance Note on reporting period:
+a) Current period refers to current month, or quarter or year
+b) Previous period refers to previous month, quarter or year
+c) Previous year refers to corresponding result for the previous year’s month or quarter
+Monthly Reporting Guidance
+2025 2025 2024
+February January February
+GHS GHS GHS
+Total liquid assets (after applying haircut %s) A xxxxxx xxxxxx xxxxxx
+Total adjusted liabilities B xxxxxx xxxxxx xxxxxx
+Actual Liquid Capital (A) - (B) C xxxxxx xxxxxx xxxxxx
+Required liquid capital = xxxxxx xxxxxx xxxxxx
+Max of the 3 items (E, F, G) below: D
+▪ 5% of total adjusted liabilities or E xxxxxx xxxxxx xxxxxx
+▪ 50% of Minimum Capital Requirement or F xxxxxx xxxxxx xxxxxx
+▪ 10% Expense Base G xxxxxx xxxxxx xxxxxx
+Excess liquid capital/(liquid capital deficit) I = C - D xxxxxx xxxxxx xxxxxx
+Quarterly Reporting Guidance
+2025 Q1 2024 Q4 2024 Q1
+GHS GHS GHS
+Total liquid assets (after applying haircut %s) A xxxxxx xxxxxx xxxxxx
+Total adjusted liabilities B xxxxxx xxxxxx xxxxxx
+Actual Liquid Capital (A) - (B) C xxxxxx xxxxxx xxxxxx
+Required liquid capital = xxxxxx xxxxxx xxxxxx
+Max of the 3 items (E, F, G) below: D
+▪ 5% of total adjusted liabilities or E xxxxxx xxxxxx xxxxxx
+▪ 50% of Minimum Capital Requirement or F xxxxxx xxxxxx xxxxxx
+▪ 10% Expense Base G xxxxxx xxxxxx xxxxxx
+Excess liquid capital/(liquid capital deficit) I = C - D xxxxxx xxxxxx xxxxxx
+Annual Reporting Guidance
+2025 FY 2024 FY 2023 FY
+GHS GHS GHS
+Total liquid assets (after applying haircut %s) A xxxxxx xxxxxx xxxxxx
+Total adjusted liabilities B xxxxxx xxxxxx xxxxxx
+Actual Liquid Capital (A) - (B) C xxxxxx xxxxxx xxxxxx
+Required liquid capital = xxxxxx xxxxxx xxxxxx
+Max of the 3 items (E, F, G) below: D
+▪ 5% of total adjusted liabilities or E xxxxxx xxxxxx xxxxxx
+▪ 50% of Minimum Capital Requirement or F xxxxxx xxxxxx xxxxxx
+▪ 10% Expense Base G xxxxxx xxxxxx xxxxxx
+Excess liquid capital/(liquid capital deficit) I = C - D xxxxxx xxxxxx xxxxxx
+35

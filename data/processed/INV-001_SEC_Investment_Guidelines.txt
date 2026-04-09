@@ -1,0 +1,628 @@
+‘Ensuring Investor Protection’
+SECURITIES AND EXCHANGE COMMISSION
+INVESTMENT GUIDELINES FOR FUND MANAGERS
+SEC/GUI/001/07/2021
+PREAMBLE
+In the exercise of the powers conferred on the Securities and Exchange Commission (hereinafter
+referred to as “the SEC”) by Section 209 of the Securities Industry Act, 2016 (Act 929) as
+amended, these Guidelines are made this 16th day of July 2021.
+PART ONE: PRELIMINARY
+1. Application of Guidelines
+(1) These Guidelines shall apply to all Fund Managers licensed by the
+Commission and their representatives.
+(2) A Fund Manager of a Collective Investment Scheme shall comply with the
+requirements of L.I. 1695 in addition to the provisions in these Guidelines.
+(3) In the case of pension funds, a Fund Manager shall, in addition to these
+Guidelines, comply with the Investment Guidelines issued by National Pensions
+Regulatory Authority.
+(4) Where a Fund Manager manages any other funds not mentioned in these
+Guidelines, it shall, in addition to these Guidelines comply with the provisions
+of any Guidelines or Rules governing such other funds as issued by the relevant
+government or regulatory authority.
+(5) Where the Commission agrees to waive the full application of any part of these
+Guidelines, it shall issue a directive to the market operator that states what
+alternative procedures shall be put in place by the market operator to ensure
+protection of investors’ funds and the market operator shall comply.
+(6) Where any doubt arises about the meaning of any provision contained in these
+Guidelines and any other Guideline issued by the SEC, the same shall be referred
+to the SEC and the interpretation provided by the SEC shall be final.
+2. Client Mandates
+(1) A Fund Manager shall complete Know Your Client (KYC) details on all clients
+as prescribed by the Commission.
+(2) A Fund Manager shall have the following client mandates in any desired
+combinations:
+a) Retail Clients (Regular)
+b) Retail Clients (High Net Worth)
+c) Institutional Clients
+(3) A Fund Manager shall execute an Investment Management Agreement with each
+client that contains adequate disclosure provisions on the nature of the mandate,
+the client profile, and the permitted asset classes for investment and performance
+measurement benchmarks. An Investment Management Agreement template is
+provided for in Schedule 3 as a guide only.
+(4) A Fund Manager shall not offer a fixed or guaranteed return on any Investment
+Management Agreement.
+(5) A Fund Manager shall inform regular retail clients that their funds can only be
+invested in Collective Investment Schemes of their choice.
+(6) A Fund Manager shall invest funds of regular retail clients in Collective
+Investment Schemes licensed or recognized by the Commission. Institutional
+clients may elect to have their funds invested in part or wholly in Collective
+Investment Schemes licensed or recognized by the Commission.
+(7) A Fund Manager shall ensure that investments made for Collective Investment
+Schemes are duly executed in accordance with the Scheme Particulars approved
+by the Commission.
+(8) A Fund Manager shall ensure that investments made for a high net-worth retail
+client or an institutional client are duly executed in accordance with the
+Investment Management Agreement.
+PART TWO: ELIGIBLE ASSETS AND RESTRICTIONS
+3. Asset classes for investment of clients’ funds
+(1) A Fund Manager may invest in capital and money market instruments and
+alternative investments.
+(2) A Fund Manager may have proprietary funds, discretionary and non-
+discretionary client accounts including collective investment schemes subject to
+paragraph 3 (3).
+(3) Where a Fund Manager wishes to place funds with institutions licensed under
+3(3)(a) and 3(3)(b) herein, it shall do so in accordance with paragraph 4 of these
+Guidelines:
+a) Banks and Specialised Deposit-Taking Institutions Act, 2016 (Act 930)
+b) Non-Bank Financial Institutions Act, 2008 (Act 774)
+(4) A Fund Manager prior to investing in a commercial paper shall refer to the
+Guidelines on Commercial Paper issued by the Commission to ensure full
+compliance with the requirements therein.
+(5) A Fund Manager shall not invest clients’ funds under its management with
+another Fund Manager except where the investment is in listed securities issued
+by the Fund Manager or a Collective Investment Scheme managed by the Fund
+Manager.
+4. Limitations on Investment of Clients’ Funds
+For discretionary client accounts, the following restrictions shall apply:
+(1) Investment with Related Parties
+a. A Fund Manager shall not invest more than an aggregate of 15% of its
+funds under management with related parties (as defined in these
+Guidelines).
+For the purpose of paragraph 4 (1) (a), a Fund Manager shall not invest
+more than an aggregate of:
+i. 10% of funds under management where the related party is a bank
+ii. 5% of funds under management in all other related parties.
+b. A Fund Manager may in addition to 4 (1) (a) invest not more than 10%
+of funds under management in listed securities of related parties.
+c. A Fund Manager shall, prior to investing in a related party, also refer to
+the provisions on Related Party Transactions under these Guidelines in
+order to ensure full compliance with the requirements therein.
+(2) Investment with Banks and Specialised Deposit-Taking Institutions
+a. A Fund Manager shall not invest more than an aggregate of:
+i. 10% of funds under management in a single bank as fixed deposit.
+ii. 5% of funds under management in a single specialized deposit-taking
+institution as fixed deposit.
+b. A Fund Manager’s investments with a specialised deposit-taking
+institution that is a Microfinance Institution shall be done in accordance
+with limits prescribed by the Bank of Ghana.
+(3) Investment in unlisted Securities
+a. A Fund Manager shall not invest more than 10% of its funds under
+management in unlisted equities and bonds subject to paragraph 4 (4) of
+these Guidelines.
+b. A Fund Manager shall not invest more than 5% of its funds under
+management in a single unlisted issuer.
+(4) Investment in unlisted Corporate Debt Securities
+a. A Fund Manager shall develop appropriate risk management procedures
+to identify and control risks arising from investments in unlisted
+corporate debt securities. The nature of the risk management system that
+is put in place shall be commensurate with the nature, size and
+complexity of the Fund Manager’s investment activities in debt
+securities.
+b. A sound risk management system shall incorporate:
+i. appropriate and adequate level of oversight responsibilities by the
+board of directors and senior management;
+ii. comprehensive risk identification, measurement and valuation
+methodologies;
+iii. detailed structure of limits and other parameters used to govern risk
+taking; and
+iv. independent control, monitoring and reporting of risk exposures
+c. A Fund Manager shall put in place processes and procedures for the
+identification of risks including credit risk, market risk, liquidity risk,
+operational risk and legal risk to which it is exposed in its dealing of the
+unlisted debt securities activities.
+d. A Fund Manager shall not invest in unlisted debt securities that do not
+have the following provisions or features:
+i. clearly defined terms and conditions and maturity dates;
+ii. coupon and principal payment provisions;
+iii. interim, terminal and contingent redemption features, except in the
+case of zero-coupon and convertible bonds;
+iv. be rated as Investment Grade by a credit rating agency licensed by or
+registered with the Securities and Exchange Commission; and
+v. have an offering/private placement memorandum that states the
+investment objectives, strategy, use of proceeds, sector focus, term
+and other documents including the annual audited financial
+statements of the investee company and full disclosure of all risk
+factors in its offering memorandum
+vi. be issued in accordance with the laws of Ghana.
+e. A Fund Manager shall fully document its due diligence procedures
+including detailed risk assessment procedures conducted on the investee
+company prior to each investment in unlisted debt securities.
+PART THREE: INVESTMENT PROCESS
+5. Client Profiling
+(1) A Fund Manager shall profile its clients to ensure adequate information is
+obtained prior to the start of any business relationship. Information to be
+obtained and which shall be strictly kept confidential, shall include but not
+limited to;
+a. age of the client, investment objective, employment status, tax status, how
+long they wish to invest, financial and liquidity needs, reason why they are
+investing, expected short term return, expected long term return, all existing
+investments of the client, among others.
+b. details about the client’s knowledge and experience in relation to the specific
+investment product that will be considered for recommendation, highest
+level of education, educational qualifications, investment
+courses/seminars/attended.
+c. the level of investment risk that the client is able or willing to bear financially
+and whether that is consistent with their investment objectives.
+d. Ascertaining from the client how they will handle a partial or complete loss
+in value of their investment.
+e. Any other information that may be prescribed by the Commission.
+6. Disclosure to Clients:
+A Fund Manager shall at pre-sale, point of sale and post-sale disclose the following
+information to its clients to enable them to make informed decisions:
+(1) The proposed investment strategy and asset allocation strategy, including
+appropriate guidance and warnings of risk-return trade-offs.
+(2) In the case of placements, whether the proposed placement house where the
+clients’ funds shall be invested is regulated or not and where the placement
+house is regulated, the primary regulator.
+(3) The risk-return characteristics of the proposed or underlying investments and
+implications to the investment corpus of the client.
+(4) Volatility of the price and any limitations on the available market for such
+investments (liquidity risks).
+(5) All costs and charges associated with the investments.
+(6) Where funds are placed with related parties, the names of the related parties.
+7. Acting in the Best Interests of Clients
+(1) A Fund Manager shall act, at all times, honestly, fairly and professionally and in
+the best interest of its clients.
+(2) Before providing investment solutions to a client, a Fund Manager shall provide
+adequate information about the firm, its services, any charges that the client
+might incur and the basis of recommendations made that will enable the client
+make informed investment decisions.
+(3) A Fund Manager shall put in place procedures to identify and manage conflict
+of interests with clients. This includes disclosing any potential conflicts of
+interest that may exist prior to onboarding a client.
+(4) A Fund Manager shall not pay or accept (receive) any money, fee,
+commission or provide or receive any non-monetary benefit such as finder’s
+fee, that would impact on its duty to act in the clients’ best interest. Payments
+or receipts from or to a third party may only be permitted where they will not
+impair compliance with the Fund Manager’s duty to act in the clients’ best
+interest and the amount is clearly disclosed in writing to the client.
+8. Suitability of Investment
+(1) A Fund Manager shall ensure that all recommendations made are suitable and
+appropriate for the client at all times including.
+a) matching a client profile obtained through a Know Your Client procedure
+to any/all investment solution(s) proposed for the investor taking into
+consideration the risk-return characteristics as well as the client’s risk
+tolerance level and capacity for loss.
+b) thoroughly explaining high-risk investment products to retail
+investors as well as the time horizon of an investment.
+(2) Where an investor has agreed to invest in a Collective Investment Scheme, the
+Fund Manager shall take reasonable steps to ensure compliance with the
+objectives, strategy and asset allocation as envisaged in the particulars of the
+scheme when making investment decisions.
+(3) A Fund Manager shall issue a suitability report after assessing the clients’
+profile/needs and determining what investment products would suit the
+client/investor. The suitability report shall indicate the advice given and how the
+recommendation provided is suitable to meet the needs of the investor. For
+regular retail clients, the scheme particulars of the collective investment scheme
+shall be applied.
+(4) The Fund Manager shall demonstrate, by means of sufficient evidence, that it
+has acted in the best interests of the client and has met its suitability obligations.
+9. Due Diligence
+(1) A Fund Manager shall conduct due diligence on all securities or financial
+institutions it wishes to invest in and make appropriate recommendations
+contained in an investment strategy and asset allocation strategy submitted to an
+Investment Committee for approval. This submission to the Investment
+Committee shall be accompanied with documented proof of the investment
+research, including any technical and/or fundamental analysis, conducted
+serving as the basis for the recommendations.
+(2) The Investment Committee shall document its approval of the investment
+strategy and asset allocation strategy proposed by the Fund Manager for each
+portfolio being managed. Any deviation by the Fund Manager from the strategy
+approved shall be captured in an exception report and submitted to the
+Investment Committee for ratification.
+(3) The Investment Committee shall not preside over any request that is not
+accompanied by a documented investment research. The Fund Manager shall
+comply strictly with the investment strategy and asset allocation strategy
+approved by the Investment Committee.
+PART FOUR: RELATED PARTY TRANSACTIONS
+10. Related Party Investments:
+A related party shall, for the purposes of these Guidelines, refer to an associated person
+set out in section 212 of the Act, and shall also include:
+(1) A person or close member of that person’s family, if that person:
+a) has control or joint control over the Fund Manager;
+b) has significant influence over the Fund Manager; or
+c) is a member of the key management personnel of the Fund Manager or
+of a parent of the Fund Manager.
+(2) An entity is related to a Fund Manager if any of the following conditions apply:
+a) the entity and the Fund Manager are members of the same group (which
+means that each parent, subsidiary and fellow subsidiary is related to the
+others).
+b) one entity is an associate or joint venture of the other entity (or an
+associate or joint venture of a member of a group of which the other
+entity is a member)
+c) both entities are joint ventures of the same third party.
+d) one entity is a joint venture of a third entity, and the other entity is an
+associate of the third entity.
+e) the entity is controlled or jointly controlled by a person identified in 10
+(1).
+f) a person identified in 10 (1) (a) has significant influence over the entity
+or is a member of the key management personnel of the entity (or of a
+parent of the entity).
+(3) A close family member includes that person’s:
+a) children, spouse, domestic partner or dependents;
+b) stepchildren, brothers and sisters, stepbrothers and stepsisters, parents,
+in-laws, nephews and nieces, uncles, aunts and cousins.
+11. Approval Requirements for related party transactions
+(1) All related party investments shall be referred to a Board committee of the Fund
+Manager for thorough review after which the Board committee shall make a
+recommendation on the said investment to the Board of the Fund Manager for
+approval prior to the investment being made.
+(2) The Board committee shall comprise a combination of independent non-
+executive directors and executive directors.
+(3) One independent non-executive director shall be appointed as Chairman of the
+committee.
+(4) The Board committee shall ensure that minutes of meetings are properly
+documented and communicated to the Board of Directors.
+(5) The Board committee shall ensure that it has or has access to enough knowledge
+or expertise to assess all aspects of the proposed related party investment, and
+where necessary, it shall obtain professional and expert advice from an
+appropriately qualified person or institution.
+(6) Where a Director of a Fund Manager has an interest in a related party investment
+under consideration for approval, that Director shall not:
+(a) be present while the matter is being considered at the meeting; and
+(b) vote on the matter.
+PART FIVE: PERFORMANCE MEASUREMENT AND REPORTING
+12. Reporting requirements
+(1) A Fund Manager shall submit on quarterly basis, to the Commission, a
+placement report providing details of where all funds under management have
+been placed including all placements with related party entities in accordance
+with the Circular on quarterly placement records from investment advisers
+managing funds with Circular Number SEC/CIR/001/04/16 issued by the
+Commission on 11th April 2016.
+(2) The report shall be submitted to the Commission not later than 21 days after the
+end of each quarter to which the statement relates.
+(3) The report shall be in the form specified in Schedules 1 and 2.
+(4) A Fund Manager shall submit a statement of account to its clients at least once
+a quarter or as frequently as agreed with the clients. Electronic copies of each
+statement sent to the clients shall be kept for at least seven (7) years from the
+date the statement is sent to the clients.
+(5) A Fund Manager shall also report at least quarterly to investors on the
+performance of its portfolio.
+13. Measurement and Monitoring
+(1) A Fund Manager shall measure and monitor the performance of recommended
+investments on a quarterly basis and advise the clients based on current trends
+and findings after every review.
+(2) A Fund Manager shall document and disclose the basis for measuring the
+performance of the portfolio being managed in the reports to the clients and the
+Commission.
+(3) A Fund Manager shall apply consistently any standardized performance
+measurement framework that is recommended by the Ghana Securities Industry
+Association and accepted/approved by the Commission or any other
+performance measurement standards such as the Global Investment Performance
+Standards (GIPS) that may be prescribed by the Commission for the asset
+management industry in Ghana.
+(4) A Fund Manager shall issue a risk warning to an investor where it determines
+after its performance assessment that the service or product is no longer
+appropriate for the customer (under either discretionary or non-discretionary
+mandates). The Fund Manager shall maintain documentary evidence where the
+customer still decides to maintain the investment despite the risk warning and
+potential loss of value of investment.
+PART SIX
+14. Transitional Provisions
+All Fund Managers operating prior to the commencement date of these
+Guidelines shall comply with these Guidelines by 31 December 2021.
+15. Penalties
+(1) Where a person fails to comply with these Guidelines, the Commission may take
+action as set out in Section 209 of the Act or apply such greater penalty where
+the breach also involves a breach of requirements in the Act or Regulations for
+which a higher penalty is prescribed.
+(2) The Commission may take account of the nature and seriousness of any breach
+or pattern of breaches when considering whether or not a market operator
+continues to meet the license criteria.
+(3) The Commission may take into account the responsibility of any key person for
+a breach when considering whether or not they continue to be fit and proper or
+meet the criteria for an individual representative’s license.
+(a) The Commission may also issue a directive under Section 209 of the Act
+where it considers this to be an appropriate course in the light of a breach
+and such directive may include a requirement that the market operator;
+(b) takes immediate action to correct the breach and amend systems and
+controls to prevent recurrence;
+(c) takes such action as is necessary to place any client or other person in the
+position that they would have been had the breach not occurred;
+(d) takes steps to review their staff structure or dismiss employees with
+responsibility for the breach;
+(e) limits their business in such a manner as the Commission may consider
+appropriate;
+(f) publishes, in such form as the Commission may determine, an
+announcement about the breach, its effect on clients or other person and
+the actions taken to rectify the breach.
+16. Interpretation
+“Act” means Securities Industry Act, 2016 (Act 929) as amended.
+“Alternative Investments” means assets other than shares, bonds and cash and may
+include private equity, hedge funds, real estate securities, commodities and derivative
+contracts.
+“Capital Market Instruments” refer to securities with maturities of over one year and
+includes the following:
+i. local equities, bonds and preference shares, notes – listed and unlisted
+ii. listed foreign equities and bonds
+iii. collective investment schemes
+iv. private funds
+v. others (as may be prescribed by the Commission);
+“Control” means the power to govern the financial and operating policies of an entity so
+as to obtain benefits from its activities.
+“Discretionary Account” means an investment account that allows a Fund Manager to
+invest client’s funds on best efforts basis without reference to the clients’ direction or
+consent”.
+“Fund Manager” shall have the same meaning as in the Securities Industry Act, 2016
+(Act 929) as amended.
+“Institutional investor or client” means corporates, pension schemes, endowments,
+investment clubs that have clear investment mandates/membership rules.
+“Investment Committee” shall consist of competent individuals capable of making
+sound investment decisions.
+“Joint control” is the contractually agreed sharing of control over an economic activity.
+“Key management personnel” are those persons with authority and responsibility for
+planning, directing and controlling the activities of the entity, directly or indirectly,
+including any director (whether executive or otherwise) of that entity.
+“Money Market Instruments” refer to securities with maturities of up to one year and
+includes the following:
+i. fixed deposits issued by financial institutions regulated under the Banks and
+Specialized Deposit-Taking Institutions Act, 2016 (Act 930);
+ii. commercial paper;
+iii. treasury bills and notes;
+iv. others (as may be prescribed by the Commission).
+“Non-Discretionary Account” means an investment account that does not allow a Fund
+Manager to invest clients’ funds except at the clients’ direction or consent”.
+“Regular retail investor” means an investor whose funds for investment are less than
+GHS 100,000 or such higher amount as may be determined by the Fund Manager.
+“High net-worth retail investor” means an investor whose funds for investment are in
+excess of GHC 100,000 or such higher amount as may be determined by the Fund
+Manager.
+“Securities” shall have the same meaning as in the Securities Industry Act, 2016 (Act
+929) as amended.
+“Scheme” means a unit trust or a mutual fund.
+“Significant influence” refers to the power to participate in the financial and operating
+policy decisions of an entity, but not control over those policies. Significant influence
+may be gained by share ownership, statute or agreement.
+PART SEVEN
+Schedule 1 - Report on related party transactions
+Listed Equity Investments
+Name of Nature of Industry Amount % of Investment Date of Maturity Terms and Sector
+Related Relationship / Sector Invested AUM Rationale Board Date Condition Regulato
+Party Approval s r
+AA Ltd Parent
+AB Ltd Associate
+Total
+Unlisted Equity Investments
+Name of Nature of Industry Amount % of Investment Date of Maturity Terms and Sector
+Related Relationship / Sector Invested AUM Rationale Board Date Condition Regulator
+Party Approval s
+AA Ltd Parent
+AB Ltd Associate
+Total
+Listed Bonds Investments
+Name of Nature of Industry / Amount % of Investment Date of Maturity Terms and Sector
+Related Relationship Sector Invested AUM Rationale Board Date Condition Regulator
+Party Approval s
+AA Ltd Parent
+AB Ltd Associate
+Total
+Unlisted Debt Investments
+Name of Nature of Industry / Amount % of Investment Date of Maturity Terms and Sector
+Related Relationship Sector Invested AUM Rationale Board Date Conditions Regulator
+Party Approval
+AA Ltd Parent
+AB Ltd Associate
+Total
+Each quarterly placement report submitted to the Commission shall be accompanied with a
+sworn statement signed by two board members including the Chief Executive as follows:
+• “the quarterly placement report does not contain untrue statements, misleading facts or
+omit material facts to the best of my knowledge”.
+• “investment restrictions, including related party restrictions, provided in the Investment
+Guidelines for Fund Managers (2021) have been fully complied with”.
+Schedule 2 - Quarterly placement reporting template.
+Fund Managers shall refer to the Commission’s website to download the template to be used
+for the quarterly placement report.
+https://sec.gov.gh/wp-content/uploads/Final-Regulatory-Laws/Directives/Client-Placement-
+Record.xlsx
+Schedule 3 – Investment Management Agreement - Template
+INVESTMENT MANAGEMENT AGREEMENT
+BETWEEN
+...........................................................................................
+AND
+...................................................................................................
+INVESTMENT MANAGEMENT AGREEMENT
+THIS INVESTMENT MANAGEMENT AGREEMENT is made on
+................................................between...............................
+...............................................................................................................
+.........., a company incorporated under the laws of Ghana, and licensed by the Securities and
+Exchange Commission (SEC) having its registered office situated at
+...............................................................................................................
+................................................................................
+AND
+...............................................................................................................
+........................................................whose address is
+.............................................................................................................................
+(hereinafter referred to as the “Investor” or “Client”) of the other part;
+IT IS HEREBY AGREED AS FOLLOWS:
+1.0 APPOINTMENT
+1.1 The within named Investor hereby appoints the Fund Manager and the Fund
+Manager accepts the appointment as Fund manager to operate a discretionary
+managed account(s) on behalf of the Client; and authorized to buy or sell securities
+on behalf of the Client, in respect of the Client’s managed account and in
+accordance with the terms and conditions set forth in this Agreement, such
+management hereinafter referred to as the “Services”.
+1.2 The Fund Manager shall open an investment account in the name of the Investor
+to hold the assets of the Portfolio in accordance with the terms and conditions set
+forth in this Agreement.
+1.3 The appointment shall remain in force unless otherwise terminated as per the
+terms of clause 10 of this Agreement
+2.0 FUNCTIONS OF THE FUND MANAGER
+The Fund Manager shall:
+2.1 Have a sole discretion to manage and invest the Portfolio in accordance with the
+Investment Strategy and Asset Allocation Strategy agreed with the investor.
+2.2 Invest and manage the Portfolio in accordance with the Client’s investment
+characteristics as reflected in the Client’s risk tolerance level, return objectives,
+liquidity needs, time horizon and any other unique investment circumstances
+agreed upon.
+2.3 At all times act in the best interest of the Investor.
+2.4 Maintain proper books of accounts and provide the reports set out in section 4.0
+of this Agreement.
+2.5 Exercise the necessary standard of care to ensure that the fund investments are
+done in the best interest of the Investor.
+2.6 Exercise at its full discretion any voting power as a shareholder on behalf of the
+Investor, such power having been derived from any shares or other investments
+held by the Investor, provided that in so doing, it shall always act in the Investor’s
+best interest.
+2.7 Review periodically the investment exposure strategies of the portfolios to the
+main asset classes, and to direct the asset make-up within asset classes.
+2.8 Make, at any time, any change in the investment or condition of the securities,
+investments, properties and/or assets forming part of the Investment Portfolios, by
+selling, calling in or converting them or any part into money, and to invest and re-
+invest the net proceeds received in such manner or in such properties, securities,
+investments and/or assets as it may consider proper.
+2.9 Re-invest any income derived from any such investments, or to re-invest any
+proceeds arising upon their sale or redemption.
+2.10 Vary any investments at any time as it may consider proper.
+3.0 DISCLOSURE TO CLIENTS:
+A Fund Manager shall disclose the following information to its clients to enable them
+to make informed decisions:
+3.1 The proposed investment strategy and asset allocation strategy, including
+appropriate guidance and warnings of risk-return trade-offs.
+3.2 In the case of placements, whether the proposed placement house where the
+clients’ funds shall be invested is regulated or not and where the placement house
+is regulated, the primary regulator.
+3.3 The risk-return characteristics of the proposed or underlying investments and
+implications to the investment corpus of the client.
+3.4 Volatility of the price and any limitations on the available market for such
+investments (liquidity risks).
+3.5 All costs and charges associated with the investments.
+3.6 Where funds are placed with related parties, the names of the related parties.
+3.7 Complaints procedure and contact information of internal and external
+dispute resolution mechanisms.
+3.8 Outline of actions and remedies client may take in the event of default by Fund
+Manager.
+3.9 Procedure for closing an account and transfer of funds.
+4.0 INVESTMENT OBJECTIVES, GUIDELINES AND STRATEGIES
+The investment objectives to be pursued by the Fund Manager shall be in accordance
+with the Investment Strategy and Asset Allocation Strategy agreed with the investor.
+4.1 The Fund Manager shall endeavor to maximize returns consistent with the
+Client’s investment characteristics as reflected in the Client’s risk tolerance
+level, return objectives, liquidity needs, time horizon and any other unique
+investment circumstances as documented in the Investment Strategy and Asset
+Allocation Strategy.
+4.2 The Fund Manager shall only invest in those instruments authorized under the
+Investment Strategy and Asset Allocation Strategy agreed with the investor and
+shall perform its duties with the standard of skill, care and judgment that would
+be expected of a professional investment manager.
+4.3 The Fund Manager shall use its best endeavors to observe sound management
+and financial practice and give no guarantee as to the performance or
+profitability of any of the assets held in the portfolio.
+4.4 The Fund Manager shall not be held responsible or be liable for any losses the
+Client may sustain unless attributable to fraud, bad faith, or proven gross
+negligence on the part of the Fund Manager.
+4.5 The Investment Strategy and Asset Allocation Strategy agreed with the investor
+may be amended, supplemented or substituted by the Investor upon written
+notice to the Fund Manager requesting such amendment, supplementing or
+substitution.
+5.0 REPORTING OBLIGATIONS
+5.1 The Fund Manager shall maintain records of all transactions relating to the
+Portfolio and shall make them available for inspection during normal working
+hours by authorized representatives of the Investor after prior written notice has
+been given to the Fund Manager.
+5.2 Unless otherwise agreed between the Parties, for a more frequent report, the Fund
+Manager shall on a quarterly basis provide the Investor with reports detailing
+funds received, withdrawals, transactions executed, performance and earnings;
+such report to be in a format to be agreed between the Parties.
+5.3 The Auditor of the Fund (appointed by the Investor) may audit the said reports
+at the end of each financial year.
+6.0 ACKNOWLEDGMENT OF RISK
+The Client acknowledges that he/she understands and is aware of the various risks that
+are involved in holding a portfolio of investments and especially the risks and exposure
+that may arise from holding equity, bond investments or alternative investments that
+may experience poor performance and/or capital losses. The Client understands that
+returns on investments offered by the Fund Manager are not guaranteed and may
+experience poor performance or result in a loss of capital.
+7.0 FEES
+7.1 The Fund Manager shall be paid a fee of ................................................
+7.2 The fees shall be accrued daily and paid at the end of each month.
+7.3 The Investor shall be liable for all statutory fees payable on management fees
+including but not limited to Value Added Tax (VAT), National Health Insurance
+Levy (NHIL) and GETFund Levy.
+8.0 KNOW YOUR CUSTOMER
+The Investor agrees to supply on request by the Fund Manager such documents and
+information as the Fund Manager shall request to fulfill its ‘Know Your Customer’ or
+other similar policy.
+9.0 REPRESENTATION AND WARRANTY
+Each Party represents and warrants to the other that it has been authorized to enter into
+this Agreement, the terms of which shall be legally binding and enforceable against it,
+and its entrance into this Agreement shall not violate any applicable law, its constitutive
+document or any other agreement to which it is a party.
+10.0 CONFIDENTIALITY
+10.1 The Fund Manager agrees to keep and to ensure that its personnel keep all
+information, documents and all other matters arising or coming to its or their
+attention regarding the Portfolio by reason of this Agreement confidential and
+not at any time for any reason whatsoever to disclose or permit same to be
+disclosed to any third party except as permitted hereunder to enable the Fund
+Manager to carry out its duties and obligations.
+10.2 The obligations of confidentiality referred to in clause 10.1 shall not apply to
+any confidential information which:
+10.2.1 is required to be disclosed by applicable law or by the order of a court of
+competent jurisdiction.
+10.2.2 is in the possession of [and is at the free disposal of] the Fund Manager
+or is published or is otherwise in the public domain prior to the receipt of
+such Confidential Information by the Fund Manager;
+10.2.3 is or becomes publicly available on a non-confidential basis through no
+fault of the Fund Manager;
+10.3 The obligations of the parties under this clause 10.1 shall survive the expiry or
+the termination of this Agreement for whatever reason.
+11.0 DURATION OF AGREEMENT, AMENDMENTS AND TERMINATION
+11.1 This Agreement shall come into effect on the date aforementioned and shall
+continue until terminated by either Party giving one (1) month’s written notice
+sent by registered post, delivered personally to the other Party or via Email sent
+by either party.
+11.2 Any variation to this Agreement shall only be effective if in writing and signed
+by an authorized representative of both parties to this Agreement.
+11.3 Termination of this Agreement or removal of assets from the Portfolio shall not
+affect any outstanding orders or transactions or other legal rights or obligations
+which may already have arisen or any contractual provision intended to survive
+termination and will be without penalty or other additional payments save that
+the Investor will pay:
+(i) the Fund Manager’s fee pro rata to the date of termination; and
+(ii) any losses necessarily realized in settling or concluding outstanding
+obligations. The Fund Manager shall complete transactions already in
+progress at the time of termination or removal.
+11.4 Upon termination of this Agreement, the Manager shall transfer the Portfolio or
+cause the Portfolio to be transferred to the Investor, its successor or assigns at
+the written direction of the Investor.
+11.5 This Agreement may be terminated immediately any situation arises for
+whatever reason in the sphere of operation of the Investor which makes the
+continuity of business of the Investor, and hence the continued operation of the
+Portfolio unreasonable.
+12.0 GOVERNING LAW
+This Agreement shall be governed and construed under the laws of Ghana.
+13.0 ARBITRATION
+Should any dispute arise between the Parties hereto in relation to this Agreement, the
+Parties shall use their best efforts to resolve the dispute, failing which; the same shall be
+referred to arbitration in accordance with the Alternative Dispute Resolution Act 2010,
+Act 798.
+14.0 MODE OF COMMUNICATION
+The official means of communication shall be by official letters or electronic mails only.
+AS WITNESS, the parties have caused this Investment Management Agreement to be duly
+signed by the undersigned authorized representatives for and on behalf of the parties the day
+and year first above written
+For and on behalf of Investor: In the presence of:
+Name: Name:
+Sign: Sign:
+................................................ ......................................................
+Date: Date:
+....................................................... ............................................................
+For and on behalf of the Manager: In the presence of:
+Name:
+.................................................. Name: .............................
+Job Title: Job Title:
+.................................................... ..............................................
+Sign:
+........................................................... Sign: ...............................................
+Date: Date:
+............................................................ ......................................................
+19

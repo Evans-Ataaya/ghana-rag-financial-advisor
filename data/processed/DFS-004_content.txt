@@ -1,0 +1,13 @@
+Mobile Money and Electronic Money Issuers Guidelines
+
+The Bank of Ghana issued these guidelines to regulate the operations of mobile money and electronic money issuers in Ghana.
+
+Agent Network Management: Mobile money providers must establish and maintain agent networks that comply with Know Your Customer (KYC) requirements. Agents must be trained and supervised. The agent network must cover both urban and rural areas to ensure financial inclusion.
+
+Transaction Limits: Daily transaction limits and monthly cumulative limits apply to mobile money accounts. Higher limits are available for fully KYC-compliant accounts. Minimum KYC requires a valid Ghana Card or national identification document.
+
+Float Management: Electronic money issuers must maintain float (customer funds) in accounts held at licensed banks. Float must be fully backed at all times. Interest earned on float must be distributed according to arrangements approved by the Bank of Ghana.
+
+Consumer Protection: Mobile money users have the right to reverse unauthorised transactions within a specified period. Providers must maintain toll-free customer service lines. Transaction receipts must be issued for all transactions via SMS or electronic notification.
+
+Interoperability: Mobile money providers must participate in the national interoperability framework enabling transfers between different mobile money wallets and between mobile money wallets and bank accounts through GhIPSS.

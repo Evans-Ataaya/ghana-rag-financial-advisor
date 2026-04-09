@@ -1,0 +1,13 @@
+eCedi Central Bank Digital Currency (CBDC) Pilot Documentation
+
+The Bank of Ghana is exploring the development of a central bank digital currency called the eCedi.
+
+Objectives: The eCedi programme aims to complement existing payment methods, promote financial inclusion, improve the efficiency of payment systems, and provide a secure digital alternative to physical cash.
+
+Design Principles: The eCedi is designed to be accessible to all Ghanaians including those without bank accounts. It operates on a two-tier distribution model where the Bank of Ghana issues the eCedi and commercial banks and authorised institutions distribute it to the public.
+
+Pilot Programme: The eCedi pilot tested the technology infrastructure, user experience, and operational processes in a controlled environment. The pilot involved selected financial institutions, merchants, and consumers.
+
+Integration: The eCedi is designed to be interoperable with existing payment systems including mobile money platforms, bank accounts, and the Ghana Interbank Payment and Settlement Systems (GhIPSS). This ensures seamless integration with the existing financial infrastructure.
+
+Privacy and Security: The eCedi incorporates privacy protections while maintaining the ability to comply with AML/CFT requirements. Transaction data is protected through encryption and access controls.

@@ -1,0 +1,11 @@
+National Payment Systems Strategy 2025-2029
+
+The Bank of Ghana developed this strategic roadmap for the modernisation and development of Ghana's payment systems infrastructure.
+
+Interoperability: The strategy prioritises full interoperability between mobile money wallets, bank accounts, and payment platforms. The Ghana Interbank Payment and Settlement Systems (GhIPSS) coordinates interoperability across all payment service providers.
+
+Open Banking: The strategy outlines a framework for open banking in Ghana, enabling third-party developers to access banking data and services through standardised APIs with customer consent. This is expected to drive innovation in financial products and services.
+
+Digital Payments Innovation: The strategy promotes the adoption of innovative payment technologies including QR code payments, contactless payments, and real-time gross settlement systems. The target is to increase the ratio of digital payments to GDP significantly by 2029.
+
+Financial Infrastructure: Investment in payment infrastructure including the expansion of agent networks, improvement of telecommunications connectivity in rural areas, and development of a national payment switch that connects all financial service providers.

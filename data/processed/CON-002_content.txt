@@ -1,0 +1,15 @@
+Data Protection Act, 2012 (Act 843)
+
+This Act protects the privacy of individuals with regard to personal data and establishes the Data Protection Commission as the regulatory body.
+
+Principles of Data Processing: Personal data must be processed fairly and lawfully. Data must be collected for specified, explicit, and legitimate purposes. Data collected must be adequate, relevant, and not excessive. Data must be accurate and kept up to date. Data must not be kept longer than necessary. Data must be processed in accordance with the rights of the data subject.
+
+Consent: Data processing requires the consent of the data subject unless an exception applies. Consent must be freely given, specific, informed, and unambiguous. Data subjects have the right to withdraw consent at any time.
+
+Data Subject Rights: The right to access personal data held by a data controller. The right to request correction of inaccurate data. The right to request deletion of data that is no longer necessary. The right to object to processing for direct marketing purposes.
+
+Data Controllers and Processors: Data controllers determine the purposes and means of processing personal data. Data processors process data on behalf of controllers. Both must implement appropriate security measures to protect personal data.
+
+Cross-Border Data Transfer: Personal data may only be transferred outside Ghana if the receiving country has adequate data protection laws or appropriate safeguards are in place.
+
+Financial Sector Application: Financial institutions processing customer data must comply with the Act. This includes KYC information, transaction records, credit histories, and any other personal financial data.

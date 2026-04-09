@@ -1,0 +1,13 @@
+Bank of Ghana Fintech and Innovation Office Publications
+
+The Bank of Ghana established the Fintech and Innovation Office to support the growth of financial technology innovation within a regulated environment.
+
+Regulatory Sandbox: The sandbox programme allows fintech companies to test innovative products and services in a controlled environment with regulatory oversight. Sandbox participants receive temporary regulatory exemptions while being monitored by the Bank of Ghana.
+
+Licensing Framework: The Bank of Ghana has established licensing categories for different types of fintech businesses including payment service providers (PSPs), dedicated electronic money issuers (DEMIs), and payment and financial technology service providers (PFTSPs).
+
+Innovation Hub: The innovation hub provides a platform for fintech entrepreneurs to engage with regulators, receive guidance on compliance requirements, and access resources for business development.
+
+Fintech Statistics: As of 2024, the Bank of Ghana had licensed dozens of fintech and payment service providers. The fintech sector has attracted significant foreign investment, with the highest publicly announced investment being a 30 million US dollar series B funding round.
+
+Collaboration: The Fintech and Innovation Office promotes collaboration between traditional financial institutions and fintech companies through partnerships, API integration, and shared infrastructure initiatives.

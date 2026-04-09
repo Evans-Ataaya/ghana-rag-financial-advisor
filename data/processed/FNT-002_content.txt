@@ -1,0 +1,13 @@
+Virtual Asset Service Providers Bill, 2025
+
+This Bill establishes the regulatory framework for virtual asset service providers in Ghana.
+
+Scope: The Bill covers activities including exchange between virtual assets and fiat currencies, exchange between virtual assets, transfer of virtual assets, safekeeping and administration of virtual assets, and participation in financial services related to virtual asset issuance or sale.
+
+Licensing: All virtual asset service providers must be licensed by the appropriate regulatory authority. The Securities and Exchange Commission serves as co-regulator under the Virtual Asset Service Providers Act, 2025 (Act 1154).
+
+AML/CFT Compliance: Virtual asset service providers are subject to anti-money laundering and counter-terrorist financing obligations including customer due diligence, transaction monitoring, suspicious transaction reporting, and record keeping.
+
+Consumer Protection: Providers must clearly disclose risks associated with virtual asset investments. Customer funds must be segregated from the provider's own funds. Providers must maintain adequate insurance or reserves to cover potential losses.
+
+Cryptocurrency in Ghana: Digital currencies including Bitcoin and Tether have seen significant adoption in Ghana, with over 10 billion US dollars in cryptocurrency transactions recorded in recent years.

@@ -1,0 +1,13 @@
+Anti-Money Laundering Act, 2020 (Act 1044)
+
+This Act provides the legal framework for preventing and detecting money laundering and terrorist financing in Ghana. It applies to all financial institutions, designated non-financial businesses and professions, and virtual asset service providers.
+
+Customer Due Diligence (CDD): All accountable institutions must verify the identity of customers before establishing a business relationship. Enhanced due diligence is required for politically exposed persons (PEPs), correspondent banking relationships, and transactions involving high-risk countries.
+
+Know Your Customer (KYC): Financial institutions must obtain and verify customer identification using the Ghana Card (national identification), passport, or voter's ID. Ongoing monitoring of business relationships is mandatory. Institutions must maintain records of all transactions for a minimum of five years.
+
+Suspicious Transaction Reporting: Accountable institutions must report suspicious transactions to the Financial Intelligence Centre (FIC) within 24 hours. A suspicious transaction is any transaction that gives rise to a reasonable suspicion that the transaction involves proceeds of unlawful activity or is related to terrorist financing.
+
+Virtual Asset Service Providers: Section 63 of the Act recognises the existence of virtual asset service providers and subjects them to AML/CFT obligations including customer due diligence, record keeping, and suspicious transaction reporting.
+
+Penalties: Money laundering carries a penalty of imprisonment for not less than 5 years and not more than 10 years. Failure to report suspicious transactions carries a fine of not less than 500 penalty units.

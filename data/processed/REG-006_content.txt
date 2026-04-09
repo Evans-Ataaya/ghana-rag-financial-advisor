@@ -1,0 +1,15 @@
+Cyber and Information Security Directive (CISD) 2026
+
+The Bank of Ghana issued this directive to strengthen cybersecurity in Ghana's financial sector, establishing a comprehensive framework for threat detection, preparedness, and response.
+
+AI Governance: The directive introduces governance frameworks for artificial intelligence deployed in financial services, including requirements for algorithmic transparency, bias monitoring, and human oversight of automated decision-making systems.
+
+Cloud Security: Financial institutions using cloud computing services must comply with stricter security requirements including data residency provisions, encryption standards, and vendor risk management protocols.
+
+Board Accountability: The directive mandates board-level accountability for cybersecurity, requiring each financial institution's board to designate a member responsible for overseeing cyber risk management.
+
+FICSOC Expansion: The Financial Industry Security Operations Centre (FICSOC) is expanded to include all financial institutions, creating a coordinated national defence system for real-time threat intelligence sharing and incident response.
+
+Data Sovereignty: Sensitive financial data must remain within national borders. Financial institutions must ensure that customer data processed by third parties is stored and managed in accordance with Ghanaian data protection laws.
+
+Risk-Based Approach: The directive adopts a proportionality framework that calibrates cybersecurity requirements based on the size, complexity, and risk profile of each financial institution.

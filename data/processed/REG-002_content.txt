@@ -1,0 +1,14 @@
+Banks and Specialised Deposit-Taking Institutions Act, 2016 (Act 930)
+
+This Act provides the regulatory framework for banks and specialised deposit-taking institutions in Ghana. It establishes the licensing requirements, minimum capital requirements, and corporate governance standards for all banking institutions operating in Ghana.
+
+Key Provisions:
+The minimum capital requirement for universal banks in Ghana is 400 million Ghana cedis. Specialised deposit-taking institutions including savings and loans companies, finance houses, and mortgage finance companies have separate capital requirements. The Bank of Ghana has supervisory authority over all banks and non-bank financial institutions.
+
+Corporate Governance: Banks must have a board of directors with at least two independent directors. The board must establish audit, risk, and compliance committees. Directors and key management personnel must meet fit and proper criteria assessed by the Bank of Ghana.
+
+Prudential Requirements: Banks must maintain a minimum capital adequacy ratio of 13% for Tier 1 capital and 16% for total capital. Liquidity requirements mandate a minimum liquidity ratio of 30%. Single obligor limits restrict lending to any single borrower to 25% of the bank's net own funds.
+
+Consumer Protection: Banks must disclose all fees, charges, and interest rates to customers before entering into any financial transaction. Complaints handling procedures must be established and customers must be informed of their right to escalate complaints to the Bank of Ghana.
+
+Penalties: Operating without a licence carries penalties of not less than 2,500 penalty units for body corporates. Providing false or misleading information to the Bank of Ghana is an offence punishable by imprisonment.
