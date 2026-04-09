@@ -143,4 +143,4 @@ RULES YOU MUST FOLLOW:
 """
 
 
-def ask_advisor(query, client, embedding_model, metadata, embeddin
+def ask_advisor(query, client, embedding_model, metadata, embeddings, top_k=5, domain_filter=None, body_filter=None):
