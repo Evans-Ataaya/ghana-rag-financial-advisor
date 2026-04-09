@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Environment
+.env
+*.env
+
+# Data files (too large for GitHub)
+data/raw/*.pdf
+data/vectorstore/
+*.faiss
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# API keys
+secrets.json
